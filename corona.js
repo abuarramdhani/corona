@@ -58,10 +58,10 @@ jQuery.ajax({
   url: 'https://services1.arcgis.com/0MSEUqKaxRlEPj5g/arcgis/rest/services/cases_time/FeatureServer/0/query?f=json&where=Report_Date%3C%3D%272020-01-31%2016%3A59%3A59%27&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&orderByFields=Report_Date%20asc&resultOffset=0&resultRecordCount=2000&cacheHint=true',
   dataType: 'json',
   success: function(response) {
-    dt = response.features;
+    data = response.features;
 
-    for (var i = 0; i < (dt.length - 1); i++) {
-      var obj = dt[i];
+    for (var i = 0; i < data.length; i++) {
+      var obj = data[i];
       var dateTimeString = moment(obj.attributes.Report_Date).format("D MMM YYYY").toString();
       date.push(dateTimeString.split(" "));
 
