@@ -44,6 +44,9 @@ jQuery.ajax({
     $("#confirmed").html(confirmed_total);
     $("#recovered").html(recovered);
     $("#deaths").html(deaths);
+    $("#confirmed_2").html(confirmed_total);
+    $("#recovered_2").html(recovered);
+    $("#deaths_2").html(deaths);
   },
   error: function() {}
 });
