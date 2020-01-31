@@ -72,14 +72,14 @@ jQuery.ajax({
     var lineChartData = {
       labels: date,
       datasets: [{
-        label: 'Mainland China',
+        label: 'China',
         borderColor: 'rgb(255,69,0)',
         backgroundColor: 'rgb(255,69,0)',
         fill: false,
         data: mainland_china,
         yAxisID: 'y-axis-1',
       }, {
-        label: 'Other Locations',
+        label: 'Negara Lain',
         borderColor: 'rgb(65,105,225)',
         backgroundColor: 'rgb(65,105,225)',
         fill: false,
