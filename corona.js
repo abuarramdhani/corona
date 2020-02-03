@@ -58,7 +58,7 @@ var other_locations = [];
 
 jQuery.ajax({
   type: 'GET',
-  url: 'https://services1.arcgis.com/0MSEUqKaxRlEPj5g/arcgis/rest/services/cases_time/FeatureServer/0/query?f=json&where=Report_Date%3C%3D%272020-01-31%2016%3A59%3A59%27&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&orderByFields=Report_Date%20asc&resultOffset=0&resultRecordCount=2000&cacheHint=true',
+  url: 'https://services1.arcgis.com/0MSEUqKaxRlEPj5g/arcgis/rest/services/cases_time/FeatureServer/0/query?f=json&where=Report_Date%3C%3D%272020-02-29%2016%3A59%3A59%27&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&orderByFields=Report_Date%20asc&outSR=102100&resultOffset=0&resultRecordCount=2000&cacheHint=true',
   dataType: 'json',
   success: function(response) {
     data = response.features;
