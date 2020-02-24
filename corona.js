@@ -55,6 +55,7 @@ jQuery.ajax({
 var date = [];
 var mainland_china = [];
 var other_locations = [];
+var total_recovered = [];
 
 jQuery.ajax({
   type: 'GET',
@@ -70,6 +71,7 @@ jQuery.ajax({
 
       mainland_china.push(obj.attributes.Mainland_China);
       other_locations.push(obj.attributes.Other_Locations);
+      total_recovered.push(obj.attributes.Total_Recovered);
     }
 
     var lineChartData = {
@@ -87,6 +89,12 @@ jQuery.ajax({
         backgroundColor: 'rgb(65,105,225)',
         fill: false,
         data: other_locations
+      }, {
+        label: 'Sembuh',
+        borderColor: 'rgb(34,139,34)',
+        backgroundColor: 'rgb(34,139,34)',
+        fill: false,
+        data: total_recovered
       }]
     };
 
