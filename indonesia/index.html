@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+  <title>Virus Corona (COVID-19)</title>
+  <!--<meta http-equiv="refresh" content="3; url = https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6" />-->
+
+  <meta charset="utf-8" />
+  <meta name="theme-color" content="#ffffff" />
+  <meta name="msapplication-navbutton-color" content="#ffffff" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="#ffffff" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+  <meta name="title" content="COVID-19" />
+  <meta name="description" content="Kasus COVID-19 di Indonesia" />
+  <meta name="author" content="hanifmu.com" />
+
+  <meta property="og:locale" content="id_ID" />
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="corona.hanifmu.com" />
+  <meta property="og:url" content="https://corona.hanifmu.com/indonesia" />
+  <meta property="og:title" content="COVID-19" />
+  <meta property="og:description" content="Kasus COVID-19 di Indonesia" />
+  <meta property="og:image" content="https://rawcdn.githack.com/muhammadhanif/corona/086a12c0d7e0fcf8475f4d24024948d86c89dc1d/corona.png" />
+  <meta property="og:image:secure_url" content="https://rawcdn.githack.com/muhammadhanif/corona/086a12c0d7e0fcf8475f4d24024948d86c89dc1d/corona.png" />
+
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:url" content="https://corona.hanifmu.com/indonesia">
+  <meta name="twitter:title" content="COVID-19" />
+  <meta name="twitter:description" content="Kasus COVID-19 di Indonesia" />
+  <meta name="twitter:image" content="https://rawcdn.githack.com/muhammadhanif/corona/086a12c0d7e0fcf8475f4d24024948d86c89dc1d/corona.png" />
+
+  <link rel="canonical" href="https://corona.hanifmu.com/indonesia" />
+  <link rel='shortcut icon' type='image/x-icon' href='https://rawcdn.githack.com/muhammadhanif/muhammadhanif.github.io/0fab8132bf1f5d68c5351c362f18883839e4ad48/assets/images/hanifmu-ico.png' />
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Abel&display=swap" />
+
+  <style>
+    body {
+      background-color: #ffffff;
+    }
+
+    .title {
+      font-family: 'Abel', sans-serif;
+    }
+
+    .list-inline {
+      padding-left: 0;
+      list-style: none;
+    }
+
+    .list-inline-item {
+      display: inline-block;
+    }
+
+    .pd-top {
+      padding-top: 1em;
+    }
+
+    .center {
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+    }
+
+    .maroon {
+      color: maroon;
+    }
+
+  </style>
+
+</head>
+
+<body>
+  <main role="main" class="container">
+    <div class="row">
+      <div class="col-sm text-center pd-top">
+        <ul class="list-inline">
+          <li class="list-inline-item">
+            <i class="fas fa-bug fa-4x maroon"></i>
+          </li>
+        </ul>
+        <h3 class="title">Kasus COVID-19 di Indonesia</h3>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-sm" style="padding-top: 1em">
+        <div class="card text-center text-white bg-danger">
+          <div class="card-header">
+            Terinfeksi
+          </div>
+          <div class="card-body">
+            <h1 class="card-title" id="confirmed"></h1>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm" style="padding-top: 1em">
+        <div class="card text-center text-white bg-success">
+          <div class="card-header">
+            Sembuh
+          </div>
+          <div class="card-body">
+            <h1 class="card-title" id="recovered"></h1>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm" style="padding-top: 1em">
+        <div class="card text-center text-white bg-dark">
+          <div class="card-header">
+            Meninggal
+          </div>
+          <div class="card-body">
+            <h1 class="card-title" id="deaths"></h1>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </main>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+  <script src="https://kit.fontawesome.com/a2190bf9cd.js" crossorigin="anonymous"></script>
+
+  <script>
+    jQuery.ajax({
+      type: 'GET',
+      url: 'https://kawalcovid19.harippe.id/api/summary',
+      dataType: 'json',
+      success: function(response) {
+        var confirmed = response.confirmed.value;
+        var recovered = response.recovered.value;
+        var deaths = response.deaths.value;
+
+        $("#confirmed").html(confirmed);
+        $("#recovered").html(recovered);
+        $("#deaths").html(deaths);
+      },
+      error: function() {}
+    });
+  </script>
+</body>
+
+</html>
