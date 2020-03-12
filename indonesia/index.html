@@ -70,7 +70,6 @@
     .maroon {
       color: maroon;
     }
-
   </style>
 
 </head>
@@ -121,6 +120,27 @@
       </div>
     </div>
 
+    <div class="row pd-top pd-bottom">
+      <div class="col-sm">
+        <div class="card">
+          <div class="card-header">
+            RSS Feed
+          </div>
+          <div class="card-body">
+            <small id="loading"><i>Loading data ...</i></small>
+            <ul id="infeksiemerging"></ul>
+          </div>
+          <div class="card-footer">
+            <div class="center">
+              <a href="https://infeksiemerging.kemkes.go.id/" target="_blank">
+                <button type="button" class="btn btn-primary">infeksiemerging.kemkes.go.id</button>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
   </main>
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
@@ -141,6 +161,27 @@
         $("#confirmed").html(confirmed);
         $("#recovered").html(recovered);
         $("#deaths").html(deaths);
+      },
+      error: function() {}
+    });
+  </script>
+
+  <script>
+    jQuery.ajax({
+      type: 'GET',
+      url: 'https://hnf-cors.herokuapp.com/?https://infeksiemerging.kemkes.go.id/feed/',
+      dataType: 'xml',
+      success: function(response) {
+        $(response).find("item").each(function() {
+          var el = $(this);
+
+          $('#infeksiemerging').append('<li>' +
+            '<a href="' + el.find("link").text() + '" target="_blank">' + el.find("title").text() + '.</a>' +
+            '</li>');
+
+          $('#loading').hide();
+
+        });
       },
       error: function() {}
     });
