@@ -5,10 +5,10 @@
   <title>COVID-19</title>
 
   <meta charset="utf-8" />
-  <meta name="theme-color" content="#ffffff" />
-  <meta name="msapplication-navbutton-color" content="#ffffff" />
+  <meta name="theme-color" content="#1C2833" />
+  <meta name="msapplication-navbutton-color" content="#1C2833" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
-  <meta name="apple-mobile-web-app-status-bar-style" content="#ffffff" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="#1C2833" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
   <meta name="title" content="COVID-19" />
   <meta name="description" content="Kasus COVID-19 di Indonesia" />
@@ -36,11 +36,9 @@
 
   <style>
     body {
-      background-color: #ffffff;
-    }
-
-    .title {
+      background-color: #1C2833;
       font-family: 'Abel', sans-serif;
+      color: white;
     }
 
     .list-inline {
@@ -56,120 +54,97 @@
       padding-top: 1em;
     }
 
-    .pd-bottom {
-      padding-bottom: 1em;
+    .pd-top-05 {
+      padding-bottom: 0.5em;
     }
 
-    .center {
-      justify-content: center;
-      align-items: center;
-      text-align: center;
+    .space {
+      padding-top: 3em;
+      padding-bottom: 3em;
     }
 
-    .maroon {
-      color: maroon;
-    }
   </style>
 
 </head>
 
 <body>
-  <main role="main" class="container">
+  <main role="main" class="container space">
     <div class="row">
-      <div class="col-sm text-center pd-top">
+      <div class="col-sm text-center">
         <ul class="list-inline">
           <li class="list-inline-item">
-            <i class="fas fa-bug fa-4x maroon"></i>
+            <i class="fas fa-bug fa-4x"></i>
           </li>
         </ul>
-        <h3 class="title">Kasus COVID-19 di Indonesia</h3>
+        <h3>KASUS COVID-19 DI INDONESIA</h3>
       </div>
     </div>
 
-    <div class="row pd-bottom">
-      <div class="col-sm" style="padding-top: 1em">
-        <div class="card text-center text-white bg-danger">
+    <div class="row">
+      <div class="col-sm pd-top">
+        <div class="card text-center bg-danger">
           <div class="card-header">
             Terinfeksi
           </div>
           <div class="card-body">
-            <h1 class="card-title" id="confirmed"></h1>
+            <h2 class="card-title" id="confirmed"></h2>
           </div>
         </div>
       </div>
-      <div class="col-sm" style="padding-top: 1em">
-        <div class="card text-center text-white bg-success">
+      <div class="col-sm pd-top">
+        <div class="card text-center bg-success">
           <div class="card-header">
             Sembuh
           </div>
           <div class="card-body">
-            <h1 class="card-title" id="recovered"></h1>
+            <h2 class="card-title" id="recovered"></h2>
           </div>
         </div>
       </div>
-      <div class="col-sm" style="padding-top: 1em">
-        <div class="card text-center text-white bg-dark">
+      <div class="col-sm pd-top">
+        <div class="card text-center bg-secondary">
           <div class="card-header">
             Meninggal
           </div>
           <div class="card-body">
-            <h1 class="card-title" id="deaths"></h1>
+            <h2 class="card-title" id="deaths"></h2>
           </div>
         </div>
       </div>
     </div>
 
-    <!--
-    <div class="row pd-top pd-bottom">
+    <div class="row pd-top">
       <div class="col-sm">
-        <div class="card">
-          <div class="card-header">
-            RSS Feed
-          </div>
-          <div class="card-body">
-            <small id="loading"><i>Loading data ...</i></small>
-            <ul id="infeksiemerging"></ul>
-          </div>
-          <div class="card-footer">
-            * Diambil dari situs <a href="https://infeksiemerging.kemkes.go.id/" target="_blank"> Infeksi Emerging (Kementerian Kesehatan)</a>
-          </div>
-        </div>
-      </div>
-    </div>
-    -->
-
-    <div class="row pd-top pd-bottom">
-      <div class="col-sm">
-        <div class="card">
-          <div class="card-header">
+        <div class="card bg-dark">
+          <div class="card-header text-center">
             Pranala Penting
           </div>
           <div class="card-body">
             <div class="row">
               <div class="col-sm">
-                <div>
+                <div class="pd-top-05">
                   <a target="_blank" href="https://infeksiemerging.kemkes.go.id/" class="btn btn-primary btn-lg btn-block active" role="button" aria-pressed="true">Infeksi Emerging (Kementerian Kesehatan)</a>
                 </div>
-                <div style="padding-top: 0.5em">
+                <div class="pd-top-05">
                   <a target="_blank" href="https://kawalcovid19.maps.arcgis.com/apps/webappviewer/index.html?id=61f29ce6c77549daa5b3de8a28a3a8e0" class="btn btn-primary btn-lg btn-block active" role="button" aria-pressed="true">Peta Rumah Sakit
                     Rujukan COVID-19</a>
                 </div>
-                <div style="padding-top: 0.5em">
+                <div class="pd-top-05">
                   <a target="_blank" href="https://corona.jakarta.go.id/" class="btn btn-primary btn-lg btn-block active" role="button" aria-pressed="true">Jakarta Tanggap COVID-19</a>
                 </div>
-                <div style="padding-top: 0.5em">
+                <div class="pd-top-05">
                   <a target="_blank" href="https://pikobar.jabarprov.go.id/" class="btn btn-primary btn-lg btn-block active" role="button" aria-pressed="true">Pusat Informasi & Koordinasi COVID-19 Jawa Barat</a>
                 </div>
-                <div style="padding-top: 0.5em">
+                <div class="pd-top-05">
                   <a target="_blank" href="https://kawalcovid19.id/" class="btn btn-primary btn-lg btn-block active" role="button" aria-pressed="true">kawalcovid19.id</a>
                 </div>
-                <div style="padding-top: 0.5em">
+                <div class="pd-top-05">
                   <a target="_blank" href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019" class="btn btn-primary btn-lg btn-block active" role="button" aria-pressed="true">WHO</a>
                 </div>
-                <div style="padding-top: 0.5em">
+                <div class="pd-top-05">
                   <a target="_blank" href="https://www.unicef.org/indonesia/id/coronavirus" class="btn btn-primary btn-lg btn-block active" role="button" aria-pressed="true">UNICEF Indonesia</a>
                 </div>
-                <div style="padding-top: 0.5em">
+                <div class="pd-top-05">
                   <a target="_blank" href="https://arcg.is/0fHmTX" class="btn btn-primary btn-lg btn-block active" role="button" aria-pressed="true">Peta Kasus Global COVID-19</a>
                 </div>
               </div>
@@ -203,29 +178,6 @@
       error: function() {}
     });
   </script>
-
-  <!--
-  <script>
-    jQuery.ajax({
-      type: 'GET',
-      url: 'https://hnf-cors.herokuapp.com/?https://infeksiemerging.kemkes.go.id/feed/',
-      dataType: 'xml',
-      success: function(response) {
-        $(response).find("item").each(function() {
-          var el = $(this);
-
-          $('#infeksiemerging').append('<li>' +
-            '<a href="' + el.find("link").text() + '" target="_blank">' + el.find("title").text() + '.</a>' +
-            '</li>');
-
-          $('#loading').hide();
-
-        });
-      },
-      error: function() {}
-    });
-  </script>
-  -->
 </body>
 
 </html>
