@@ -143,6 +143,9 @@
                     <div class="card-header">PROVINSI</div>
                     <div class="card-body">
                       <div>
+                        <a target="_blank" href="https://corona.kepriprov.go.id/" class="btn btn-primary btn-lg btn-block active" role="button" aria-pressed="true">Kepulauan Riau</a>
+                      </div>
+                      <div class="pd-top-05">
                         <a target="_blank" href="https://infocorona.bantenprov.go.id/" class="btn btn-primary btn-lg btn-block active" role="button" aria-pressed="true">Banten</a>
                       </div>
                       <div class="pd-top-05">
@@ -159,6 +162,9 @@
                       </div>
                       <div class="pd-top-05">
                         <a target="_blank" href="https://checkupcovid19.jatimprov.go.id/" class="btn btn-primary btn-lg btn-block active" role="button" aria-pressed="true">Jawa Timur</a>
+                      </div>
+                      <div class="pd-top-05">
+                        <a target="_blank" href="https://corona.ntbprov.go.id/" class="btn btn-primary btn-lg btn-block active" role="button" aria-pressed="true">Nusa Tenggara Barat</a>
                       </div>
                     </div>
                   </div>
@@ -195,6 +201,24 @@
   <script src="https://kit.fontawesome.com/a2190bf9cd.js" crossorigin="anonymous"></script>
 
   <script>
+    function formatted(number) {
+      if (number >= 1000){
+        var number_string = number.toString();
+        var modulo = number_string.length % 3;
+        var formatted = number_string.substr(0, modulo);
+        var thousands = number_string.substr(modulo).match(/\d{3}/g);
+
+        if (modulo) {
+          separator = modulo ? '.' : '';
+          formatted += separator + thousands.join('.');
+        }
+      }else{
+        formatted = number;
+      }
+
+      return formatted;
+    }
+
     jQuery.ajax({
       type: 'GET',
       url: 'https://kawalcovid19.harippe.id/api/summary',
@@ -204,9 +228,9 @@
         var recovered = response.recovered.value;
         var deaths = response.deaths.value;
 
-        $("#confirmed").html(confirmed);
-        $("#recovered").html(recovered);
-        $("#deaths").html(deaths);
+        $("#confirmed").html(formatted(confirmed));
+        $("#recovered").html(formatted(recovered));
+        $("#deaths").html(formatted(deaths));
       },
       error: function() {
         $("#confirmed").html("-");
