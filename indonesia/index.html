@@ -208,7 +208,11 @@
         $("#recovered").html(recovered);
         $("#deaths").html(deaths);
       },
-      error: function() {}
+      error: function() {
+        $("#confirmed").html("-");
+        $("#recovered").html("-");
+        $("#deaths").html("-");
+      }
     });
   </script>
 </body>
