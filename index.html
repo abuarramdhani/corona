@@ -150,6 +150,7 @@
                   <table id="example" class="table table-dark table-bordered dt-responsive nowrap" style="width:100%">
                     <thead>
                       <tr class="text-center">
+                        <th></th>
                         <th>Provinsi</th>
                         <th>Positif</th>
                         <th>Sembuh</th>
@@ -158,6 +159,7 @@
                     </thead>
                     <tfoot>
                       <tr class="text-center">
+                        <th></th>
                         <th>Provinsi</th>
                         <th>Positif</th>
                         <th>Sembuh</th>
@@ -224,28 +226,47 @@
 
   <script>
     $(document).ready(function() {
-      $('#example').DataTable({
-        "paging": false,
+      var t = $('#example').DataTable({
         "ajax": {
           "url": "https://services5.arcgis.com/VS6HdKS0VfIhv8Ct/arcgis/rest/services/COVID19_Indonesia_per_Provinsi/FeatureServer/0/query?f=json&where=(Kasus_Posi%20%3C%3E%200)%20AND%20(Provinsi%20%3C%3E%20%27Indonesia%27)&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&orderByFields=Kasus_Posi%20desc&outSR=102100&resultOffset=0&resultRecordCount=34&cacheHint=true",
           "dataSrc": "features"
         },
+        "paging": false,
         "order": [
-          [1, "desc"]
+          [2, "desc"]
         ],
+        "columnDefs": [{
+          "searchable": false,
+          "orderable": false,
+          "targets": 0
+        }],
         "columns": [{
+            "data": null
+          }, {
             "data": "attributes.Provinsi"
           },
           {
-            "data": "attributes.Kasus_Posi", "sClass": "text-center"
+            "data": "attributes.Kasus_Posi",
+            "sClass": "text-center"
           },
           {
-            "data": "attributes.Kasus_Semb", "sClass": "text-center"
+            "data": "attributes.Kasus_Semb",
+            "sClass": "text-center"
           },
           {
-            "data": "attributes.Kasus_Meni", "sClass": "text-center"
+            "data": "attributes.Kasus_Meni",
+            "sClass": "text-center"
           }
         ]
+      });
+
+      t.on('draw.dt', function() {
+        var PageInfo = $('#example').DataTable().page.info();
+        t.column(0, {
+          page: 'current'
+        }).nodes().each(function(cell, i) {
+          cell.innerHTML = i + 1 + PageInfo.start;
+        });
       });
     });
   </script>
