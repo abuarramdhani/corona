@@ -43,9 +43,6 @@
   <link rel="preload" as="font" crossorigin="anonymous" href="https://fonts.gstatic.com/s/abel/v10/MwQ5bhbm2POE2V9BPbh5uGM.woff2" />
   <link rel="preload" as="font" crossorigin="anonymous" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/webfonts/fa-solid-900.woff2" />
 
-  <link rel="preload" as="fetch" crossorigin="anonymous" href="https://kawalcovid19.harippe.id/api/summary" />
-  <link rel="preload" as="fetch" crossorigin="anonymous" href="https://services5.arcgis.com/VS6HdKS0VfIhv8Ct/arcgis/rest/services/COVID19_Indonesia_per_Provinsi/FeatureServer/0/query?f=json&where=(Kasus_Posi%20%3C%3E%200)%20AND%20(Provinsi%20%3C%3E%20%27Indonesia%27)&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&orderByFields=Kasus_Posi%20desc&outSR=102100&resultOffset=0&resultRecordCount=34&cacheHint=true&_=1585144205293" />
-
   <meta property="og:locale" content="id_ID" />
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="corona.hanifmu.com" />
@@ -300,7 +297,8 @@
       var t = $('#example').DataTable({
         "ajax": {
           "url": "https://services5.arcgis.com/VS6HdKS0VfIhv8Ct/arcgis/rest/services/COVID19_Indonesia_per_Provinsi/FeatureServer/0/query?f=json&where=(Kasus_Posi%20%3C%3E%200)%20AND%20(Provinsi%20%3C%3E%20%27Indonesia%27)&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&orderByFields=Kasus_Posi%20desc&outSR=102100&resultOffset=0&resultRecordCount=34&cacheHint=true",
-          "dataSrc": "features"
+          "dataSrc": "features",
+          "deferRender": true
         },
         "paging": false,
         "order": [
