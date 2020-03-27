@@ -1,0 +1,219 @@
+{
+  "features": [{
+    "attributes": {
+      "group_name": "PEMERINTAH PUSAT",
+      "slug": "pemerintah-pusat",
+      "lists": [{
+        "name": "Kementerian Kesehatan",
+        "url": "https://infeksiemerging.kemkes.go.id/"
+      }, {
+        "name": "Gugus Tugas Percepatan Penanganan COVID-19",
+        "url": "https://www.covid19.go.id/"
+      }, {
+        "name": "Peta Rumah Sakit Rujukan COVID-19",
+        "url": "https://bnpb-inacovid19.hub.arcgis.com/app/rumah-sakit-rujukan-penanganan-covid-19"
+      }, {
+        "name": "Data Kasus dan Peta Persebaran COVID-19",
+        "url": "https://experience.arcgis.com/experience/57237ebe9c5b4b1caa1b93e79c920338"
+      }]
+    }
+  }, {
+    "attributes": {
+      "group_name": "ACEH",
+      "slug": "aceh",
+      "lists": [{
+        "name": "Pemerintah Provinsi Aceh",
+        "url": "https://covid19.acehprov.go.id/"
+      }]
+    }
+  }, {
+    "attributes": {
+      "group_name": "SUMATERA BARAT",
+      "slug": "sumatera-barat",
+      "lists": [{
+        "name": "Pemerintah Provinsi Sumatera Barat",
+        "url": "https://corona.sumbarprov.go.id/"
+      }, {
+        "name": "Pemerintah Kota Padang",
+        "url": "https://dinkes.padang.go.id/"
+      }]
+    }
+  }, {
+    "attributes": {
+      "group_name": "SUMATERA SELATAN",
+      "slug": "sumatera-selatan",
+      "lists": [{
+        "name": "Pemerintah Provinsi Sumatera Selatan",
+        "url": "http://corona.sumselprov.go.id/index.php?module=home&id=1"
+      }]
+    }
+  }, {
+    "attributes": {
+      "group_name": "RIAU",
+      "slug": "riau",
+      "lists": [{
+        "name": "Pemerintah Provinsi Riau",
+        "url": "https://corona.riau.go.id/"
+      }]
+    }
+  }, {
+    "attributes": {
+      "group_name": "KEPULAUAN RIAU",
+      "slug": "kepulauan-riau",
+      "lists": [{
+        "name": "Pemerintah Provinsi Kepulauan Riau",
+        "url": "https://corona.kepriprov.go.id/"
+      }, {
+        "name": "Pemerintah Kota Batam",
+        "url": "https://lawancorona.batam.go.id"
+      }]
+    }
+  }, {
+    "attributes": {
+      "group_name": "LAMPUNG",
+      "slug": "lampung",
+      "lists": [{
+        "name": "Pemerintah Provinsi Lampung",
+        "url": "http://geoportal.lampungprov.go.id/corona/"
+      }]
+    }
+  }, {
+    "attributes": {
+      "group_name": "BANTEN",
+      "slug": "banten",
+      "lists": [{
+        "name": "Pemerintah Provinsi Banten",
+        "url": "https://infocorona.bantenprov.go.id/"
+      }]
+    }
+  }, {
+    "attributes": {
+      "group_name": "JAKARTA",
+      "slug": "jakarta",
+      "lists": [{
+        "name": "Pemerintah Provinsi DKI Jakarta",
+        "url": "https://corona.jakarta.go.id/"
+      }]
+    }
+  }, {
+    "attributes": {
+      "group_name": "JAWA BARAT",
+      "slug": "jawa-barat",
+      "lists": [{
+        "name": "Pemerintah Provinsi Jawa Barat",
+        "url": "https://pikobar.jabarprov.go.id/"
+      }, {
+        "name": "Pemerintah Kota Bandung",
+        "url": "https://covid19.bandung.go.id/"
+      }, {
+        "name": "Pemerintah Kota Bekasi",
+        "url": "http://corona.bekasikota.go.id/"
+      }, {
+        "name": "Pemerintah Kota Bogor",
+        "url": "http://www.covid19.kotabogor.go.id/"
+      }, {
+        "name": "Pemerintah Kota Depok",
+        "url": "http://ccc-19.depok.go.id/"
+      }, {
+        "name": "Pemerintah Kota Tangerang",
+        "url": "https://maps.tangerangkota.go.id/corona/"
+      }]
+    }
+  }, {
+    "attributes": {
+      "group_name": "JAWA TENGAH",
+      "slug": "jawa-tengah",
+      "lists": [{
+        "name": "Pemerintah Provinsi Jawa Tengah",
+        "url": "https://corona.jatengprov.go.id/"
+      }, {
+        "name": "Pemerintah Kota Semarang",
+        "url": "https://siagacorona.semarangkota.go.id/"
+      }, {
+        "name": "Pemerintah Kota Tegal",
+        "url": "https://corona.tegalkota.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Kebumen",
+        "url": "https://corona.kebumenkab.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Kudus",
+        "url": "http://corona.kuduskab.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Wonosobo",
+        "url": "https://corona.wonosobokab.go.id/"
+      }]
+    }
+  },{
+    "attributes": {
+      "group_name": "YOGYAKARTA",
+      "slug": "yogyakarta",
+      "lists": [{
+        "name": "Pemerintah Provinsi DI Yogyakarta",
+        "url": "https://corona.jogjaprov.go.id/"
+      }]
+    }
+  },{
+    "attributes": {
+      "group_name": "JAWA TIMUR",
+      "slug": "jawa-timur",
+      "lists": [{
+        "name": "Pemerintah Provinsi Jawa Timur",
+        "url": "https://infocovid19.jatimprov.go.id/"
+      },{
+        "name": "Pemerintah Kota Malang",
+        "url": "http://coronadetektor.malangkota.go.id/"
+      },{
+        "name": "Pemerintah Kota Surabaya",
+        "url": "https://lawancovid-19.surabaya.go.id/"
+      },{
+        "name": "Pemerintah Kabupaten Banyuwangi",
+        "url": "https://corona.banyuwangikab.go.id/"
+      },{
+        "name": "Pemerintah Kabupaten Kediri",
+        "url": "https://covid19.kedirikab.go.id/"
+      },{
+        "name": "Pemerintah Kabupaten Lamongan",
+        "url": "https://lamongankab.go.id/dinkes/"
+      },{
+        "name": "Pemerintah Kabupaten Tuban",
+        "url": "https://tubankab.go.id/page/informasi-tentang-virus-corona-covid-19"
+      }]
+    }
+  },{
+    "attributes": {
+      "group_name": "KALIMANTAN BARAT",
+      "slug": "kalimantan-barat",
+      "lists": [{
+        "name": "Pemerintah Provinsi Kalimantan Barat",
+        "url": "https://dinkes.kalbarprov.go.id/covid-19/"
+      }]
+    }
+  },{
+    "attributes": {
+      "group_name": "SULAWESI SELATAN",
+      "slug": "sulawesi-selatan",
+      "lists": [{
+        "name": "Pemerintah Provinsi Sulawesi Selatan",
+        "url": "https://covid19.sulselprov.go.id/"
+      }]
+    }
+  },{
+    "attributes": {
+      "group_name": "NUSA TENGGARA BARAT",
+      "slug": "nusa-tenggara-barat",
+      "lists": [{
+        "name": "Pemerintah Provinsi Nusa Tenggara Barat",
+        "url": "https://corona.ntbprov.go.id/"
+      }]
+    }
+  },{
+    "attributes": {
+      "group_name": "Lainnya",
+      "slug": "lainnya",
+      "lists": [{
+        "name": "KawalCOVID19",
+        "url": "https://kawalcovid19.id/"
+      }]
+    }
+  }]
+}
