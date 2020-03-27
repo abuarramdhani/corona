@@ -52,15 +52,15 @@
   <div class="container-lg px-3 my-5 markdown-body" id="pranala">
     <h1><a href="https://corona.hanifmu.com/">corona.hanifmu.com</a></h1>
 
-    <h1>PRANALA</h1>
-    <p>Daftar situs yang menyajikan informasi tanggap COVID-19 milik Pemerintah Pusat, Pemerintah Daerah, dan lainnya.</p>
+    <h1 v-html="page.name"></h1>
+    <p v-html="page.description"></p>
 
     <template v-for="data in pranala">
-      <h2>{{ data.attributes.group_name }}</h2>
+      <h2 v-html="data.attributes.group_name"></h2>
 
       <ul>
         <template v-for="list in data.attributes.lists">
-          <li><a target="_blank" :href="list.url">{{ list.name }}</a></li>
+          <li><a target="_blank" :href="list.url" v-html="list.name"></a></li>
         </template>
       </ul>
     </template>
@@ -73,14 +73,16 @@
     new Vue({
       el: "#pranala",
       data: {
-        pranala: []
+        pranala: [],
+        page: []
       },
 
       async mounted() {
         await axios
           .get('https://corona.hanifmu.com/pranala/pranala.json')
           .then(json => [
-            this.pranala = json.data.features
+            this.pranala = json.data.features,
+            this.page = json.data.page[0],
           ])
           .catch(error => {
             console.log(error)

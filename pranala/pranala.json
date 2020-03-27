@@ -1,4 +1,10 @@
 {
+  "page":[{
+    "name": "PRANALA",
+    "description": "Daftar situs yang menyajikan informasi tanggap COVID-19 milik Pemerintah Pusat, Pemerintah Daerah, dan lainnya.",
+    "author": "Muhammad Hanif - hanifmu.com",
+    "url":"https://corona.hanifmu.com/pranala/"
+    }],
   "features": [{
     "attributes": {
       "group_name": "PEMERINTAH PUSAT",
