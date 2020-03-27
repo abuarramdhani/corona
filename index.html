@@ -171,13 +171,13 @@
       <div class="col">
         <div class="card  bg-dark">
           <div class="card-header">
-            Data Kasus per Provinsi
+            Data Kasus Per Provinsi
           </div>
           <div class="card-body">
             <div class="row">
               <div class="col">
                 <div class="table-responsive">
-                  <table id="example" class="table table-dark table-bordered dt-responsive nowrap" style="width:100%">
+                  <table id="example" class="table table-dark table-hover table-bordered dt-responsive nowrap" style="width:100%">
                     <thead>
                       <tr class="text-center">
                         <th></th>
@@ -209,7 +209,7 @@
       <div class="col-sm">
         <div class="card bg-dark">
           <div class="card-header">
-            Pranala Penting
+            Pranala
           </div>
           <div class="card-body">
             <a target="_blank" href="pranala/" class="btn btn-primary btn-lg btn-block" role="button" aria-pressed="true">Katalog Web COVID-19</a>
@@ -296,6 +296,9 @@
   <script type="text/javascript">
     $(document).ready(function() {
       var t = $('#example').DataTable({
+        "language":{
+          "url": "https://cdn.datatables.net/plug-ins/1.10.20/i18n/Indonesian.json"
+        },
         "ajax": {
           "url": "https://services5.arcgis.com/VS6HdKS0VfIhv8Ct/arcgis/rest/services/COVID19_Indonesia_per_Provinsi/FeatureServer/0/query?f=json&where=(Kasus_Posi%20%3C%3E%200)%20AND%20(Provinsi%20%3C%3E%20%27Indonesia%27)&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&orderByFields=Kasus_Posi%20desc&outSR=102100&resultOffset=0&resultRecordCount=34&cacheHint=true",
           "dataSrc": "features",
