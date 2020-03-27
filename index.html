@@ -33,13 +33,13 @@
   <link rel="preload" as="style" crossorigin="anonymous" href="https://cdn.datatables.net/1.10.20/css/dataTables.bootstrap4.min.css" />
   <link rel="preload" as="style" crossorigin="anonymous" href="https://cdn.datatables.net/responsive/2.2.3/css/responsive.bootstrap4.min.css" />
   <link rel="preload" as="style" crossorigin="anonymous" href="https://fonts.googleapis.com/css?family=Abel&display=swap" />
-
   <link rel="preload" as="script" crossorigin="anonymous" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" href="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" />
+  <link rel="preload" as="script" crossorigin="anonymous" integrity="sha256-ngFW3UnAN0Tnm76mDuu7uUtYEcG3G5H1+zioJw3t+68=" href="https://cdnjs.cloudflare.com/ajax/libs/vue/2.6.11/vue.min.js" />
+  <link rel="preload" as="script" crossorigin="anonymous" integrity="sha256-T/f7Sju1ZfNNfBh7skWn0idlCBcI3RwdLSS4/I7NQKQ=" href="https://cdnjs.cloudflare.com/ajax/libs/axios/0.19.2/axios.min.js" />
   <link rel="preload" as="script" crossorigin="anonymous" href="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.min.js" />
   <link rel="preload" as="script" crossorigin="anonymous" href="https://cdn.datatables.net/1.10.20/js/dataTables.bootstrap4.min.js" />
   <link rel="preload" as="script" crossorigin="anonymous" href="https://cdn.datatables.net/responsive/2.2.3/js/dataTables.responsive.min.js" />
   <link rel="preload" as="script" crossorigin="anonymous" href="https://cdn.datatables.net/responsive/2.2.3/js/responsive.bootstrap4.min.js" />
-
   <link rel="preload" as="font" crossorigin="anonymous" href="https://fonts.gstatic.com/s/abel/v10/MwQ5bhbm2POE2V9BPbh5uGM.woff2" />
   <link rel="preload" as="font" crossorigin="anonymous" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/webfonts/fa-solid-900.woff2" />
 
@@ -124,14 +124,14 @@
       </div>
     </div>
 
-    <div class="row">
+    <div class="row" id="nasional">
       <div class="col-sm pd-top">
         <div class="card text-center bg-danger">
           <div class="card-header">
             Terkonfirmasi
           </div>
           <div class="card-body">
-            <h2 class="card-title" id="confirmed">0</h2>
+            <h2 class="card-title">{{ confirmed }}</h2>
           </div>
         </div>
       </div>
@@ -141,7 +141,7 @@
             Dalam Perawatan
           </div>
           <div class="card-body">
-            <h2 class="card-title" id="activeCare">0</h2>
+            <h2 class="card-title">{{ activeCare }}</h2>
           </div>
         </div>
       </div>
@@ -151,7 +151,7 @@
             Sembuh
           </div>
           <div class="card-body">
-            <h2 class="card-title" id="recovered">0</h2>
+            <h2 class="card-title">{{ recovered }}</h2>
           </div>
         </div>
       </div>
@@ -161,7 +161,7 @@
             Meninggal
           </div>
           <div class="card-body">
-            <h2 class="card-title" id="deaths">0</h2>
+            <h2 class="card-title">{{ deaths }}</h2>
           </div>
         </div>
       </div>
@@ -241,11 +241,13 @@
 
   </main>
 
-  <script type="text/javascript"  crossorigin="anonymous" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-  <script type="text/javascript"  crossorigin="anonymous" src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.min.js"></script>
-  <script type="text/javascript"  crossorigin="anonymous" src="https://cdn.datatables.net/1.10.20/js/dataTables.bootstrap4.min.js"></script>
-  <script type="text/javascript"  crossorigin="anonymous" src="https://cdn.datatables.net/responsive/2.2.3/js/dataTables.responsive.min.js"></script>
-  <script type="text/javascript"  crossorigin="anonymous" src="https://cdn.datatables.net/responsive/2.2.3/js/responsive.bootstrap4.min.js"></script>
+  <script crossorigin="anonymous" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script crossorigin="anonymous" integrity="sha256-ngFW3UnAN0Tnm76mDuu7uUtYEcG3G5H1+zioJw3t+68=" src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.6.11/vue.min.js"></script>
+  <script crossorigin="anonymous" integrity="sha256-T/f7Sju1ZfNNfBh7skWn0idlCBcI3RwdLSS4/I7NQKQ=" src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.19.2/axios.min.js"></script>
+  <script crossorigin="anonymous" src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.min.js"></script>
+  <script crossorigin="anonymous" src="https://cdn.datatables.net/1.10.20/js/dataTables.bootstrap4.min.js"></script>
+  <script crossorigin="anonymous" src="https://cdn.datatables.net/responsive/2.2.3/js/dataTables.responsive.min.js"></script>
+  <script crossorigin="anonymous" src="https://cdn.datatables.net/responsive/2.2.3/js/responsive.bootstrap4.min.js"></script>
 
   <script type="text/javascript">
     function formatted(number) {
@@ -266,30 +268,29 @@
       return formatted;
     }
 
-    $(document).ready(function() {
-      jQuery.ajax({
-        type: 'GET',
-        url: 'https://kawalcovid19.harippe.id/api/summary',
-        dataType: 'json',
-        success: function(response) {
-          var confirmed = response.confirmed.value;
-          var recovered = response.recovered.value;
-          var deaths = response.deaths.value;
-          var activeCare = response.activeCare.value;
+    new Vue({
+      el: "#nasional",
+      data: {
+        confirmed: 0,
+        activeCare: 0,
+        recovered: 0,
+        deaths: 0
+      },
 
-          $("#confirmed").html(formatted(confirmed));
-          $("#recovered").html(formatted(recovered));
-          $("#deaths").html(formatted(deaths));
-          $("#activeCare").html(formatted(activeCare));
-        },
-        error: function() {
-          $("#confirmed").html("-");
-          $("#recovered").html("-");
-          $("#deaths").html("-");
-          $("#activeCare").html("-");
-        }
-      });
-    });
+      async mounted() {
+        await axios
+          .get('https://kawalcovid19.harippe.id/api/summary')
+          .then(json => [
+            this.confirmed = formatted(json.data.confirmed.value),
+            this.activeCare = formatted(json.data.activeCare.value),
+            this.recovered = formatted(json.data.recovered.value),
+            this.deaths = formatted(json.data.deaths.value),
+          ])
+          .catch(error => {
+            console.log(error)
+          })
+      }
+    })
   </script>
 
   <script type="text/javascript">
