@@ -47,7 +47,6 @@
   <link rel='shortcut icon' type='image/x-icon' href='https://raw.githubusercontent.com/muhammadhanif/muhammadhanif.github.io/master/assets/images/hanifmu-ico.png' />
 
   <link rel="stylesheet" href="https://corona.hanifmu.com/assets/css/style.css?v=e5258df69038ed3704a62cc2ca10aab8f2ec6070">
-  <link rel="stylesheet" crossorigin="anonymous" integrity="sha256-h20CPZ0QyXlBuAw7A+KluUYx/3pK+c7lYEpqLTlxjYQ=" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css" />
 
 </head>
 
@@ -59,8 +58,7 @@
     <p>Daftar situs yang menyajikan informasi tanggap COVID-19 milik Pemerintah Pusat, Pemerintah Daerah, dan lainnya.</p>
 
     <template v-for="data in pranala">
-
-      <h2 :id="data.attributes.slug">{{ data.attributes.group_name }} <a :href="'#' + data.attributes.slug"><code style="font-size: 0.7rem;" class="fas fa-link fa-xs"></code></a></h2>
+      <h2>{{ data.attributes.group_name }}</h2>
 
       <ul>
         <template v-for="list in data.attributes.lists">
@@ -68,11 +66,11 @@
         </template>
       </ul>
     </template>
-
-
   </div>
+
   <script crossorigin="anonymous" integrity="sha256-ngFW3UnAN0Tnm76mDuu7uUtYEcG3G5H1+zioJw3t+68=" src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.6.11/vue.min.js"></script>
   <script crossorigin="anonymous" integrity="sha256-T/f7Sju1ZfNNfBh7skWn0idlCBcI3RwdLSS4/I7NQKQ=" src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.19.2/axios.min.js"></script>
+
   <script type="text/javascript">
     new Vue({
       el: "#pranala",
