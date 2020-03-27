@@ -1,6 +1,6 @@
 <!--
   Title: Pranala | COVID-19
-  Description: Daftar situs yang menyajikan informasi dan tanggap COVID-19 milik Pemerintah Pusat, Pemerintah Daerah, dan lainnya.
+  Description: Daftar situs yang menyajikan informasi tanggap COVID-19 milik Pemerintah Pusat, Pemerintah Daerah, dan lainnya.
   Author: hanifmu.com
   -->
 
