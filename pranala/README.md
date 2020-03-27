@@ -59,6 +59,7 @@
 * [Pemerintah Kota Tegal](https://corona.tegalkota.go.id/)
 * [Pemerintah Kabupaten Kebumen](https://corona.kebumenkab.go.id/)
 * [Pemerintah Kabupaten Kudus](http://corona.kuduskab.go.id/)
+* [Pemerintah Kabupaten Wonosobo](https://corona.wonosobokab.go.id/)
 
 ### YOGYAKARTA
 
