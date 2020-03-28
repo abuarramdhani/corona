@@ -57,6 +57,7 @@
 -   [Pemerintah Kota Bogor](http://www.covid19.kotabogor.go.id/)
 -   [Pemerintah Kota Depok](http://ccc-19.depok.go.id/)
 -   [Pemerintah Kota Tangerang](https://maps.tangerangkota.go.id/corona/)
+-   [Pemerintah Kabupaten Bandung](https://covid19.bandungkab.go.id/)
 
 ### JAWA TENGAH
 
