@@ -47,7 +47,7 @@
   <link rel="stylesheet" href="https://corona.hanifmu.com/assets/css/style.css?v=e5258df69038ed3704a62cc2ca10aab8f2ec6070">
 
   <style>
-    .lastCommit {
+    .footer {
       padding-top: 2rem;
       font-size: 0.7rem;
     }
@@ -72,10 +72,13 @@
       </ul>
     </template>
 
-    <div class="lastCommit">
+    <div class="footer">
       <blockquote>
-        <div v-html="'Diperbarui: ' + date"></div>
-        <div v-html="'Pranala: ' + message"></div>
+        <div v-html="'<code>Diperbarui:</code> ' + date"></div>
+        <div v-html="'<code>Pranala:</code> ' + message"></div>
+      </blockquote>
+      <blockquote>
+        Beri tahu kami bila anda mengetahui situs tanggap COVID-19. Hubungi kami melalui telegram: <code><a target="_blank" href="https://t.me/muhammad_hanif">@muhammadhanif</a></code> atau email: <code><a target="_blank" href="mailto:moehammadhanif@gmail.com">moehammadhanif@gmail.com</a></code>.
       </blockquote>
     </div>
 
