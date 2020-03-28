@@ -76,13 +76,23 @@
 
 -   [Pemerintah Provinsi Jawa Timur](https://infocovid19.jatimprov.go.id/)
 -   [Pemerintah Kota Malang](http://coronadetektor.malangkota.go.id/)
+-   [Pemerintah Kota Mojokerto](http://covid19.mojokertokota.go.id/)
+-   [Pemerintah Kota Probolinggo](https://portal.probolinggokota.go.id/index.php/tanggap-corona)
 -   [Pemerintah Kota Surabaya](https://lawancovid-19.surabaya.go.id/)
 -   [Pemerintah Kabupaten Banyuwangi](https://corona.banyuwangikab.go.id/)
 -   [Pemerintah Kabupaten Gresik](https://satgascovid19.gresikkab.go.id/)
+-   [Pemerintah Kabupaten Jombang](https://dinkes.jombangkab.go.id/data-covid-19-kabupaten-jombang)
 -   [Pemerintah Kabupaten Kediri](https://covid19.kedirikab.go.id/)
 -   [Pemerintah Kabupaten Lamongan](https://lamongankab.go.id/dinkes/)
+-   [Pemerintah Kabupaten Lumajang](https://infocovid19.lumajangkab.go.id/)
 -   [Pemerintah Kabupaten Madiun](https://madiunkab.go.id/)
 -   [Pemerintah Kabupaten Magetan](http://kominfo.magetan.go.id/)
+-   [Pemerintah Kabupaten Malang](http://satgascovid19.malangkab.go.id/)
+-   [Pemerintah Kabupaten Mojokerto](http://covid19.mojokertokab.go.id/)
+-   [Pemerintah Kabupaten Nganjuk](https://www.nganjukkab.go.id/beranda/CoronaController/pencegahanCorona)
+-   [Pemerintah Kabupaten Pacitan](https://covid19.pacitankab.go.id/)
+-   [Pemerintah Kabupaten Ponorogo](https://ponorogo.go.id/corona/)
+-   [Pemerintah Kabupaten Sidoarjo](https://covid19.sidoarjokab.go.id/)
 -   [Pemerintah Kabupaten Tuban](https://tubankab.go.id/page/informasi-tentang-virus-corona-covid-19)
 
 ### KALIMANTAN BARAT
