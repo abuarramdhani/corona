@@ -78,8 +78,11 @@
 -   [Pemerintah Kota Malang](http://coronadetektor.malangkota.go.id/)
 -   [Pemerintah Kota Surabaya](https://lawancovid-19.surabaya.go.id/)
 -   [Pemerintah Kabupaten Banyuwangi](https://corona.banyuwangikab.go.id/)
+-   [Pemerintah Kabupaten Gresik](https://satgascovid19.gresikkab.go.id/)
 -   [Pemerintah Kabupaten Kediri](https://covid19.kedirikab.go.id/)
 -   [Pemerintah Kabupaten Lamongan](https://lamongankab.go.id/dinkes/)
+-   [Pemerintah Kabupaten Madiun](https://madiunkab.go.id/)
+-   [Pemerintah Kabupaten Magetan](http://kominfo.magetan.go.id/)
 -   [Pemerintah Kabupaten Tuban](https://tubankab.go.id/page/informasi-tentang-virus-corona-covid-19)
 
 ### KALIMANTAN BARAT

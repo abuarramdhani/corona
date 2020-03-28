@@ -1,10 +1,10 @@
 {
-  "page":[{
+  "page": [{
     "name": "PRANALA",
     "description": "Daftar situs yang menyajikan informasi tanggap COVID-19 milik Pemerintah Pusat, Pemerintah Daerah, dan lainnya.",
     "author": "Muhammad Hanif - hanifmu.com",
-    "url":"https://corona.hanifmu.com/pranala/"
-    }],
+    "url": "https://corona.hanifmu.com/pranala/"
+  }],
   "features": [{
     "attributes": {
       "group_name": "PEMERINTAH PUSAT",
@@ -152,7 +152,7 @@
         "url": "https://corona.wonosobokab.go.id/"
       }]
     }
-  },{
+  }, {
     "attributes": {
       "group_name": "YOGYAKARTA",
       "slug": "yogyakarta",
@@ -161,34 +161,43 @@
         "url": "https://corona.jogjaprov.go.id/"
       }]
     }
-  },{
+  }, {
     "attributes": {
       "group_name": "JAWA TIMUR",
       "slug": "jawa-timur",
       "lists": [{
         "name": "Pemerintah Provinsi Jawa Timur",
         "url": "https://infocovid19.jatimprov.go.id/"
-      },{
+      }, {
         "name": "Pemerintah Kota Malang",
         "url": "http://coronadetektor.malangkota.go.id/"
-      },{
+      }, {
         "name": "Pemerintah Kota Surabaya",
         "url": "https://lawancovid-19.surabaya.go.id/"
-      },{
+      }, {
         "name": "Pemerintah Kabupaten Banyuwangi",
         "url": "https://corona.banyuwangikab.go.id/"
-      },{
+      }, {
+        "name": "Pemerintah Kabupaten Gresik",
+        "url": "https://satgascovid19.gresikkab.go.id/"
+      }, {
         "name": "Pemerintah Kabupaten Kediri",
         "url": "https://covid19.kedirikab.go.id/"
-      },{
+      }, {
         "name": "Pemerintah Kabupaten Lamongan",
         "url": "https://lamongankab.go.id/dinkes/"
-      },{
+      }, {
+        "name": "Pemerintah Kabupaten Madiun",
+        "url": "https://madiunkab.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Magetan",
+        "url": "http://kominfo.magetan.go.id/"
+      }, {
         "name": "Pemerintah Kabupaten Tuban",
         "url": "https://tubankab.go.id/page/informasi-tentang-virus-corona-covid-19"
       }]
     }
-  },{
+  }, {
     "attributes": {
       "group_name": "KALIMANTAN BARAT",
       "slug": "kalimantan-barat",
@@ -197,7 +206,7 @@
         "url": "https://dinkes.kalbarprov.go.id/covid-19/"
       }]
     }
-  },{
+  }, {
     "attributes": {
       "group_name": "SULAWESI SELATAN",
       "slug": "sulawesi-selatan",
@@ -206,7 +215,7 @@
         "url": "https://covid19.sulselprov.go.id/"
       }]
     }
-  },{
+  }, {
     "attributes": {
       "group_name": "NUSA TENGGARA BARAT",
       "slug": "nusa-tenggara-barat",
@@ -215,7 +224,7 @@
         "url": "https://corona.ntbprov.go.id/"
       }]
     }
-  },{
+  }, {
     "attributes": {
       "group_name": "Lainnya",
       "slug": "lainnya",
