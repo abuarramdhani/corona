@@ -123,6 +123,9 @@
       }, {
         "name": "Pemerintah Kota Tangerang",
         "url": "https://maps.tangerangkota.go.id/corona/"
+      }, {
+        "name": "Pemerintah Kabupaten Bandung",
+        "url": "https://covid19.bandungkab.go.id/"
       }]
     }
   }, {
