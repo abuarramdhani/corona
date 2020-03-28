@@ -172,6 +172,12 @@
         "name": "Pemerintah Kota Malang",
         "url": "http://coronadetektor.malangkota.go.id/"
       }, {
+        "name": "Pemerintah Kota Mojokerto",
+        "url": "http://covid19.mojokertokota.go.id/"
+      }, {
+        "name": "Pemerintah Kota Probolinggo",
+        "url": "https://portal.probolinggokota.go.id/index.php/tanggap-corona/"
+      }, {
         "name": "Pemerintah Kota Surabaya",
         "url": "https://lawancovid-19.surabaya.go.id/"
       }, {
@@ -181,17 +187,41 @@
         "name": "Pemerintah Kabupaten Gresik",
         "url": "https://satgascovid19.gresikkab.go.id/"
       }, {
+        "name": "Pemerintah Kabupaten Jombang",
+        "url": "https://dinkes.jombangkab.go.id/data-covid-19-kabupaten-jombang"
+      }, {
         "name": "Pemerintah Kabupaten Kediri",
         "url": "https://covid19.kedirikab.go.id/"
       }, {
         "name": "Pemerintah Kabupaten Lamongan",
         "url": "https://lamongankab.go.id/dinkes/"
       }, {
+        "name": "Pemerintah Kabupaten Lumajang",
+        "url": "https://infocovid19.lumajangkab.go.id/"
+      }, {
         "name": "Pemerintah Kabupaten Madiun",
         "url": "https://madiunkab.go.id/"
       }, {
         "name": "Pemerintah Kabupaten Magetan",
         "url": "http://kominfo.magetan.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Malang",
+        "url": "http://satgascovid19.malangkab.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Mojokerto",
+        "url": "http://covid19.mojokertokab.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Nganjuk",
+        "url": "https://www.nganjukkab.go.id/beranda/CoronaController/pencegahanCorona"
+      }, {
+        "name": "Pemerintah Kabupaten Pacitan",
+        "url": "https://covid19.pacitankab.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Ponorogo",
+        "url": "https://ponorogo.go.id/corona/"
+      }, {
+        "name": "Pemerintah Kabupaten Sidoarjo",
+        "url": "https://covid19.sidoarjokab.go.id/"
       }, {
         "name": "Pemerintah Kabupaten Tuban",
         "url": "https://tubankab.go.id/page/informasi-tentang-virus-corona-covid-19"
