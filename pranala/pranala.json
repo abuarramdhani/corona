@@ -1,7 +1,7 @@
 {
   "page": [{
-    "name": "PRANALA",
-    "description": "Daftar situs yang menyajikan informasi tanggap COVID-19 milik Pemerintah Pusat, Pemerintah Daerah, dan lainnya.",
+    "name": "Daftar Situs Tanggap COVID-19",
+    "description": "Daftar situs tanggap COVID-19 milik Pemerintah Pusat, Pemerintah Daerah, dan lainnya.",
     "author": "Muhammad Hanif - hanifmu.com",
     "url": "https://corona.hanifmu.com/pranala/"
   }],
@@ -54,6 +54,9 @@
       "lists": [{
         "name": "Pemerintah Provinsi Sumatera Selatan",
         "url": "http://corona.sumselprov.go.id/index.php?module=home&id=1"
+      },{
+        "name": "Pemerintah Kota Palembang",
+        "url": "https://hallo.palembang.go.id/Corona"
       }]
     }
   }, {
