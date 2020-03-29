@@ -32,7 +32,7 @@
 
 ### SUMATERA UTARA
 
--   [Pemerintah Provinsi Sumatera Utara](http://bpbd.sumutprov.go.id/)
+-   [Pemerintah Provinsi Sumatera Utara](http://covid19.sumutprov.go.id/)
 
 ### RIAU
 
@@ -103,6 +103,10 @@
 -   [Pemerintah Kabupaten Sidoarjo](https://covid19.sidoarjokab.go.id/)
 -   [Pemerintah Kabupaten Tuban](https://tubankab.go.id/page/informasi-tentang-virus-corona-covid-19)
 
+### BALI
+
+-   [Pemerintah Provinsi Bali](https://infocorona.baliprov.go.id/)
+
 ### KALIMANTAN BARAT
 
 -   [Pemerintah Provinsi Kalimantan Barat](https://dinkes.kalbarprov.go.id/covid-19/)
@@ -111,6 +115,10 @@
 
 -   [Pemerintah Provinsi Kalimantan Timur](https://covid19.kaltimprov.go.id/)
 
+### KALIMANTAN SELATAN
+
+-   [Pemerintah Provinsi Kalimantan Selatan](http://corona.kalselprov.go.id/)
+
 ### KALIMANTAN UTARA
 
 -   [Pemerintah Provinsi Kalimantan Utara](https://humas.kaltaraprov.go.id/)
@@ -118,6 +126,10 @@
 ### SULAWESI SELATAN
 
 -   [Pemerintah Provinsi Sulawesi Selatan](https://covid19.sulselprov.go.id/)
+
+### SULAWESI UTARA
+
+-   [Pemerintah Provinsi Sulawesi Utara](https://corona.sulutprov.go.id/)
 
 ### NUSA TENGGARA BARAT
 
