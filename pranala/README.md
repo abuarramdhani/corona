@@ -115,6 +115,10 @@
 
 -   [Pemerintah Provinsi Kalimantan Timur](https://covid19.kaltimprov.go.id/)
 
+### KALIMANTAN TENGAH
+
+-   [Pemerintah Provinsi Kalimantan Tengah](https://corona.kalteng.go.id/)
+
 ### KALIMANTAN SELATAN
 
 -   [Pemerintah Provinsi Kalimantan Selatan](http://corona.kalselprov.go.id/)
@@ -122,6 +126,10 @@
 ### KALIMANTAN UTARA
 
 -   [Pemerintah Provinsi Kalimantan Utara](https://humas.kaltaraprov.go.id/)
+
+### SULAWESI BARAT
+
+-   [Pemerintah Provinsi Sulawesi Barat](https://covid19.sulbarprov.go.id/)
 
 ### SULAWESI SELATAN
 
@@ -131,6 +139,10 @@
 
 -   [Pemerintah Provinsi Sulawesi Utara](https://corona.sulutprov.go.id/)
 
+### SULAWESI UTARA TENGGARA
+
+-   [Pemerintah Provinsi Sulawesi Tenggara](http://covid19.sultraprov.go.id/)
+
 ### NUSA TENGGARA BARAT
 
 -   [Pemerintah Provinsi Nusa Tenggara Barat](https://corona.ntbprov.go.id/)
@@ -138,6 +150,10 @@
 ### MALUKU
 
 -   [Pemerintah Provinsi Maluku](https://corona.malukuprov.go.id/)
+
+### MALUKU UTARA
+
+-   [Pemerintah Provinsi Maluku Utara](http://corona.malutprov.go.id/)
 
 ### Papua
 

@@ -274,6 +274,15 @@
     }
   }, {
     "attributes": {
+      "group_name": "KALIMANTAN TENGAH",
+      "slug": "kalimantan-tengah",
+      "lists": [{
+        "name": "Pemerintah Provinsi Kalimantan Tengah",
+        "url": "https://corona.kalteng.go.id/"
+      }]
+    }
+  }, {
+    "attributes": {
       "group_name": "KALIMANTAN SELATAN",
       "slug": "kalimantan-selatan",
       "lists": [{
@@ -288,6 +297,15 @@
       "lists": [{
         "name": "Pemerintah Provinsi Kalimantan Utara",
         "url": "https://humas.kaltaraprov.go.id/"
+      }]
+    }
+  }, {
+    "attributes": {
+      "group_name": "SULAWESI BARAT",
+      "slug": "sulawesi-barat",
+      "lists": [{
+        "name": "Pemerintah Provinsi Sulawesi Barat",
+        "url": "https://covid19.sulbarprov.go.id/"
       }]
     }
   }, {
@@ -310,6 +328,15 @@
     }
   }, {
     "attributes": {
+      "group_name": "SULAWESI TENGGARA",
+      "slug": "sulawesi-tenggara",
+      "lists": [{
+        "name": "Pemerintah Provinsi Sulawesi Tenggara",
+        "url": "http://covid19.sultraprov.go.id/"
+      }]
+    }
+  }, {
+    "attributes": {
       "group_name": "NUSA TENGGARA BARAT",
       "slug": "nusa-tenggara-barat",
       "lists": [{
@@ -324,6 +351,15 @@
       "lists": [{
         "name": "Pemerintah Provinsi Maluku",
         "url": "https://corona.malukuprov.go.id/"
+      }]
+    }
+  }, {
+    "attributes": {
+      "group_name": "MALUKU UTARA",
+      "slug": "maluku-utara",
+      "lists": [{
+        "name": "Pemerintah Provinsi Maluku Utara",
+        "url": "http://corona.malutprov.go.id/"
       }]
     }
   }, {
