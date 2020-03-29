@@ -62,7 +62,7 @@
       "slug": "sumatera-utara",
       "lists": [{
         "name": "Pemerintah Provinsi Sumatera Utara",
-        "url": "http://bpbd.sumutprov.go.id/"
+        "url": "http://covid19.sumutprov.go.id/"
       }]
     }
   }, {
@@ -247,6 +247,15 @@
     }
   }, {
     "attributes": {
+      "group_name": "Bali",
+      "slug": "bali",
+      "lists": [{
+        "name": "Pemerintah Provinsi Bali",
+        "url": "https://infocorona.baliprov.go.id/"
+      }]
+    }
+  }, {
+    "attributes": {
       "group_name": "KALIMANTAN BARAT",
       "slug": "kalimantan-barat",
       "lists": [{
@@ -265,6 +274,15 @@
     }
   }, {
     "attributes": {
+      "group_name": "KALIMANTAN SELATAN",
+      "slug": "kalimantan-selatan",
+      "lists": [{
+        "name": "Pemerintah Provinsi Kalimantan Selatan",
+        "url": "http://corona.kalselprov.go.id/"
+      }]
+    }
+  }, {
+    "attributes": {
       "group_name": "KALIMANTAN UTARA",
       "slug": "kalimantan-utara",
       "lists": [{
@@ -279,6 +297,15 @@
       "lists": [{
         "name": "Pemerintah Provinsi Sulawesi Selatan",
         "url": "https://covid19.sulselprov.go.id/"
+      }]
+    }
+  }, {
+    "attributes": {
+      "group_name": "SULAWESI UTARA",
+      "slug": "sulawesi-utara",
+      "lists": [{
+        "name": "Pemerintah Provinsi Sulawesi Utara",
+        "url": "https://corona.sulutprov.go.id/"
       }]
     }
   }, {
