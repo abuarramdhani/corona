@@ -13,6 +13,8 @@
 -   [Peta Rumah Sakit Rujukan COVID-19](https://bnpb-inacovid19.hub.arcgis.com/app/rumah-sakit-rujukan-penanganan-covid-19)
 -   [Data Kasus dan Peta Persebaran COVID-19](https://experience.arcgis.com/experience/57237ebe9c5b4b1caa1b93e79c920338)
 
+-   [PeduliLindungi](https://www.pedulilindungi.id/)
+
 ## PEMERINTAH DAERAH
 
 ### ACEH
@@ -27,6 +29,10 @@
 ### SUMATERA SELATAN
 
 -   [Pemerintah Provinsi Sumatera Selatan](http://corona.sumselprov.go.id/index.php?module=home&id=1)
+
+### SUMATERA UTARA
+
+-   [Pemerintah Provinsi Sumatera Utara](http://bpbd.sumutprov.go.id/)
 
 ### RIAU
 
@@ -75,10 +81,12 @@
 ### JAWA TIMUR
 
 -   [Pemerintah Provinsi Jawa Timur](https://infocovid19.jatimprov.go.id/)
+-   [Pemerintah Kota Kediri](https://corona.kedirikota.go.id/)
 -   [Pemerintah Kota Malang](http://coronadetektor.malangkota.go.id/)
 -   [Pemerintah Kota Mojokerto](http://covid19.mojokertokota.go.id/)
 -   [Pemerintah Kota Probolinggo](https://portal.probolinggokota.go.id/index.php/tanggap-corona)
 -   [Pemerintah Kota Surabaya](https://lawancovid-19.surabaya.go.id/)
+-   [Pemerintah Kabupaten Bangkalan](http://www.bangkalankab.go.id/v5/)
 -   [Pemerintah Kabupaten Banyuwangi](https://corona.banyuwangikab.go.id/)
 -   [Pemerintah Kabupaten Gresik](https://satgascovid19.gresikkab.go.id/)
 -   [Pemerintah Kabupaten Jombang](https://dinkes.jombangkab.go.id/data-covid-19-kabupaten-jombang)
@@ -99,6 +107,14 @@
 
 -   [Pemerintah Provinsi Kalimantan Barat](https://dinkes.kalbarprov.go.id/covid-19/)
 
+### KALIMANTAN TIMUR
+
+-   [Pemerintah Provinsi Kalimantan Timur](https://covid19.kaltimprov.go.id/)
+
+### KALIMANTAN UTARA
+
+-   [Pemerintah Provinsi Kalimantan Utara](https://humas.kaltaraprov.go.id/)
+
 ### SULAWESI SELATAN
 
 -   [Pemerintah Provinsi Sulawesi Selatan](https://covid19.sulselprov.go.id/)
@@ -106,6 +122,14 @@
 ### NUSA TENGGARA BARAT
 
 -   [Pemerintah Provinsi Nusa Tenggara Barat](https://corona.ntbprov.go.id/)
+
+### MALUKU
+
+-   [Pemerintah Provinsi Maluku](https://corona.malukuprov.go.id/)
+
+### Papua
+
+-   [Pemerintah Provinsi Papua](https://www.papua.go.id/)
 
 ### LAINNYA
 

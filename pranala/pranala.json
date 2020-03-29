@@ -21,6 +21,9 @@
       }, {
         "name": "Data Kasus dan Peta Persebaran COVID-19",
         "url": "https://experience.arcgis.com/experience/57237ebe9c5b4b1caa1b93e79c920338"
+      }, {
+        "name": "PeduliLindungi",
+        "url": "https://www.pedulilindungi.id/"
       }]
     }
   }, {
@@ -51,6 +54,15 @@
       "lists": [{
         "name": "Pemerintah Provinsi Sumatera Selatan",
         "url": "http://corona.sumselprov.go.id/index.php?module=home&id=1"
+      }]
+    }
+  }, {
+    "attributes": {
+      "group_name": "SUMATERA UTARA",
+      "slug": "sumatera-utara",
+      "lists": [{
+        "name": "Pemerintah Provinsi Sumatera Utara",
+        "url": "http://bpbd.sumutprov.go.id/"
       }]
     }
   }, {
@@ -169,6 +181,9 @@
         "name": "Pemerintah Provinsi Jawa Timur",
         "url": "https://infocovid19.jatimprov.go.id/"
       }, {
+        "name": "Pemerintah Kota Kediri",
+        "url": "https://corona.kedirikota.go.id/"
+      }, {
         "name": "Pemerintah Kota Malang",
         "url": "http://coronadetektor.malangkota.go.id/"
       }, {
@@ -180,6 +195,9 @@
       }, {
         "name": "Pemerintah Kota Surabaya",
         "url": "https://lawancovid-19.surabaya.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Bangkalan",
+        "url": "ttp://www.bangkalankab.go.id/v5/"
       }, {
         "name": "Pemerintah Kabupaten Banyuwangi",
         "url": "https://corona.banyuwangikab.go.id/"
@@ -238,6 +256,24 @@
     }
   }, {
     "attributes": {
+      "group_name": "KALIMANTAN TIMUR",
+      "slug": "kalimantan-timur",
+      "lists": [{
+        "name": "Pemerintah Provinsi Kalimantan Timur",
+        "url": "https://covid19.kaltimprov.go.id/"
+      }]
+    }
+  }, {
+    "attributes": {
+      "group_name": "KALIMANTAN UTARA",
+      "slug": "kalimantan-utara",
+      "lists": [{
+        "name": "Pemerintah Provinsi Kalimantan Utara",
+        "url": "https://humas.kaltaraprov.go.id/"
+      }]
+    }
+  }, {
+    "attributes": {
       "group_name": "SULAWESI SELATAN",
       "slug": "sulawesi-selatan",
       "lists": [{
@@ -252,6 +288,24 @@
       "lists": [{
         "name": "Pemerintah Provinsi Nusa Tenggara Barat",
         "url": "https://corona.ntbprov.go.id/"
+      }]
+    }
+  }, {
+    "attributes": {
+      "group_name": "MALUKU",
+      "slug": "maluku",
+      "lists": [{
+        "name": "Pemerintah Provinsi Maluku",
+        "url": "https://corona.malukuprov.go.id/"
+      }]
+    }
+  }, {
+    "attributes": {
+      "group_name": "PAPUA",
+      "slug": "papua",
+      "lists": [{
+        "name": "Pemerintah Provinsi Papua",
+        "url": "https://www.papua.go.id/"
       }]
     }
   }, {
