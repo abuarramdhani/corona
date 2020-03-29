@@ -29,6 +29,7 @@
 ### SUMATERA SELATAN
 
 -   [Pemerintah Provinsi Sumatera Selatan](http://corona.sumselprov.go.id/index.php?module=home&id=1)
+-   [Pemerintah Kota Palembang](https://hallo.palembang.go.id/Corona)
 
 ### SUMATERA UTARA
 
