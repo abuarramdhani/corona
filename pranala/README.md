@@ -78,6 +78,12 @@
 ### YOGYAKARTA
 
 -   [Pemerintah Provinsi DI Yogyakarta](https://corona.jogjaprov.go.id/)
+-   [Pemerintah Kota Yogyakarta](https://corona.jogjakota.go.id/)
+-   [Pemerintah Kabupaten Bantul](https://corona.bantulkab.go.id/)
+-   [Pemerintah Kabupaten Gunungkidul](https://corona.gunungkidulkab.go.id/)
+-   [Pemerintah Kabupaten Kulon Progo](https://kulonprogokab.go.id/corona/)
+-   [Pemerintah Kabupaten Sleman](https://corona.slemankab.go.id/)
+
 
 ### JAWA TIMUR
 
@@ -142,7 +148,7 @@
 
 ### SULAWESI UTARA TENGGARA
 
--   [Pemerintah Provinsi Sulawesi Tenggara](http://covid19.sultraprov.go.id/)
+-   [Pemerintah Provinsi Sulawesi Tenggara](http://corona.sultraprov.go.id/)
 
 ### NUSA TENGGARA BARAT
 
