@@ -124,8 +124,35 @@
         "name": "Pemerintah Provinsi Jawa Tengah",
         "url": "https://corona.jatengprov.go.id/"
       }, {
+        "name": "Pemerintah Kabupaten Banyumas",
+        "url": "http://covid19.banyumaskab.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Batang",
+        "url": "https://corona.batangkab.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Blora",
+        "url": "http://corona.blorakab.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Boyolali",
+        "url": "http://covid19.boyolali.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Brebes",
+        "url": "http://corona.brebeskab.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Cilacap",
+        "url": "https://corona.cilacapkab.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Demak",
+        "url": "http://corona.demakkab.go.id//"
+      }, {
+        "name": "Pemerintah Kabupaten Grobogan",
+        "url": "https://corona.grobogan.go.id/"
+      }, {
         "name": "Pemerintah Kabupaten Jepara",
         "url": "http://corona.jepara.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Karanganyar",
+        "url": "http://covid19.karanganyarkab.go.id/"
       }, {
         "name": "Pemerintah Kabupaten Kebumen",
         "url": "https://corona.kebumenkab.go.id/"
@@ -135,6 +162,12 @@
       }, {
         "name": "Pemerintah Kabupaten Kudus",
         "url": "http://corona.kuduskab.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Magelang",
+        "url": "https://infocorona.magelangkab.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Pati",
+        "url": "https://covid19.patikab.go.id/"
       }, {
         "name": "Pemerintah Kabupaten Purworejo",
         "url": "https://covid19.purworejokab.go.id/"
