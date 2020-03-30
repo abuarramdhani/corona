@@ -44,7 +44,7 @@
         "url": "https://corona.sumbarprov.go.id/"
       }, {
         "name": "Pemerintah Kota Padang",
-        "url": "https://dinkes.padang.go.id/"
+        "url": "http://corona.padang.go.id//"
       }]
     }
   }, {
@@ -54,7 +54,7 @@
       "lists": [{
         "name": "Pemerintah Provinsi Sumatera Selatan",
         "url": "http://corona.sumselprov.go.id/index.php?module=home&id=1"
-      },{
+      }, {
         "name": "Pemerintah Kota Palembang",
         "url": "https://hallo.palembang.go.id/Corona"
       }]
@@ -105,22 +105,22 @@
       "lists": [{
         "name": "Pemerintah Provinsi Banten",
         "url": "https://infocorona.bantenprov.go.id/"
-      },{
+      }, {
         "name": "Pemerintah Kota Cilegon",
         "url": "http://covid19.cilegon.go.id/"
-      },{
+      }, {
         "name": "Pemerintah Kota Serang",
         "url": "https://infocorona.serangkota.go.id/"
       }, {
         "name": "Pemerintah Kota Tangerang",
         "url": "https://maps.tangerangkota.go.id/corona/"
-      },{
+      }, {
         "name": "Pemerintah Kabupaten Lebak",
         "url": "https://siagacovid19.lebakkab.go.id/"
-      },{
+      }, {
         "name": "Pemerintah Kabupaten Pandeglang",
         "url": "https://infocorona.pandeglangkab.go.id/"
-      },{
+      }, {
         "name": "Pemerintah Kabupaten Serang",
         "url": "https://infocorona.serangkab.go.id/"
       }, {
@@ -178,8 +178,14 @@
         "name": "Pemerintah Kabupaten Kebumen",
         "url": "https://corona.kebumenkab.go.id/"
       }, {
+        "name": "Pemerintah Kabupaten Klaten",
+        "url": "http://pantaucorona.klatenkab.go.id/"
+      }, {
         "name": "Pemerintah Kabupaten Kudus",
         "url": "http://corona.kuduskab.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Purworejo",
+        "url": "https://covid19.purworejokab.go.id/"
       }, {
         "name": "Pemerintah Kabupaten Wonosobo",
         "url": "https://corona.wonosobokab.go.id/"
@@ -192,19 +198,19 @@
       "lists": [{
         "name": "Pemerintah Provinsi DI Yogyakarta",
         "url": "https://corona.jogjaprov.go.id/"
-      },{
+      }, {
         "name": "Pemerintah Kota Yogyakarta",
         "url": "https://corona.jogjakota.go.id/"
-      },{
+      }, {
         "name": "Pemerintah Kabupaten Bantul",
         "url": "https://corona.bantulkab.go.id/"
-      },{
+      }, {
         "name": "Pemerintah Kabupaten Gunungkidul",
         "url": "https://corona.gunungkidulkab.go.id/"
-      },{
+      }, {
         "name": "Pemerintah Kabupaten Kulon Progo",
         "url": "https://kulonprogokab.go.id/corona/"
-      },{
+      }, {
         "name": "Pemerintah Kabupaten Sleman",
         "url": "https://corona.slemankab.go.id/"
       }]
@@ -233,7 +239,7 @@
         "url": "https://lawancovid-19.surabaya.go.id/"
       }, {
         "name": "Pemerintah Kabupaten Bangkalan",
-        "url": "ttp://www.bangkalankab.go.id/v5/"
+        "url": "http://www.bangkalankab.go.id/v5/"
       }, {
         "name": "Pemerintah Kabupaten Banyuwangi",
         "url": "https://corona.banyuwangikab.go.id/"
@@ -404,7 +410,7 @@
       "slug": "papua",
       "lists": [{
         "name": "Pemerintah Provinsi Papua",
-        "url": "https://www.papua.go.id/"
+        "url": "https://corona.papua.go.id/"
       }]
     }
   }, {
