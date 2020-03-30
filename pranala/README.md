@@ -21,48 +21,20 @@
 
 -   [Pemerintah Provinsi Aceh](https://covid19.acehprov.go.id/)
 
-### SUMATERA BARAT
+### BALI
 
--   [Pemerintah Provinsi Sumatera Barat](https://corona.sumbarprov.go.id/)
--   [Pemerintah Kota Padang](http://corona.padang.go.id/)
-
-### SUMATERA SELATAN
-
--   [Pemerintah Provinsi Sumatera Selatan](http://corona.sumselprov.go.id/index.php?module=home&id=1)
--   [Pemerintah Kota Palembang](https://hallo.palembang.go.id/Corona)
-
-### SUMATERA UTARA
-
--   [Pemerintah Provinsi Sumatera Utara](http://covid19.sumutprov.go.id/)
-
-### RIAU
-
--   [Pemerintah Provinsi Riau](https://corona.riau.go.id/)
-
-### KEPULAUAN RIAU
-
--   [Pemerintah Provinsi Kepulauan Riau](https://corona.kepriprov.go.id/)
--   [Pemerintah Kota Batam](https://lawancorona.batam.go.id/)
-
-### KEPULAUAN BANGKA BELITUNG
-
--   [Pemerintah Provinsi Kepulauan Bangka Belitung](https://covid19.babelprov.go.id/)
-
-### LAMPUNG
-
--   [Pemerintah Provinsi Lampung](http://geoportal.lampungprov.go.id/corona/)
+-   [Pemerintah Provinsi Bali](https://infocorona.baliprov.go.id/)
 
 ### BANTEN
 
 -   [Pemerintah Provinsi Banten](https://infocorona.bantenprov.go.id/)
--   [Pemerintah Kota Cilegon](http://covid19.cilegon.go.id/)
--   [Pemerintah Kota Serang](https://infocorona.serangkota.go.id/)
--   [Pemerintah Kota Tangerang](https://maps.tangerangkota.go.id/corona/)
 -   [Pemerintah Kabupaten Lebak](https://siagacovid19.lebakkab.go.id/)
 -   [Pemerintah Kabupaten Pandeglang](https://infocorona.pandeglangkab.go.id/)
 -   [Pemerintah Kabupaten Serang](https://infocorona.serangkab.go.id/)
 -   [Pemerintah Kabupaten Tangerang](http://covid19.tangerangkab.go.id/)
-
+-   [Pemerintah Kota Cilegon](http://covid19.cilegon.go.id/)
+-   [Pemerintah Kota Serang](https://infocorona.serangkota.go.id/)
+-   [Pemerintah Kota Tangerang](https://maps.tangerangkota.go.id/corona/)
 ### JAKARTA
 
 -   [Pemerintah Provinsi DKI Jakarta](https://corona.jakarta.go.id/)
@@ -70,43 +42,31 @@
 ### JAWA BARAT
 
 -   [Pemerintah Provinsi Jawa Barat](https://pikobar.jabarprov.go.id/)
+-   [Pemerintah Kabupaten Bandung](https://covid19.bandungkab.go.id/)
+-   [Pemerintah Kabupaten Bandung Barat](https://pik.bandungbaratkab.go.id/)
+-   [Pemerintah Kabupaten Bekasi](https://pikokabsi.bekasikab.go.id/)
+-   [Pemerintah Kabupaten Cianjur](https://covid19.cianjurkab.go.id/)
 -   [Pemerintah Kota Bandung](https://covid19.bandung.go.id/)
 -   [Pemerintah Kota Bekasi](http://corona.bekasikota.go.id/)
 -   [Pemerintah Kota Bogor](http://www.covid19.kotabogor.go.id/)
 -   [Pemerintah Kota Depok](http://ccc-19.depok.go.id/)
--   [Pemerintah Kabupaten Bandung](https://covid19.bandungkab.go.id/)
--   [Pemerintah Kabupaten Cianjur](https://covid19.cianjurkab.go.id/)
 
 ### JAWA TENGAH
 
 -   [Pemerintah Provinsi Jawa Tengah](https://corona.jatengprov.go.id/)
--   [Pemerintah Kota Magelang](https://covid19.magelangkota.go.id/)
--   [Pemerintah Kota Semarang](https://siagacorona.semarangkota.go.id/)
--   [Pemerintah Kota Tegal](https://corona.tegalkota.go.id/)
--   [Pemerintah Kabupaten Jepara]()
+-   [Pemerintah Kabupaten Jepara](http://corona.jepara.go.id/)
 -   [Pemerintah Kabupaten Kebumen](https://corona.kebumenkab.go.id/)
 -   [Pemerintah Kabupaten Klaten](http://pantaucorona.klatenkab.go.id/)
 -   [Pemerintah Kabupaten Kudus](http://corona.kuduskab.go.id/)
 -   [Pemerintah Kabupaten Purworejo](https://covid19.purworejokab.go.id/)
 -   [Pemerintah Kabupaten Wonosobo](https://corona.wonosobokab.go.id/)
-
-### YOGYAKARTA
-
--   [Pemerintah Provinsi DI Yogyakarta](https://corona.jogjaprov.go.id/)
--   [Pemerintah Kota Yogyakarta](https://corona.jogjakota.go.id/)
--   [Pemerintah Kabupaten Bantul](https://corona.bantulkab.go.id/)
--   [Pemerintah Kabupaten Gunungkidul](https://corona.gunungkidulkab.go.id/)
--   [Pemerintah Kabupaten Kulon Progo](https://kulonprogokab.go.id/corona/)
--   [Pemerintah Kabupaten Sleman](https://corona.slemankab.go.id/)
+-   [Pemerintah Kota Magelang](https://covid19.magelangkota.go.id/)
+-   [Pemerintah Kota Semarang](https://siagacorona.semarangkota.go.id/)
+-   [Pemerintah Kota Tegal](https://corona.tegalkota.go.id/)
 
 ### JAWA TIMUR
 
 -   [Pemerintah Provinsi Jawa Timur](https://infocovid19.jatimprov.go.id/)
--   [Pemerintah Kota Kediri](https://corona.kedirikota.go.id/)
--   [Pemerintah Kota Malang](http://coronadetektor.malangkota.go.id/)
--   [Pemerintah Kota Mojokerto](http://covid19.mojokertokota.go.id/)
--   [Pemerintah Kota Probolinggo](https://portal.probolinggokota.go.id/index.php/tanggap-corona)
--   [Pemerintah Kota Surabaya](https://lawancovid-19.surabaya.go.id/)
 -   [Pemerintah Kabupaten Bangkalan](http://www.bangkalankab.go.id/v5/)
 -   [Pemerintah Kabupaten Banyuwangi](https://corona.banyuwangikab.go.id/)
 -   [Pemerintah Kabupaten Gresik](https://satgascovid19.gresikkab.go.id/)
@@ -123,50 +83,43 @@
 -   [Pemerintah Kabupaten Ponorogo](https://ponorogo.go.id/corona/)
 -   [Pemerintah Kabupaten Sidoarjo](https://covid19.sidoarjokab.go.id/)
 -   [Pemerintah Kabupaten Tuban](https://tubankab.go.id/page/informasi-tentang-virus-corona-covid-19)
-
-### BALI
-
--   [Pemerintah Provinsi Bali](https://infocorona.baliprov.go.id/)
+-   [Pemerintah Kota Kediri](https://corona.kedirikota.go.id/)
+-   [Pemerintah Kota Malang](http://coronadetektor.malangkota.go.id/)
+-   [Pemerintah Kota Mojokerto](http://covid19.mojokertokota.go.id/)
+-   [Pemerintah Kota Probolinggo](https://portal.probolinggokota.go.id/index.php/tanggap-corona)
+-   [Pemerintah Kota Surabaya](https://lawancovid-19.surabaya.go.id/)
 
 ### KALIMANTAN BARAT
 
 -   [Pemerintah Provinsi Kalimantan Barat](https://dinkes.kalbarprov.go.id/covid-19/)
 
-### KALIMANTAN TIMUR
+### KALIMANTAN SELATAN
 
--   [Pemerintah Provinsi Kalimantan Timur](https://covid19.kaltimprov.go.id/)
+-   [Pemerintah Provinsi Kalimantan Selatan](http://corona.kalselprov.go.id/)
 
 ### KALIMANTAN TENGAH
 
 -   [Pemerintah Provinsi Kalimantan Tengah](https://corona.kalteng.go.id/)
+### KALIMANTAN TIMUR
 
-### KALIMANTAN SELATAN
-
--   [Pemerintah Provinsi Kalimantan Selatan](http://corona.kalselprov.go.id/)
+-   [Pemerintah Provinsi Kalimantan Timur](https://covid19.kaltimprov.go.id/)
 
 ### KALIMANTAN UTARA
 
 -   [Pemerintah Provinsi Kalimantan Utara](https://humas.kaltaraprov.go.id/)
 
-### SULAWESI BARAT
+### KEPULAUAN BANGKA BELITUNG
 
--   [Pemerintah Provinsi Sulawesi Barat](https://covid19.sulbarprov.go.id/)
+-   [Pemerintah Provinsi Kepulauan Bangka Belitung](https://covid19.babelprov.go.id/)
 
-### SULAWESI SELATAN
+### KEPULAUAN RIAU
 
--   [Pemerintah Provinsi Sulawesi Selatan](https://covid19.sulselprov.go.id/)
+-   [Pemerintah Provinsi Kepulauan Riau](https://corona.kepriprov.go.id/)
+-   [Pemerintah Kota Batam](https://lawancorona.batam.go.id/)
 
-### SULAWESI UTARA
+### LAMPUNG
 
--   [Pemerintah Provinsi Sulawesi Utara](https://corona.sulutprov.go.id/)
-
-### SULAWESI UTARA TENGGARA
-
--   [Pemerintah Provinsi Sulawesi Tenggara](http://corona.sultraprov.go.id/)
-
-### NUSA TENGGARA BARAT
-
--   [Pemerintah Provinsi Nusa Tenggara Barat](https://corona.ntbprov.go.id/)
+-   [Pemerintah Provinsi Lampung](http://geoportal.lampungprov.go.id/corona/)
 
 ### MALUKU
 
@@ -176,9 +129,62 @@
 
 -   [Pemerintah Provinsi Maluku Utara](http://corona.malutprov.go.id/)
 
-### Papua
+### NUSA TENGGARA BARAT
+
+-   [Pemerintah Provinsi Nusa Tenggara Barat](https://corona.ntbprov.go.id/)
+
+### PAPUA
 
 -   [Pemerintah Provinsi Papua](https://corona.papua.go.id/)
+
+### RIAU
+
+-   [Pemerintah Provinsi Riau](https://corona.riau.go.id/)
+
+### SULAWESI BARAT
+
+-   [Pemerintah Provinsi Sulawesi Barat](https://covid19.sulbarprov.go.id/)
+
+### SULAWESI SELATAN
+
+-   [Pemerintah Provinsi Sulawesi Selatan](https://covid19.sulselprov.go.id/)
+
+### SULAWESI UTARA TENGGARA
+
+-   [Pemerintah Provinsi Sulawesi Tenggara](http://corona.sultraprov.go.id/)
+
+### SULAWESI UTARA
+
+-   [Pemerintah Provinsi Sulawesi Utara](https://corona.sulutprov.go.id/)
+
+### SUMATERA BARAT
+
+-   [Pemerintah Provinsi Sumatera Barat](https://corona.sumbarprov.go.id/)
+-   [Pemerintah Kabupaten Agam](http://covid19.agamkab.go.id/)
+-   [Pemerintah Kota Padang](http://corona.padang.go.id/)
+
+### SUMATERA SELATAN
+
+-   [Pemerintah Provinsi Sumatera Selatan](http://corona.sumselprov.go.id/index.php?module=home&id=1)
+-   [Pemerintah Kota Palembang](https://hallo.palembang.go.id/Corona)
+
+### SUMATERA UTARA
+
+-   [Pemerintah Provinsi Sumatera Utara](http://covid19.sumutprov.go.id/)
+
+
+
+### YOGYAKARTA
+
+-   [Pemerintah Provinsi DI Yogyakarta](https://corona.jogjaprov.go.id/)
+-   [Pemerintah Kota Yogyakarta](https://corona.jogjakota.go.id/)
+-   [Pemerintah Kabupaten Bantul](https://corona.bantulkab.go.id/)
+-   [Pemerintah Kabupaten Gunungkidul](https://corona.gunungkidulkab.go.id/)
+-   [Pemerintah Kabupaten Kulon Progo](https://kulonprogokab.go.id/corona/)
+-   [Pemerintah Kabupaten Sleman](https://corona.slemankab.go.id/)
+
+
+
 
 ### LAINNYA
 
