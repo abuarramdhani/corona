@@ -51,6 +51,13 @@
 ### BANTEN
 
 -   [Pemerintah Provinsi Banten](https://infocorona.bantenprov.go.id/)
+-   [Pemerintah Kota Cilegon](http://covid19.cilegon.go.id/)
+-   [Pemerintah Kota Serang](https://infocorona.serangkota.go.id/)
+-   [Pemerintah Kota Tangerang](https://maps.tangerangkota.go.id/corona/)
+-   [Pemerintah Kabupaten Lebak](https://siagacovid19.lebakkab.go.id/)
+-   [Pemerintah Kabupaten Pandeglang](https://infocorona.pandeglangkab.go.id/)
+-   [Pemerintah Kabupaten Serang](https://infocorona.serangkab.go.id/)
+-   [Pemerintah Kabupaten Tangerang](http://covid19.tangerangkab.go.id/)
 
 ### JAKARTA
 
@@ -63,7 +70,6 @@
 -   [Pemerintah Kota Bekasi](http://corona.bekasikota.go.id/)
 -   [Pemerintah Kota Bogor](http://www.covid19.kotabogor.go.id/)
 -   [Pemerintah Kota Depok](http://ccc-19.depok.go.id/)
--   [Pemerintah Kota Tangerang](https://maps.tangerangkota.go.id/corona/)
 -   [Pemerintah Kabupaten Bandung](https://covid19.bandungkab.go.id/)
 
 ### JAWA TENGAH
