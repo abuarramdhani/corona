@@ -37,74 +37,11 @@
     }
   }, {
     "attributes": {
-      "group_name": "SUMATERA BARAT",
-      "slug": "sumatera-barat",
+      "group_name": "Bali",
+      "slug": "bali",
       "lists": [{
-        "name": "Pemerintah Provinsi Sumatera Barat",
-        "url": "https://corona.sumbarprov.go.id/"
-      }, {
-        "name": "Pemerintah Kota Padang",
-        "url": "http://corona.padang.go.id//"
-      }]
-    }
-  }, {
-    "attributes": {
-      "group_name": "SUMATERA SELATAN",
-      "slug": "sumatera-selatan",
-      "lists": [{
-        "name": "Pemerintah Provinsi Sumatera Selatan",
-        "url": "http://corona.sumselprov.go.id/index.php?module=home&id=1"
-      }, {
-        "name": "Pemerintah Kota Palembang",
-        "url": "https://hallo.palembang.go.id/Corona"
-      }]
-    }
-  }, {
-    "attributes": {
-      "group_name": "SUMATERA UTARA",
-      "slug": "sumatera-utara",
-      "lists": [{
-        "name": "Pemerintah Provinsi Sumatera Utara",
-        "url": "http://covid19.sumutprov.go.id/"
-      }]
-    }
-  }, {
-    "attributes": {
-      "group_name": "RIAU",
-      "slug": "riau",
-      "lists": [{
-        "name": "Pemerintah Provinsi Riau",
-        "url": "https://corona.riau.go.id/"
-      }]
-    }
-  }, {
-    "attributes": {
-      "group_name": "KEPULAUAN RIAU",
-      "slug": "kepulauan-riau",
-      "lists": [{
-        "name": "Pemerintah Provinsi Kepulauan Riau",
-        "url": "https://corona.kepriprov.go.id/"
-      }, {
-        "name": "Pemerintah Kota Batam",
-        "url": "https://lawancorona.batam.go.id"
-      }]
-    }
-  }, {
-    "attributes": {
-      "group_name": "KEPULAUAN BANGKA BELITUNG",
-      "slug": "kepulauan-bangka-belitung",
-      "lists": [{
-        "name": "Pemerintah Provinsi Kepulauan Bangka Belitung",
-        "url": "https://covid19.babelprov.go.id/"
-      }]
-    }
-  }, {
-    "attributes": {
-      "group_name": "LAMPUNG",
-      "slug": "lampung",
-      "lists": [{
-        "name": "Pemerintah Provinsi Lampung",
-        "url": "http://geoportal.lampungprov.go.id/corona/"
+        "name": "Pemerintah Provinsi Bali",
+        "url": "https://infocorona.baliprov.go.id/"
       }]
     }
   }, {
@@ -114,15 +51,6 @@
       "lists": [{
         "name": "Pemerintah Provinsi Banten",
         "url": "https://infocorona.bantenprov.go.id/"
-      }, {
-        "name": "Pemerintah Kota Cilegon",
-        "url": "http://covid19.cilegon.go.id/"
-      }, {
-        "name": "Pemerintah Kota Serang",
-        "url": "https://infocorona.serangkota.go.id/"
-      }, {
-        "name": "Pemerintah Kota Tangerang",
-        "url": "https://maps.tangerangkota.go.id/corona/"
       }, {
         "name": "Pemerintah Kabupaten Lebak",
         "url": "https://siagacovid19.lebakkab.go.id/"
@@ -135,6 +63,15 @@
       }, {
         "name": "Pemerintah Kabupaten Tangerang",
         "url": "http://covid19.tangerangkab.go.id/"
+      }, {
+        "name": "Pemerintah Kota Cilegon",
+        "url": "http://covid19.cilegon.go.id/"
+      }, {
+        "name": "Pemerintah Kota Serang",
+        "url": "https://infocorona.serangkota.go.id/"
+      }, {
+        "name": "Pemerintah Kota Tangerang",
+        "url": "https://maps.tangerangkota.go.id/corona/"
       }]
     }
   }, {
@@ -154,6 +91,18 @@
         "name": "Pemerintah Provinsi Jawa Barat",
         "url": "https://pikobar.jabarprov.go.id/"
       }, {
+        "name": "Pemerintah Kabupaten Bandung",
+        "url": "https://covid19.bandungkab.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Bandung Barat",
+        "url": "https://pik.bandungbaratkab.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Bekasi",
+        "url": "https://pikokabsi.bekasikab.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Cianjur",
+        "url": "https://covid19.cianjurkab.go.id/"
+      }, {
         "name": "Pemerintah Kota Bandung",
         "url": "https://covid19.bandung.go.id/"
       }, {
@@ -165,12 +114,6 @@
       }, {
         "name": "Pemerintah Kota Depok",
         "url": "http://ccc-19.depok.go.id/"
-      }, {
-        "name": "Pemerintah Kabupaten Bandung",
-        "url": "https://covid19.bandungkab.go.id/"
-      }, {
-        "name": "Pemerintah Kabupaten Cianjur",
-        "url": "https://covid19.cianjurkab.go.id/"
       }]
     }
   }, {
@@ -180,15 +123,6 @@
       "lists": [{
         "name": "Pemerintah Provinsi Jawa Tengah",
         "url": "https://corona.jatengprov.go.id/"
-      }, {
-        "name": "Pemerintah Kota Magelang",
-        "url": "https://covid19.magelangkota.go.id/"
-      }, {
-        "name": "Pemerintah Kota Semarang",
-        "url": "https://siagacorona.semarangkota.go.id/"
-      }, {
-        "name": "Pemerintah Kota Tegal",
-        "url": "https://corona.tegalkota.go.id/"
       }, {
         "name": "Pemerintah Kabupaten Jepara",
         "url": "http://corona.jepara.go.id/"
@@ -207,30 +141,15 @@
       }, {
         "name": "Pemerintah Kabupaten Wonosobo",
         "url": "https://corona.wonosobokab.go.id/"
-      }]
-    }
-  }, {
-    "attributes": {
-      "group_name": "YOGYAKARTA",
-      "slug": "yogyakarta",
-      "lists": [{
-        "name": "Pemerintah Provinsi DI Yogyakarta",
-        "url": "https://corona.jogjaprov.go.id/"
       }, {
-        "name": "Pemerintah Kota Yogyakarta",
-        "url": "https://corona.jogjakota.go.id/"
+        "name": "Pemerintah Kota Magelang",
+        "url": "https://covid19.magelangkota.go.id/"
       }, {
-        "name": "Pemerintah Kabupaten Bantul",
-        "url": "https://corona.bantulkab.go.id/"
+        "name": "Pemerintah Kota Semarang",
+        "url": "https://siagacorona.semarangkota.go.id/"
       }, {
-        "name": "Pemerintah Kabupaten Gunungkidul",
-        "url": "https://corona.gunungkidulkab.go.id/"
-      }, {
-        "name": "Pemerintah Kabupaten Kulon Progo",
-        "url": "https://kulonprogokab.go.id/corona/"
-      }, {
-        "name": "Pemerintah Kabupaten Sleman",
-        "url": "https://corona.slemankab.go.id/"
+        "name": "Pemerintah Kota Tegal",
+        "url": "https://corona.tegalkota.go.id/"
       }]
     }
   }, {
@@ -240,21 +159,6 @@
       "lists": [{
         "name": "Pemerintah Provinsi Jawa Timur",
         "url": "https://infocovid19.jatimprov.go.id/"
-      }, {
-        "name": "Pemerintah Kota Kediri",
-        "url": "https://corona.kedirikota.go.id/"
-      }, {
-        "name": "Pemerintah Kota Malang",
-        "url": "http://coronadetektor.malangkota.go.id/"
-      }, {
-        "name": "Pemerintah Kota Mojokerto",
-        "url": "http://covid19.mojokertokota.go.id/"
-      }, {
-        "name": "Pemerintah Kota Probolinggo",
-        "url": "https://portal.probolinggokota.go.id/index.php/tanggap-corona/"
-      }, {
-        "name": "Pemerintah Kota Surabaya",
-        "url": "https://lawancovid-19.surabaya.go.id/"
       }, {
         "name": "Pemerintah Kabupaten Bangkalan",
         "url": "http://www.bangkalankab.go.id/v5/"
@@ -303,15 +207,21 @@
       }, {
         "name": "Pemerintah Kabupaten Tuban",
         "url": "https://tubankab.go.id/page/informasi-tentang-virus-corona-covid-19"
-      }]
-    }
-  }, {
-    "attributes": {
-      "group_name": "Bali",
-      "slug": "bali",
-      "lists": [{
-        "name": "Pemerintah Provinsi Bali",
-        "url": "https://infocorona.baliprov.go.id/"
+      }, {
+        "name": "Pemerintah Kota Kediri",
+        "url": "https://corona.kedirikota.go.id/"
+      }, {
+        "name": "Pemerintah Kota Malang",
+        "url": "http://coronadetektor.malangkota.go.id/"
+      }, {
+        "name": "Pemerintah Kota Mojokerto",
+        "url": "http://covid19.mojokertokota.go.id/"
+      }, {
+        "name": "Pemerintah Kota Probolinggo",
+        "url": "https://portal.probolinggokota.go.id/index.php/tanggap-corona/"
+      }, {
+        "name": "Pemerintah Kota Surabaya",
+        "url": "https://lawancovid-19.surabaya.go.id/"
       }]
     }
   }, {
@@ -325,11 +235,11 @@
     }
   }, {
     "attributes": {
-      "group_name": "KALIMANTAN TIMUR",
-      "slug": "kalimantan-timur",
+      "group_name": "KALIMANTAN SELATAN",
+      "slug": "kalimantan-selatan",
       "lists": [{
-        "name": "Pemerintah Provinsi Kalimantan Timur",
-        "url": "https://covid19.kaltimprov.go.id/"
+        "name": "Pemerintah Provinsi Kalimantan Selatan",
+        "url": "http://corona.kalselprov.go.id/"
       }]
     }
   }, {
@@ -343,11 +253,11 @@
     }
   }, {
     "attributes": {
-      "group_name": "KALIMANTAN SELATAN",
-      "slug": "kalimantan-selatan",
+      "group_name": "KALIMANTAN TIMUR",
+      "slug": "kalimantan-timur",
       "lists": [{
-        "name": "Pemerintah Provinsi Kalimantan Selatan",
-        "url": "http://corona.kalselprov.go.id/"
+        "name": "Pemerintah Provinsi Kalimantan Timur",
+        "url": "https://covid19.kaltimprov.go.id/"
       }]
     }
   }, {
@@ -361,47 +271,32 @@
     }
   }, {
     "attributes": {
-      "group_name": "SULAWESI BARAT",
-      "slug": "sulawesi-barat",
+      "group_name": "KEPULAUAN BANGKA BELITUNG",
+      "slug": "kepulauan-bangka-belitung",
       "lists": [{
-        "name": "Pemerintah Provinsi Sulawesi Barat",
-        "url": "https://covid19.sulbarprov.go.id/"
+        "name": "Pemerintah Provinsi Kepulauan Bangka Belitung",
+        "url": "https://covid19.babelprov.go.id/"
       }]
     }
   }, {
     "attributes": {
-      "group_name": "SULAWESI SELATAN",
-      "slug": "sulawesi-selatan",
+      "group_name": "KEPULAUAN RIAU",
+      "slug": "kepulauan-riau",
       "lists": [{
-        "name": "Pemerintah Provinsi Sulawesi Selatan",
-        "url": "https://covid19.sulselprov.go.id/"
+        "name": "Pemerintah Provinsi Kepulauan Riau",
+        "url": "https://corona.kepriprov.go.id/"
+      }, {
+        "name": "Pemerintah Kota Batam",
+        "url": "https://lawancorona.batam.go.id"
       }]
     }
   }, {
     "attributes": {
-      "group_name": "SULAWESI UTARA",
-      "slug": "sulawesi-utara",
+      "group_name": "LAMPUNG",
+      "slug": "lampung",
       "lists": [{
-        "name": "Pemerintah Provinsi Sulawesi Utara",
-        "url": "https://corona.sulutprov.go.id/"
-      }]
-    }
-  }, {
-    "attributes": {
-      "group_name": "SULAWESI TENGGARA",
-      "slug": "sulawesi-tenggara",
-      "lists": [{
-        "name": "Pemerintah Provinsi Sulawesi Tenggara",
-        "url": "http://corona.sultraprov.go.id//"
-      }]
-    }
-  }, {
-    "attributes": {
-      "group_name": "NUSA TENGGARA BARAT",
-      "slug": "nusa-tenggara-barat",
-      "lists": [{
-        "name": "Pemerintah Provinsi Nusa Tenggara Barat",
-        "url": "https://corona.ntbprov.go.id/"
+        "name": "Pemerintah Provinsi Lampung",
+        "url": "http://geoportal.lampungprov.go.id/corona/"
       }]
     }
   }, {
@@ -424,11 +319,125 @@
     }
   }, {
     "attributes": {
+      "group_name": "NUSA TENGGARA BARAT",
+      "slug": "nusa-tenggara-barat",
+      "lists": [{
+        "name": "Pemerintah Provinsi Nusa Tenggara Barat",
+        "url": "https://corona.ntbprov.go.id/"
+      }]
+    }
+  }, {
+    "attributes": {
       "group_name": "PAPUA",
       "slug": "papua",
       "lists": [{
         "name": "Pemerintah Provinsi Papua",
         "url": "https://corona.papua.go.id/"
+      }]
+    }
+  }, {
+    "attributes": {
+      "group_name": "RIAU",
+      "slug": "riau",
+      "lists": [{
+        "name": "Pemerintah Provinsi Riau",
+        "url": "https://corona.riau.go.id/"
+      }]
+    }
+  }, {
+    "attributes": {
+      "group_name": "SULAWESI BARAT",
+      "slug": "sulawesi-barat",
+      "lists": [{
+        "name": "Pemerintah Provinsi Sulawesi Barat",
+        "url": "https://covid19.sulbarprov.go.id/"
+      }]
+    }
+  }, {
+    "attributes": {
+      "group_name": "SULAWESI SELATAN",
+      "slug": "sulawesi-selatan",
+      "lists": [{
+        "name": "Pemerintah Provinsi Sulawesi Selatan",
+        "url": "https://covid19.sulselprov.go.id/"
+      }]
+    }
+  }, {
+    "attributes": {
+      "group_name": "SULAWESI TENGGARA",
+      "slug": "sulawesi-tenggara",
+      "lists": [{
+        "name": "Pemerintah Provinsi Sulawesi Tenggara",
+        "url": "http://corona.sultraprov.go.id//"
+      }]
+    }
+  }, {
+    "attributes": {
+      "group_name": "SULAWESI UTARA",
+      "slug": "sulawesi-utara",
+      "lists": [{
+        "name": "Pemerintah Provinsi Sulawesi Utara",
+        "url": "https://corona.sulutprov.go.id/"
+      }]
+    }
+  }, {
+    "attributes": {
+      "group_name": "SUMATERA BARAT",
+      "slug": "sumatera-barat",
+      "lists": [{
+        "name": "Pemerintah Provinsi Sumatera Barat",
+        "url": "https://corona.sumbarprov.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Agam",
+        "url": "http://covid19.agamkab.go.id/"
+      }, {
+        "name": "Pemerintah Kota Padang",
+        "url": "http://corona.padang.go.id/"
+      }]
+    }
+  }, {
+    "attributes": {
+      "group_name": "SUMATERA SELATAN",
+      "slug": "sumatera-selatan",
+      "lists": [{
+        "name": "Pemerintah Provinsi Sumatera Selatan",
+        "url": "http://corona.sumselprov.go.id/index.php?module=home&id=1"
+      }, {
+        "name": "Pemerintah Kota Palembang",
+        "url": "https://hallo.palembang.go.id/Corona"
+      }]
+    }
+  }, {
+    "attributes": {
+      "group_name": "SUMATERA UTARA",
+      "slug": "sumatera-utara",
+      "lists": [{
+        "name": "Pemerintah Provinsi Sumatera Utara",
+        "url": "http://covid19.sumutprov.go.id/"
+      }]
+    }
+  }, {
+    "attributes": {
+      "group_name": "YOGYAKARTA",
+      "slug": "yogyakarta",
+      "lists": [{
+        "name": "Pemerintah Provinsi DI Yogyakarta",
+        "url": "https://corona.jogjaprov.go.id/"
+      }, {
+        "name": "Pemerintah Kota Yogyakarta",
+        "url": "https://corona.jogjakota.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Bantul",
+        "url": "https://corona.bantulkab.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Gunungkidul",
+        "url": "https://corona.gunungkidulkab.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Kulon Progo",
+        "url": "https://kulonprogokab.go.id/corona/"
+      }, {
+        "name": "Pemerintah Kabupaten Sleman",
+        "url": "https://corona.slemankab.go.id/"
       }]
     }
   }, {
