@@ -44,6 +44,10 @@
 -   [Pemerintah Provinsi Kepulauan Riau](https://corona.kepriprov.go.id/)
 -   [Pemerintah Kota Batam](https://lawancorona.batam.go.id/)
 
+### KEPULAUAN BANGKA BELITUNG
+
+-   [Pemerintah Provinsi Kepulauan Bangka Belitung](https://covid19.babelprov.go.id/)
+
 ### LAMPUNG
 
 -   [Pemerintah Provinsi Lampung](http://geoportal.lampungprov.go.id/corona/)
@@ -71,12 +75,15 @@
 -   [Pemerintah Kota Bogor](http://www.covid19.kotabogor.go.id/)
 -   [Pemerintah Kota Depok](http://ccc-19.depok.go.id/)
 -   [Pemerintah Kabupaten Bandung](https://covid19.bandungkab.go.id/)
+-   [Pemerintah Kabupaten Cianjur](https://covid19.cianjurkab.go.id/)
 
 ### JAWA TENGAH
 
 -   [Pemerintah Provinsi Jawa Tengah](https://corona.jatengprov.go.id/)
+-   [Pemerintah Kota Magelang](https://covid19.magelangkota.go.id/)
 -   [Pemerintah Kota Semarang](https://siagacorona.semarangkota.go.id/)
 -   [Pemerintah Kota Tegal](https://corona.tegalkota.go.id/)
+-   [Pemerintah Kabupaten Jepara]()
 -   [Pemerintah Kabupaten Kebumen](https://corona.kebumenkab.go.id/)
 -   [Pemerintah Kabupaten Klaten](http://pantaucorona.klatenkab.go.id/)
 -   [Pemerintah Kabupaten Kudus](http://corona.kuduskab.go.id/)

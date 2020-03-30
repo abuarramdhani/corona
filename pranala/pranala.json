@@ -91,6 +91,15 @@
     }
   }, {
     "attributes": {
+      "group_name": "KEPULAUAN BANGKA BELITUNG",
+      "slug": "kepulauan-bangka-belitung",
+      "lists": [{
+        "name": "Pemerintah Provinsi Kepulauan Bangka Belitung",
+        "url": "https://covid19.babelprov.go.id/"
+      }]
+    }
+  }, {
+    "attributes": {
       "group_name": "LAMPUNG",
       "slug": "lampung",
       "lists": [{
@@ -159,6 +168,9 @@
       }, {
         "name": "Pemerintah Kabupaten Bandung",
         "url": "https://covid19.bandungkab.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Cianjur",
+        "url": "https://covid19.cianjurkab.go.id/"
       }]
     }
   }, {
@@ -169,11 +181,17 @@
         "name": "Pemerintah Provinsi Jawa Tengah",
         "url": "https://corona.jatengprov.go.id/"
       }, {
+        "name": "Pemerintah Kota Magelang",
+        "url": "https://covid19.magelangkota.go.id/"
+      }, {
         "name": "Pemerintah Kota Semarang",
         "url": "https://siagacorona.semarangkota.go.id/"
       }, {
         "name": "Pemerintah Kota Tegal",
         "url": "https://corona.tegalkota.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Jepara",
+        "url": "http://corona.jepara.go.id/"
       }, {
         "name": "Pemerintah Kabupaten Kebumen",
         "url": "https://corona.kebumenkab.go.id/"
