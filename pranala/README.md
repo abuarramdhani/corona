@@ -24,7 +24,7 @@
 ### SUMATERA BARAT
 
 -   [Pemerintah Provinsi Sumatera Barat](https://corona.sumbarprov.go.id/)
--   [Pemerintah Kota Padang](https://dinkes.padang.go.id/)
+-   [Pemerintah Kota Padang](http://corona.padang.go.id/)
 
 ### SUMATERA SELATAN
 
@@ -78,7 +78,9 @@
 -   [Pemerintah Kota Semarang](https://siagacorona.semarangkota.go.id/)
 -   [Pemerintah Kota Tegal](https://corona.tegalkota.go.id/)
 -   [Pemerintah Kabupaten Kebumen](https://corona.kebumenkab.go.id/)
+-   [Pemerintah Kabupaten Klaten](http://pantaucorona.klatenkab.go.id/)
 -   [Pemerintah Kabupaten Kudus](http://corona.kuduskab.go.id/)
+-   [Pemerintah Kabupaten Purworejo](https://covid19.purworejokab.go.id/)
 -   [Pemerintah Kabupaten Wonosobo](https://corona.wonosobokab.go.id/)
 
 ### YOGYAKARTA
@@ -89,7 +91,6 @@
 -   [Pemerintah Kabupaten Gunungkidul](https://corona.gunungkidulkab.go.id/)
 -   [Pemerintah Kabupaten Kulon Progo](https://kulonprogokab.go.id/corona/)
 -   [Pemerintah Kabupaten Sleman](https://corona.slemankab.go.id/)
-
 
 ### JAWA TIMUR
 
@@ -170,7 +171,7 @@
 
 ### Papua
 
--   [Pemerintah Provinsi Papua](https://www.papua.go.id/)
+-   [Pemerintah Provinsi Papua](https://corona.papua.go.id/)
 
 ### LAINNYA
 
