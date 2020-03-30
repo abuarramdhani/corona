@@ -169,14 +169,35 @@
         "name": "Pemerintah Kabupaten Pati",
         "url": "https://covid19.patikab.go.id/"
       }, {
+        "name": "Pemerintah Kabupaten Pekalongan",
+        "url": "http://corona.pekalongankab.go.id/"
+      }, {
         "name": "Pemerintah Kabupaten Purworejo",
         "url": "https://covid19.purworejokab.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Rembang",
+        "url": "https://covid19.rembangkab.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Semarang",
+        "url": "https://corona.semarangkab.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Sragen",
+        "url": "http://corona.sragenkab.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Sukoharjo",
+        "url": "https://corona.sukoharjokab.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Tegal",
+        "url": "https://covid19.tegalkab.go.id/"
       }, {
         "name": "Pemerintah Kabupaten Wonosobo",
         "url": "https://corona.wonosobokab.go.id/"
       }, {
         "name": "Pemerintah Kota Magelang",
         "url": "https://covid19.magelangkota.go.id/"
+      }, {
+        "name": "Pemerintah Kota Salatiga",
+        "url": "https://corona.salatiga.go.id/"
       }, {
         "name": "Pemerintah Kota Semarang",
         "url": "https://siagacorona.semarangkota.go.id/"
