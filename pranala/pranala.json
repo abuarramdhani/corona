@@ -124,8 +124,35 @@
         "name": "Pemerintah Provinsi Jawa Tengah",
         "url": "https://corona.jatengprov.go.id/"
       }, {
+        "name": "Pemerintah Kabupaten Banyumas",
+        "url": "http://covid19.banyumaskab.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Batang",
+        "url": "https://corona.batangkab.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Blora",
+        "url": "http://corona.blorakab.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Boyolali",
+        "url": "http://covid19.boyolali.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Brebes",
+        "url": "http://corona.brebeskab.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Cilacap",
+        "url": "https://corona.cilacapkab.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Demak",
+        "url": "http://corona.demakkab.go.id//"
+      }, {
+        "name": "Pemerintah Kabupaten Grobogan",
+        "url": "https://corona.grobogan.go.id/"
+      }, {
         "name": "Pemerintah Kabupaten Jepara",
         "url": "http://corona.jepara.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Karanganyar",
+        "url": "http://covid19.karanganyarkab.go.id/"
       }, {
         "name": "Pemerintah Kabupaten Kebumen",
         "url": "https://corona.kebumenkab.go.id/"
@@ -136,14 +163,41 @@
         "name": "Pemerintah Kabupaten Kudus",
         "url": "http://corona.kuduskab.go.id/"
       }, {
+        "name": "Pemerintah Kabupaten Magelang",
+        "url": "https://infocorona.magelangkab.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Pati",
+        "url": "https://covid19.patikab.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Pekalongan",
+        "url": "http://corona.pekalongankab.go.id/"
+      }, {
         "name": "Pemerintah Kabupaten Purworejo",
         "url": "https://covid19.purworejokab.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Rembang",
+        "url": "https://covid19.rembangkab.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Semarang",
+        "url": "https://corona.semarangkab.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Sragen",
+        "url": "http://corona.sragenkab.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Sukoharjo",
+        "url": "https://corona.sukoharjokab.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Tegal",
+        "url": "https://covid19.tegalkab.go.id/"
       }, {
         "name": "Pemerintah Kabupaten Wonosobo",
         "url": "https://corona.wonosobokab.go.id/"
       }, {
         "name": "Pemerintah Kota Magelang",
         "url": "https://covid19.magelangkota.go.id/"
+      }, {
+        "name": "Pemerintah Kota Salatiga",
+        "url": "https://corona.salatiga.go.id/"
       }, {
         "name": "Pemerintah Kota Semarang",
         "url": "https://siagacorona.semarangkota.go.id/"

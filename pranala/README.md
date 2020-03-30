@@ -1,6 +1,6 @@
 <!--
-  Title: Pranala | COVID-19
-  Description: Daftar situs yang menyajikan informasi tanggap COVID-19 milik Pemerintah Pusat, Pemerintah Daerah, dan lainnya.
+  Title: Daftar Situs Tanggap COVID-19
+  Description: Daftar situs tanggap COVID-19 milik Pemerintah Pusat, Pemerintah Daerah, dan lainnya.
   Author: hanifmu.com
   -->
 
@@ -12,7 +12,6 @@
 -   [Gugus Tugas Percepatan Penanganan COVID-19](https://www.covid19.go.id/)
 -   [Peta Rumah Sakit Rujukan COVID-19](https://bnpb-inacovid19.hub.arcgis.com/app/rumah-sakit-rujukan-penanganan-covid-19)
 -   [Data Kasus dan Peta Persebaran COVID-19](https://experience.arcgis.com/experience/57237ebe9c5b4b1caa1b93e79c920338)
-
 -   [PeduliLindungi](https://www.pedulilindungi.id/)
 
 ## PEMERINTAH DAERAH
@@ -54,13 +53,31 @@
 ### JAWA TENGAH
 
 -   [Pemerintah Provinsi Jawa Tengah](https://corona.jatengprov.go.id/)
+-   [Pemerintah Kabupaten Banyumas](http://covid19.banyumaskab.go.id/)
+-   [Pemerintah Kabupaten Batang](https://corona.batangkab.go.id/)
+-   [Pemerintah Kabupaten Blora](http://corona.blorakab.go.id/)
+-   [Pemerintah Kabupaten Boyolali](http://covid19.boyolali.go.id/)
+-   [Pemerintah Kabupaten Brebes](http://corona.brebeskab.go.id/)
+-   [Pemerintah Kabupaten Cilacap](https://corona.cilacapkab.go.id/)
+-   [Pemerintah Kabupaten Demak](http://corona.demakkab.go.id/)
+-   [Pemerintah Kabupaten Grobogan](https://corona.grobogan.go.id/)
 -   [Pemerintah Kabupaten Jepara](http://corona.jepara.go.id/)
+-   [Pemerintah Kabupaten Karanganyar](http://covid19.karanganyarkab.go.id/)
 -   [Pemerintah Kabupaten Kebumen](https://corona.kebumenkab.go.id/)
 -   [Pemerintah Kabupaten Klaten](http://pantaucorona.klatenkab.go.id/)
 -   [Pemerintah Kabupaten Kudus](http://corona.kuduskab.go.id/)
+-   [Pemerintah Kabupaten Magelang](https://infocorona.magelangkab.go.id/)
+-   [Pemerintah Kabupaten Pati](https://covid19.patikab.go.id/)
+-   [Pemerintah Kabupaten Pekalongan](http://corona.pekalongankab.go.id/)
 -   [Pemerintah Kabupaten Purworejo](https://covid19.purworejokab.go.id/)
+-   [Pemerintah Kabupaten Rembang](https://covid19.rembangkab.go.id/)
+-   [Pemerintah Kabupaten Semarang](https://corona.semarangkab.go.id/)
+-   [Pemerintah Kabupaten Sragen](http://corona.sragenkab.go.id/)
+-   [Pemerintah Kabupaten Sukoharjo](https://corona.sukoharjokab.go.id/)
+-   [Pemerintah Kabupaten Tegal](https://covid19.tegalkab.go.id/)
 -   [Pemerintah Kabupaten Wonosobo](https://corona.wonosobokab.go.id/)
 -   [Pemerintah Kota Magelang](https://covid19.magelangkota.go.id/)
+-   [Pemerintah Kota Semarang](https://corona.salatiga.go.id/)
 -   [Pemerintah Kota Semarang](https://siagacorona.semarangkota.go.id/)
 -   [Pemerintah Kota Tegal](https://corona.tegalkota.go.id/)
 
