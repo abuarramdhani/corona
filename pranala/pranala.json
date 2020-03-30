@@ -105,6 +105,27 @@
       "lists": [{
         "name": "Pemerintah Provinsi Banten",
         "url": "https://infocorona.bantenprov.go.id/"
+      },{
+        "name": "Pemerintah Kota Cilegon",
+        "url": "http://covid19.cilegon.go.id/"
+      },{
+        "name": "Pemerintah Kota Serang",
+        "url": "https://infocorona.serangkota.go.id/"
+      }, {
+        "name": "Pemerintah Kota Tangerang",
+        "url": "https://maps.tangerangkota.go.id/corona/"
+      },{
+        "name": "Pemerintah Kabupaten Lebak",
+        "url": "https://siagacovid19.lebakkab.go.id/"
+      },{
+        "name": "Pemerintah Kabupaten Pandeglang",
+        "url": "https://infocorona.pandeglangkab.go.id/"
+      },{
+        "name": "Pemerintah Kabupaten Serang",
+        "url": "https://infocorona.serangkab.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Tangerang",
+        "url": "http://covid19.tangerangkab.go.id/"
       }]
     }
   }, {
@@ -135,9 +156,6 @@
       }, {
         "name": "Pemerintah Kota Depok",
         "url": "http://ccc-19.depok.go.id/"
-      }, {
-        "name": "Pemerintah Kota Tangerang",
-        "url": "https://maps.tangerangkota.go.id/corona/"
       }, {
         "name": "Pemerintah Kabupaten Bandung",
         "url": "https://covid19.bandungkab.go.id/"
