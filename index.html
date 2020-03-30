@@ -11,336 +11,80 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="#1C2833" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
   <meta name="title" content="COVID-19" />
-  <meta name="description" content="Data Kasus COVID-19 di Indonesia" />
+  <meta name="description" content="Data Kasus dan Peta Persebaran COVID-19 di Indonesia" />
   <meta name="author" content="hanifmu.com" />
-
-  <link rel="preconnect" href="https://raw.githubusercontent.com" />
-  <link rel="preconnect" href="https://cdnjs.cloudflare.com" />
-  <link rel="preconnect" href="https://cdn.datatables.net" />
-  <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link rel="preconnect" href="https://kawalcovid19.harippe.id" />
-  <link rel="preconnect" href="https://services5.arcgis.com" />
-
-  <link rel="dns-prefetch" href="https://raw.githubusercontent.com" />
-  <link rel="dns-prefetch" href="https://cdnjs.cloudflare.com" />
-  <link rel="dns-prefetch" href="https://cdn.datatables.net" />
-  <link rel="dns-prefetch" href="https://fonts.googleapis.com" />
-  <link rel="dns-prefetch" href="https://kawalcovid19.harippe.id" />
-  <link rel="dns-prefetch" href="https://services5.arcgis.com" />
-
-  <link rel="preload" as="style" crossorigin="anonymous" integrity="sha256-eSi1q2PG6J7g7ib17yAaWMcrr5GrtohYChqibrV7PBE=" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css" />
-  <link rel="preload" as="style" crossorigin="anonymous" integrity="sha256-h20CPZ0QyXlBuAw7A+KluUYx/3pK+c7lYEpqLTlxjYQ=" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css" />
-  <link rel="preload" as="style" crossorigin="anonymous" href="https://cdn.datatables.net/1.10.20/css/dataTables.bootstrap4.min.css" />
-  <link rel="preload" as="style" crossorigin="anonymous" href="https://cdn.datatables.net/responsive/2.2.3/css/responsive.bootstrap4.min.css" />
-  <link rel="preload" as="style" crossorigin="anonymous" href="https://fonts.googleapis.com/css?family=Abel&display=swap" />
-  <link rel="preload" as="script" crossorigin="anonymous" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" href="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" />
-  <link rel="preload" as="script" crossorigin="anonymous" integrity="sha256-ngFW3UnAN0Tnm76mDuu7uUtYEcG3G5H1+zioJw3t+68=" href="https://cdnjs.cloudflare.com/ajax/libs/vue/2.6.11/vue.min.js" />
-  <link rel="preload" as="script" crossorigin="anonymous" integrity="sha256-T/f7Sju1ZfNNfBh7skWn0idlCBcI3RwdLSS4/I7NQKQ=" href="https://cdnjs.cloudflare.com/ajax/libs/axios/0.19.2/axios.min.js" />
-  <link rel="preload" as="script" crossorigin="anonymous" href="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.min.js" />
-  <link rel="preload" as="script" crossorigin="anonymous" href="https://cdn.datatables.net/1.10.20/js/dataTables.bootstrap4.min.js" />
-  <link rel="preload" as="script" crossorigin="anonymous" href="https://cdn.datatables.net/responsive/2.2.3/js/dataTables.responsive.min.js" />
-  <link rel="preload" as="script" crossorigin="anonymous" href="https://cdn.datatables.net/responsive/2.2.3/js/responsive.bootstrap4.min.js" />
-  <link rel="preload" as="font" crossorigin="anonymous" href="https://fonts.gstatic.com/s/abel/v10/MwQ5bhbm2POE2V9BPbh5uGM.woff2" />
-  <link rel="preload" as="font" crossorigin="anonymous" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/webfonts/fa-solid-900.woff2" />
 
   <meta property="og:locale" content="id_ID" />
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="corona.hanifmu.com" />
   <meta property="og:url" content="https://corona.hanifmu.com/" />
   <meta property="og:title" content="COVID-19" />
-  <meta property="og:description" content="Data Kasus COVID-19 di Indonesia" />
-  <meta property="og:image" content="https://raw.githubusercontent.com/muhammadhanif/corona/master/image/covid-19-indonesia.png" />
-  <meta property="og:image:secure_url" content="https://raw.githubusercontent.com/muhammadhanif/corona/master/image/covid-19-indonesia.png" />
+  <meta property="og:description" content="Data Kasus dan Peta Persebaran COVID-19 di Indonesia" />
+  <meta property="og:image" content="https://raw.githubusercontent.com/muhammadhanif/corona/master/image/covid-19.png" />
+  <meta property="og:image:secure_url" content="https://raw.githubusercontent.com/muhammadhanif/corona/master/image/covid-19.png" />
 
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:url" content="https://corona.hanifmu.com/">
   <meta name="twitter:title" content="COVID-19" />
-  <meta name="twitter:description" content="Data Kasus COVID-19 di Indonesia" />
-  <meta name="twitter:image" content="https://raw.githubusercontent.com/muhammadhanif/corona/master/image/covid-19-indonesia.png" />
+  <meta name="twitter:description" content="Data Kasus dan Peta Persebaran COVID-19 di Indonesia" />
+  <meta name="twitter:image" content="https://raw.githubusercontent.com/muhammadhanif/corona/master/image/covid-19.png" />
+
+  <link rel="preconnect" href="https://raw.githubusercontent.com" />
+  <link rel="preconnect" href="https://experience.arcgis.com" />
+  <link rel="preconnect" href="https://cdnjs.cloudflare.com" />
+
+  <link rel="dns-prefetch" href="https://raw.githubusercontent.com" />
+  <link rel="dns-prefetch" href="https://experience.arcgis.com" />
+  <link rel="dns-prefetch" href="https://cdnjs.cloudflare.com" />
+
+  <link rel="preload" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/css/bootstrap.min.css" integrity="sha256-MfvZlkHCEqatNoGiOXveE8FIwMzZg4W85qfrfIFBfYc=" crossorigin="anonymous" />
+  <link rel="preload" as="script" href="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js" integrity="sha256-IFHWFEbU2/+wNycDECKgjIRSirRNIDp2acEB5fvdVRU=" crossorigin="anonymous" />
+  <link rel="preload" as="script" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/js/bootstrap.min.js" integrity="sha256-Sk3nkD6mLTMOF0EOpNtsIry+s1CsaqQC1rVLTAy+0yc=" crossorigin="anonymous" />
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/css/bootstrap.min.css" integrity="sha256-MfvZlkHCEqatNoGiOXveE8FIwMzZg4W85qfrfIFBfYc=" crossorigin="anonymous" />
 
   <link rel="canonical" href="https://corona.hanifmu.com/" />
-  <link rel='shortcut icon' type='image/x-icon' href='https://raw.githubusercontent.com/muhammadhanif/muhammadhanif.github.io/master/assets/images/hanifmu-ico.png' />
-
-  <link rel="stylesheet" crossorigin="anonymous" integrity="sha256-eSi1q2PG6J7g7ib17yAaWMcrr5GrtohYChqibrV7PBE=" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css" />
-  <link rel="stylesheet" crossorigin="anonymous" integrity="sha256-h20CPZ0QyXlBuAw7A+KluUYx/3pK+c7lYEpqLTlxjYQ=" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css" />
-  <link rel="stylesheet" crossorigin="anonymous" href="https://cdn.datatables.net/1.10.20/css/dataTables.bootstrap4.min.css" />
-  <link rel="stylesheet" crossorigin="anonymous" href="https://cdn.datatables.net/responsive/2.2.3/css/responsive.bootstrap4.min.css" />
-  <link rel="stylesheet" crossorigin="anonymous" href="https://fonts.googleapis.com/css?family=Abel&display=swap" />
+  <link rel="shortcut icon" type="image/x-icon" href="https://raw.githubusercontent.com/muhammadhanif/muhammadhanif.github.io/master/assets/images/hanifmu-ico.png" />
 
   <style>
     body {
-      background-color: #1C2833;
-      font-family: 'Abel', sans-serif;
-      color: white;
+      margin: 0 !important;
+      overflow: hidden;
     }
 
-    .list-inline {
-      padding-left: 0;
-      list-style: none;
-    }
-
-    .list-inline-item {
-      display: inline-block;
-    }
-
-    .pd-top {
-      padding-top: 1em;
-    }
-
-    .pd-top-05 {
-      padding-top: 0.5em;
-    }
-
-    .pd-bottom-05 {
-      padding-bottom: 0.5em;
-    }
-
-    .space {
-      padding-top: 3em;
-      padding-bottom: 3em;
-    }
-
-    #data-source a:link,
-    #data-source a:visited,
-    #data-source a:hover,
-    #data-source a:active {
-      text-decoration: none;
-      color: white
+    embed {
+      width: 100%;
+      min-height: 100vh;
     }
   </style>
 
 </head>
 
 <body>
-  <main role="main" class="container space">
-    <div class="row">
-      <div class="col-sm text-center">
-        <ul class="list-inline">
-          <li class="list-inline-item">
-            <i class="fas fa-bug fa-4x"></i>
-          </li>
-        </ul>
-        <h3>KASUS COVID-19 DI INDONESIA</h3>
-      </div>
-    </div>
+  <embed src="https://experience.arcgis.com/experience/57237ebe9c5b4b1caa1b93e79c920338"></embed>
 
-    <div class="row" id="nasional">
-      <div class="col-sm pd-top">
-        <div class="card text-center bg-danger">
-          <div class="card-header">
-            Terkonfirmasi
-          </div>
-          <div class="card-body">
-            <h2 class="card-title">{{ confirmed }}</h2>
-          </div>
+  <div id="myModal" class="modal fade" role="dialog">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h4 class="modal-title">Pranala</h4>
         </div>
-      </div>
-      <div class="col-sm pd-top">
-        <div class="card text-center bg-warning">
-          <div class="card-header">
-            Dalam Perawatan
-          </div>
-          <div class="card-body">
-            <h2 class="card-title">{{ activeCare }}</h2>
-          </div>
+        <div class="modal-body">
+          <a href="pranala/" class="btn btn-block btn-primary">Daftar Situs Tanggap COVID-19</a>
         </div>
-      </div>
-      <div class="col-sm pd-top">
-        <div class="card text-center bg-success">
-          <div class="card-header">
-            Sembuh
-          </div>
-          <div class="card-body">
-            <h2 class="card-title">{{ recovered }}</h2>
-          </div>
-        </div>
-      </div>
-      <div class="col-sm pd-top">
-        <div class="card text-center bg-secondary">
-          <div class="card-header">
-            Meninggal
-          </div>
-          <div class="card-body">
-            <h2 class="card-title">{{ deaths }}</h2>
-          </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
         </div>
       </div>
     </div>
+  </div>
 
-    <div class="row pd-top">
-      <div class="col-sm">
-        <div class="card bg-dark">
-          <div class="card-header">
-            Pranala
-          </div>
-          <div class="card-body">
-            <a href="pranala/" class="btn btn-primary btn-lg btn-block" role="button" aria-pressed="true">Daftar Situs Tanggap COVID-19</a>
-          </div>
-        </div>
-      </div>
-    </div>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js" integrity="sha256-IFHWFEbU2/+wNycDECKgjIRSirRNIDp2acEB5fvdVRU=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/js/bootstrap.min.js" integrity="sha256-Sk3nkD6mLTMOF0EOpNtsIry+s1CsaqQC1rVLTAy+0yc=" crossorigin="anonymous"></script>
 
-    <div class="row pd-top">
-      <div class="col">
-        <div class="card  bg-dark">
-          <div class="card-header">
-            Data Kasus Per Provinsi
-          </div>
-          <div class="card-body">
-            <div class="row">
-              <div class="col">
-                <div class="table-responsive">
-                  <table id="example" class="table table-dark table-hover table-bordered dt-responsive nowrap" style="width:100%">
-                    <thead>
-                      <tr class="text-center">
-                        <th></th>
-                        <th>Provinsi</th>
-                        <th>Positif</th>
-                        <th>Sembuh</th>
-                        <th>Meninggal</th>
-                      </tr>
-                    </thead>
-                    <tfoot>
-                      <tr class="text-center">
-                        <th></th>
-                        <th>Provinsi</th>
-                        <th>Positif</th>
-                        <th>Sembuh</th>
-                        <th>Meninggal</th>
-                      </tr>
-                    </tfoot>
-                  </table>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="row pd-top">
-      <div class="col-sm">
-        <div class="card bg-dark">
-          <div class="card-header">
-            Disclaimer
-          </div>
-          <div class="card-body" id="data-source">
-            <ol>
-              <li>Sumber data kasus COVID-19:
-                <ul>
-                  <li><a target="_blank" href="http://covid19.bnpb.go.id/">covid19.bnpb.go.id</a></li>
-                  <li><a target="_blank" href="https://kawalcovid19.id/">kawalcovid19.id</a></li>
-                </ul>
-              </li>
-              <li>Apabila data kasus COVID-19 yang tampil di halaman ini berbeda dengan sumber data pada poin 1, maka data yang valid adalah yang ada di sumber data pada poin 1.</li>
-            </ol>
-          </div>
-        </div>
-      </div>
-    </div>
-
-  </main>
-
-  <script crossorigin="anonymous" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-  <script crossorigin="anonymous" integrity="sha256-ngFW3UnAN0Tnm76mDuu7uUtYEcG3G5H1+zioJw3t+68=" src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.6.11/vue.min.js"></script>
-  <script crossorigin="anonymous" integrity="sha256-T/f7Sju1ZfNNfBh7skWn0idlCBcI3RwdLSS4/I7NQKQ=" src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.19.2/axios.min.js"></script>
-  <script crossorigin="anonymous" src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.min.js"></script>
-  <script crossorigin="anonymous" src="https://cdn.datatables.net/1.10.20/js/dataTables.bootstrap4.min.js"></script>
-  <script crossorigin="anonymous" src="https://cdn.datatables.net/responsive/2.2.3/js/dataTables.responsive.min.js"></script>
-  <script crossorigin="anonymous" src="https://cdn.datatables.net/responsive/2.2.3/js/responsive.bootstrap4.min.js"></script>
-
-  <script type="text/javascript">
-    function formatted(number) {
-      if (number >= 1000) {
-        var number_string = number.toString();
-        var modulo = number_string.length % 3;
-        var formatted = number_string.substr(0, modulo);
-        var thousands = number_string.substr(modulo).match(/\d{3}/g);
-
-        if (modulo) {
-          separator = modulo ? '.' : '';
-          formatted += separator + thousands.join('.');
-        }
-      } else {
-        formatted = number;
-      }
-
-      return formatted;
-    }
-
-    new Vue({
-      el: "#nasional",
-      data: {
-        confirmed: 0,
-        activeCare: 0,
-        recovered: 0,
-        deaths: 0
-      },
-
-      async mounted() {
-        await axios
-          .get('https://kawalcovid19.harippe.id/api/summary')
-          .then(json => [
-            this.confirmed = formatted(json.data.confirmed.value),
-            this.activeCare = formatted(json.data.activeCare.value),
-            this.recovered = formatted(json.data.recovered.value),
-            this.deaths = formatted(json.data.deaths.value),
-          ])
-          .catch(error => {
-            console.log(error)
-          })
-      }
-    })
-  </script>
-
-  <script type="text/javascript">
-    $(document).ready(function() {
-      var t = $('#example').DataTable({
-        "language":{
-          "url": "https://cdn.datatables.net/plug-ins/1.10.20/i18n/Indonesian.json"
-        },
-        "ajax": {
-          "url": "https://services5.arcgis.com/VS6HdKS0VfIhv8Ct/arcgis/rest/services/COVID19_Indonesia_per_Provinsi/FeatureServer/0/query?f=json&where=(Kasus_Posi%20%3C%3E%200)%20AND%20(Provinsi%20%3C%3E%20%27Indonesia%27)&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&orderByFields=Kasus_Posi%20desc&outSR=102100&resultOffset=0&resultRecordCount=34&cacheHint=true",
-          "dataSrc": "features",
-          "deferRender": true
-        },
-        "paging": false,
-        "order": [
-          [2, "desc"]
-        ],
-        "columnDefs": [{
-          "searchable": false,
-          "orderable": false,
-          "targets": 0,
-        }],
-        "columns": [{
-            "data": null
-          }, {
-            "data": "attributes.Provinsi"
-          },
-          {
-            "data": "attributes.Kasus_Posi",
-            "sClass": "text-center"
-          },
-          {
-            "data": "attributes.Kasus_Semb",
-            "sClass": "text-center"
-          },
-          {
-            "data": "attributes.Kasus_Meni",
-            "sClass": "text-center"
-          }
-        ]
-      });
-
-      t.on('draw.dt', function() {
-        var PageInfo = $('#example').DataTable().page.info();
-        t.column(0, {
-          page: 'current'
-        }).nodes().each(function(cell, i) {
-          cell.innerHTML = i + 1 + PageInfo.start;
-        });
-      });
+  <script>
+    $(window).load(function() {
+      $('#myModal').modal('show');
     });
   </script>
 
