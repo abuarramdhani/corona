@@ -124,6 +124,9 @@
         "name": "Pemerintah Provinsi Jawa Tengah",
         "url": "https://corona.jatengprov.go.id/"
       }, {
+        "name": "Pemerintah Kabupaten Banjarnegara",
+        "url": "http://corona.banjarnegarakab.go.id/"
+      }, {
         "name": "Pemerintah Kabupaten Banyumas",
         "url": "http://covid19.banyumaskab.go.id/"
       }, {
@@ -157,6 +160,9 @@
         "name": "Pemerintah Kabupaten Kebumen",
         "url": "https://corona.kebumenkab.go.id/"
       }, {
+        "name": "Pemerintah Kabupaten Kendal",
+        "url": "https://corona.kendalkab.go.id/"
+      }, {
         "name": "Pemerintah Kabupaten Klaten",
         "url": "http://pantaucorona.klatenkab.go.id/"
       }, {
@@ -171,6 +177,12 @@
       }, {
         "name": "Pemerintah Kabupaten Pekalongan",
         "url": "http://corona.pekalongankab.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Pemalang",
+        "url": "https://infocorona.pemalangkab.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Purbalingga",
+        "url": "https://corona.purbalinggakab.go.id/"
       }, {
         "name": "Pemerintah Kabupaten Purworejo",
         "url": "https://covid19.purworejokab.go.id/"
@@ -190,10 +202,19 @@
         "name": "Pemerintah Kabupaten Tegal",
         "url": "https://covid19.tegalkab.go.id/"
       }, {
+        "name": "Pemerintah Kabupaten Temanggung",
+        "url": "http://corona.temanggungkab.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Wonogiri",
+        "url": "https://wonogirikab.go.id/index.php/info-corona/"
+      }, {
         "name": "Pemerintah Kabupaten Wonosobo",
         "url": "https://corona.wonosobokab.go.id/"
       }, {
         "name": "Pemerintah Kota Magelang",
+        "url": "https://corona.pekalongankota.go.id/"
+      }, {
+        "name": "Pemerintah Kota Pekalongan",
         "url": "https://covid19.magelangkota.go.id/"
       }, {
         "name": "Pemerintah Kota Salatiga",
@@ -201,6 +222,9 @@
       }, {
         "name": "Pemerintah Kota Semarang",
         "url": "https://siagacorona.semarangkota.go.id/"
+      }, {
+        "name": "Pemerintah Kota Surakarta",
+        "url": "https://surakarta.go.id/?page_id=10806"
       }, {
         "name": "Pemerintah Kota Tegal",
         "url": "https://corona.tegalkota.go.id/"
