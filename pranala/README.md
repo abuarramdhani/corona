@@ -194,6 +194,7 @@
 ### SULAWESI UTARA
 
 -   [Pemerintah Provinsi Sulawesi Utara](https://corona.sulutprov.go.id/)
+-   [Pemerintah Kabupaten Bolaang Mongondow](https://covid19.bolmongkab.go.id/)
 
 ### SUMATERA BARAT
 

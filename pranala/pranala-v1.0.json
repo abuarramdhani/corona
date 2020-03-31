@@ -495,6 +495,9 @@
       "lists": [{
         "name": "Pemerintah Provinsi Sulawesi Utara",
         "url": "https://corona.sulutprov.go.id/"
+      }{
+        "name": "Pemerintah Kabupaten Bolaang Mongondow",
+        "url": "https://covid19.bolmongkab.go.id/"
       }]
     }
   }, {

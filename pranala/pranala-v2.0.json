@@ -1,0 +1,1152 @@
+{
+  "page": [{
+    "name": "Daftar Situs Tanggap COVID-19",
+    "description": "Daftar situs tanggap COVID-19 milik Pemerintah Pusat, Pemerintah Daerah, dan lainnya.",
+    "author": "Muhammad Hanif - hanifmu.com",
+    "url": "https://corona.hanifmu.com/pranala/"
+  }],
+  "features": [{
+      "attributes": {
+        "group": "PEMERINTAH PUSAT",
+        "group_slug": "pusat",
+        "name": "Kementerian Kesehatan",
+        "name_slug": "kementerian-kesehatan",
+        "url": "https://infeksiemerging.kemkes.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "PEMERINTAH PUSAT",
+        "group_slug": "pusat",
+        "name": "Gugus Tugas Percepatan Penanganan COVID-19",
+        "name_slug": "gugus-tugas-percepatan-penanganan-covid-19",
+        "url": "https://www.covid19.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "PEMERINTAH PUSAT",
+        "group_slug": "pusat",
+        "name": "Peta Rumah Sakit Rujukan COVID-19",
+        "name_slug": "peta-rumah-sakit-rujukan-covid-19",
+        "url": "https://bnpb-inacovid19.hub.arcgis.com/app/rumah-sakit-rujukan-penanganan-covid-19"
+      }
+    },
+    {
+      "attributes": {
+        "group": "PEMERINTAH PUSAT",
+        "group_slug": "pusat",
+        "name": "Data Kasus dan Peta Persebaran COVID-19 / BNPB",
+        "name_slug": "data-kasus-dan-peta-persebaran-covid-19",
+        "url": "https://experience.arcgis.com/experience/57237ebe9c5b4b1caa1b93e79c920338"
+      }
+    },
+    {
+      "attributes": {
+        "group": "ACEH",
+        "group_slug": "aceh",
+        "name": "Provinsi Aceh",
+        "name_slug": "provinsi-aceh",
+        "url": "https://covid19.acehprov.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "BALI",
+        "group_slug": "bali",
+        "name": "Provinsi Bali",
+        "name_slug": "provinsi-bali",
+        "url": "https://infocorona.baliprov.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "BANTEN",
+        "group_slug": "banten",
+        "name": "Provinsi Banten",
+        "name_slug": "provinsi-banten",
+        "url": "https://infocorona.bantenprov.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "BANTEN",
+        "group_slug": "banten",
+        "name": "Kabupaten Lebak",
+        "name_slug": "kabupaten-lebak",
+        "url": "https://siagacovid19.lebakkab.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "BANTEN",
+        "group_slug": "banten",
+        "name": "Kabupaten Pandeglang",
+        "name_slug": "kabupaten-pandeglang",
+        "url": "https://infocorona.pandeglangkab.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "BANTEN",
+        "group_slug": "banten",
+        "name": "Kabupaten Serang",
+        "name_slug": "kabupaten-serang",
+        "url": "https://infocorona.serangkab.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "BANTEN",
+        "group_slug": "banten",
+        "name": "Kabupaten Tangerang",
+        "name_slug": "kabupaten-tangerang",
+        "url": "http://covid19.tangerangkab.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "BANTEN",
+        "group_slug": "banten",
+        "name": "Kota Cilegon",
+        "name_slug": "kota-cilegon",
+        "url": "http://covid19.cilegon.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "BANTEN",
+        "group_slug": "banten",
+        "name": "Kota Serang",
+        "name_slug": "kota-serang",
+        "url": "https://infocorona.serangkota.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "BANTEN",
+        "group_slug": "banten",
+        "name": "Kota Tangerang",
+        "name_slug": "kota-tangerang",
+        "url": "https://maps.tangerangkota.go.id/corona/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAKARTA",
+        "group_slug": "jakarta",
+        "name": "Provinsi DKI Jakarta",
+        "name_slug": "provinsi-dki-jakarta",
+        "url": "https://corona.jakarta.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA BARAT",
+        "group_slug": "jawa-barat",
+        "name": "Provinsi Jawa Barat",
+        "name_slug": "provinsi-jawa-barat",
+        "url": "https://pikobar.jabarprov.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA BARAT",
+        "group_slug": "jawa-barat",
+        "name": "Kabupaten Bandung",
+        "name_slug": "kabupaten-bandung",
+        "url": "https://covid19.bandungkab.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA BARAT",
+        "group_slug": "jawa-barat",
+        "name": "Kabupaten Bandung Barat",
+        "name_slug": "kabupaten-bandung-barat",
+        "url": "https://pik.bandungbaratkab.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA BARAT",
+        "group_slug": "jawa-barat",
+        "name": "Kabupaten Bekasi",
+        "name_slug": "kabupaten-bekasi",
+        "url": "https://pikokabsi.bekasikab.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA BARAT",
+        "group_slug": "jawa-barat",
+        "name": "Kabupaten Bogor",
+        "name_slug": "kabupaten-bogor",
+        "url": "https://covid-19.bogorkab.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA BARAT",
+        "group_slug": "jawa-barat",
+        "name": "Kabupaten Cianjur",
+        "name_slug": "kabupaten-cianjur",
+        "url": "https://covid19.cianjurkab.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA BARAT",
+        "group_slug": "jawa-barat",
+        "name": "Kabupaten Cirebon",
+        "name_slug": "kabupaten-cirebon",
+        "url": "http://covid19.cirebonkab.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA BARAT",
+        "group_slug": "jawa-barat",
+        "name": "Kabupaten Indramayu",
+        "name_slug": "kabupaten-indramayu",
+        "url": "https://covid19.indramayukab.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA BARAT",
+        "group_slug": "jawa-barat",
+        "name": "Kabupaten Karawang",
+        "name_slug": "kabupaten-karawang",
+        "url": "http://covid19.karawangkab.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA BARAT",
+        "group_slug": "jawa-barat",
+        "name": "Kabupaten Majalengka",
+        "name_slug": "kabupaten-majalengka",
+        "url": "https://covid19.majalengkakab.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA BARAT",
+        "group_slug": "jawa-barat",
+        "name": "Kabupaten Pangandaran",
+        "name_slug": "kabupaten-pangandaran",
+        "url": "https://covid19.pangandarankab.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA BARAT",
+        "group_slug": "jawa-barat",
+        "name": "Kabupaten Purwakarta",
+        "name_slug": "kabupaten-purwakarta",
+        "url": "http://covid19.purwakartakab.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA BARAT",
+        "group_slug": "jawa-barat",
+        "name": "Kabupaten Subang",
+        "name_slug": "kabupaten-subang",
+        "url": "https://covid19.subang.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA BARAT",
+        "group_slug": "jawa-barat",
+        "name": "Kabupaten Sumedang",
+        "name_slug": "kabupaten-sumedang",
+        "url": "http://covid19.sumedangkab.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA BARAT",
+        "group_slug": "jawa-barat",
+        "name": "Kabupaten Tasikmalaya",
+        "name_slug": "kabupaten-tasikmalaya",
+        "url": "https://tasikmalayakab.go.id/index.php/en/aneka-info/info-covid19"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA BARAT",
+        "group_slug": "jawa-barat",
+        "name": "Kota Bandung",
+        "name_slug": "kota-bandung",
+        "url": "https://covid19.bandung.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA BARAT",
+        "group_slug": "jawa-barat",
+        "name": "Kota Bekasi",
+        "name_slug": "kota-bekasi",
+        "url": "http://corona.bekasikota.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA BARAT",
+        "group_slug": "jawa-barat",
+        "name": "Kota Bogor",
+        "name_slug": "kota-bogor",
+        "url": "http://www.covid19.kotabogor.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA BARAT",
+        "group_slug": "jawa-barat",
+        "name": "Kota Cimahi",
+        "name_slug": "kota-cimahi",
+        "url": "https://covid19.cimahikota.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA BARAT",
+        "group_slug": "jawa-barat",
+        "name": "Kota Cirebon",
+        "name_slug": "kota-cirebon",
+        "url": "https://covid19.cirebonkota.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA BARAT",
+        "group_slug": "jawa-barat",
+        "name": "Kota Depok",
+        "name_slug": "kota-depok",
+        "url": "http://ccc-19.depok.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA BARAT",
+        "group_slug": "jawa-barat",
+        "name": "Kota Sukabumi",
+        "name_slug": "kota-sukabumi",
+        "url": "https://covid19.sukabumikota.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA TENGAH",
+        "group_slug": "jawa-tengah",
+        "name": "Provinsi Jawa Tengah",
+        "name_slug": "provinsi-jawa-tengah",
+        "url": "https://corona.jatengprov.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA TENGAH",
+        "group_slug": "jawa-tengah",
+        "name": "Kabupaten Banjarnegara",
+        "name_slug": "kabupaten-banjarnegara",
+        "url": "http://corona.banjarnegarakab.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA TENGAH",
+        "group_slug": "jawa-tengah",
+        "name": "Kabupaten Banyumas",
+        "name_slug": "kabupaten-banyumas",
+        "url": "http://covid19.banyumaskab.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA TENGAH",
+        "group_slug": "jawa-tengah",
+        "name": "Kabupaten Batang",
+        "name_slug": "kabupaten-batang",
+        "url": "https://corona.batangkab.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA TENGAH",
+        "group_slug": "jawa-tengah",
+        "name": "Kabupaten Blora",
+        "name_slug": "kabupaten-blora",
+        "url": "http://corona.blorakab.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA TENGAH",
+        "group_slug": "jawa-tengah",
+        "name": "Kabupaten Boyolali",
+        "name_slug": "kabupaten-boyolali",
+        "url": "http://covid19.boyolali.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA TENGAH",
+        "group_slug": "jawa-tengah",
+        "name": "Kabupaten Brebes",
+        "name_slug": "kabupaten-brebes",
+        "url": "http://corona.brebeskab.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA TENGAH",
+        "group_slug": "jawa-tengah",
+        "name": "Kabupaten Cilacap",
+        "name_slug": "kabupaten-cilacap",
+        "url": "https://corona.cilacapkab.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA TENGAH",
+        "group_slug": "jawa-tengah",
+        "name": "Kabupaten Demak",
+        "name_slug": "kabupaten-demak",
+        "url": "http://corona.demakkab.go.id//"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA TENGAH",
+        "group_slug": "jawa-tengah",
+        "name": "Kabupaten Grobogan",
+        "name_slug": "kabupaten-grobogan",
+        "url": "https://corona.grobogan.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA TENGAH",
+        "group_slug": "jawa-tengah",
+        "name": "Kabupaten Jepara",
+        "name_slug": "kabupaten-jepara",
+        "url": "http://corona.jepara.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA TENGAH",
+        "group_slug": "jawa-tengah",
+        "name": "Kabupaten Karanganyar",
+        "name_slug": "kabupaten-karanganyar",
+        "url": "http://covid19.karanganyarkab.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA TENGAH",
+        "group_slug": "jawa-tengah",
+        "name": "Kabupaten Kebumen",
+        "name_slug": "kabupaten-kebumen",
+        "url": "https://corona.kebumenkab.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA TENGAH",
+        "group_slug": "jawa-tengah",
+        "name": "Kabupaten Kendal",
+        "name_slug": "kabupaten-kendal",
+        "url": "https://corona.kendalkab.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA TENGAH",
+        "group_slug": "jawa-tengah",
+        "name": "Kabupaten Klaten",
+        "name_slug": "kabupaten-klaten",
+        "url": "http://pantaucorona.klatenkab.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA TENGAH",
+        "group_slug": "jawa-tengah",
+        "name": "Kabupaten Kudus",
+        "name_slug": "kabupaten-kudus",
+        "url": "http://corona.kuduskab.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA TENGAH",
+        "group_slug": "jawa-tengah",
+        "name": "Kabupaten Magelang",
+        "name_slug": "kabupaten-magelang",
+        "url": "https://infocorona.magelangkab.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA TENGAH",
+        "group_slug": "jawa-tengah",
+        "name": "Kabupaten Pati",
+        "name_slug": "kabupaten-pati",
+        "url": "https://covid19.patikab.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA TENGAH",
+        "group_slug": "jawa-tengah",
+        "name": "Kabupaten Pekalongan",
+        "name_slug": "kabupaten-pekalongan",
+        "url": "http://corona.pekalongankab.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA TENGAH",
+        "group_slug": "jawa-tengah",
+        "name": "Kabupaten Pemalang",
+        "name_slug": "kabupaten-pemalang",
+        "url": "https://infocorona.pemalangkab.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA TENGAH",
+        "group_slug": "jawa-tengah",
+        "name": "Kabupaten Purbalingga",
+        "name_slug": "kabupaten-purbalingga",
+        "url": "https://corona.purbalinggakab.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA TENGAH",
+        "group_slug": "jawa-tengah",
+        "name": "Kabupaten Purworejo",
+        "name_slug": "kabupaten-purworejo",
+        "url": "https://covid19.purworejokab.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA TENGAH",
+        "group_slug": "jawa-tengah",
+        "name": "Kabupaten Rembang",
+        "name_slug": "kabupaten-rembang",
+        "url": "https://covid19.rembangkab.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA TENGAH",
+        "group_slug": "jawa-tengah",
+        "name": "Kabupaten Semarang",
+        "name_slug": "kabupaten-semarang",
+        "url": "https://corona.semarangkab.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA TENGAH",
+        "group_slug": "jawa-tengah",
+        "name": "Kabupaten Sragen",
+        "name_slug": "kabupaten-sragen",
+        "url": "http://corona.sragenkab.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA TENGAH",
+        "group_slug": "jawa-tengah",
+        "name": "Kabupaten Sukoharjo",
+        "name_slug": "kabupaten-sukoharjo",
+        "url": "https://corona.sukoharjokab.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA TENGAH",
+        "group_slug": "jawa-tengah",
+        "name": "Kabupaten Tegal",
+        "name_slug": "kabupaten-tegal",
+        "url": "https://covid19.tegalkab.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA TENGAH",
+        "group_slug": "jawa-tengah",
+        "name": "Kabupaten Temanggung",
+        "name_slug": "kabupaten-temanggung",
+        "url": "http://corona.temanggungkab.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA TENGAH",
+        "group_slug": "jawa-tengah",
+        "name": "Kabupaten Wonogiri",
+        "name_slug": "kabupaten-wonogiri",
+        "url": "https://wonogirikab.go.id/index.php/info-corona/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA TENGAH",
+        "group_slug": "jawa-tengah",
+        "name": "Kabupaten Wonosobo",
+        "name_slug": "kabupaten-wonosobo",
+        "url": "https://corona.wonosobokab.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA TENGAH",
+        "group_slug": "jawa-tengah",
+        "name": "Kota Magelang",
+        "name_slug": "kota-magelang",
+        "url": "https://corona.pekalongankota.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA TENGAH",
+        "group_slug": "jawa-tengah",
+        "name": "Kota Pekalongan",
+        "name_slug": "kota-pekalongan",
+        "url": "https://covid19.magelangkota.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA TENGAH",
+        "group_slug": "jawa-tengah",
+        "name": "Kota Salatiga",
+        "name_slug": "kota-salatiga",
+        "url": "https://corona.salatiga.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA TENGAH",
+        "group_slug": "jawa-tengah",
+        "name": "Kota Semarang",
+        "name_slug": "kota-semarang",
+        "url": "https://siagacorona.semarangkota.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA TENGAH",
+        "group_slug": "jawa-tengah",
+        "name": "Kota Surakarta",
+        "name_slug": "kota-surakarta",
+        "url": "https://surakarta.go.id/?page_id=10806"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA TENGAH",
+        "group_slug": "jawa-tengah",
+        "name": "Kota Tegal",
+        "name_slug": "kota-tegal",
+        "url": "https://corona.tegalkota.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA TIMUR",
+        "group_slug": "jawa-timur",
+        "name": "Provinsi Jawa Timur",
+        "name_slug": "provinsi-jawa-timur",
+        "url": "https://infocovid19.jatimprov.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA TIMUR",
+        "group_slug": "jawa-timur",
+        "name": "Kabupaten Bangkalan",
+        "name_slug": "kabupaten-bangkalan",
+        "url": "http://www.bangkalankab.go.id/v5/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA TIMUR",
+        "group_slug": "jawa-timur",
+        "name": "Kabupaten Banyuwangi",
+        "name_slug": "kabupaten-banyuwangi",
+        "url": "https://corona.banyuwangikab.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA TIMUR",
+        "group_slug": "jawa-timur",
+        "name": "Kabupaten Gresik",
+        "name_slug": "kabupaten-gresik",
+        "url": "https://satgascovid19.gresikkab.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA TIMUR",
+        "group_slug": "jawa-timur",
+        "name": "Kabupaten Jombang",
+        "name_slug": "kabupaten-jombang",
+        "url": "https://dinkes.jombangkab.go.id/data-covid-19-kabupaten-jombang"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA TIMUR",
+        "group_slug": "jawa-timur",
+        "name": "Kabupaten Kediri",
+        "name_slug": "kabupaten-kediri",
+        "url": "https://covid19.kedirikab.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA TIMUR",
+        "group_slug": "jawa-timur",
+        "name": "Kabupaten Lamongan",
+        "name_slug": "kabupaten-lamongan",
+        "url": "https://lamongankab.go.id/dinkes/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA TIMUR",
+        "group_slug": "jawa-timur",
+        "name": "Kabupaten Lumajang",
+        "name_slug": "kabupaten-lumajang",
+        "url": "https://infocovid19.lumajangkab.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA TIMUR",
+        "group_slug": "jawa-timur",
+        "name": "Kabupaten Madiun",
+        "name_slug": "kabupaten-madiun",
+        "url": "https://madiunkab.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA TIMUR",
+        "group_slug": "jawa-timur",
+        "name": "Kabupaten Magetan",
+        "name_slug": "kabupaten-magetan",
+        "url": "http://kominfo.magetan.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA TIMUR",
+        "group_slug": "jawa-timur",
+        "name": "Kabupaten Malang",
+        "name_slug": "kabupaten-malang",
+        "url": "http://satgascovid19.malangkab.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA TIMUR",
+        "group_slug": "jawa-timur",
+        "name": "Kabupaten Mojokerto",
+        "name_slug": "kabupaten-mojokerto",
+        "url": "http://covid19.mojokertokab.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA TIMUR",
+        "group_slug": "jawa-timur",
+        "name": "Kabupaten Nganjuk",
+        "name_slug": "kabupaten-nganjuk",
+        "url": "https://www.nganjukkab.go.id/beranda/CoronaController/pencegahanCorona"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA TIMUR",
+        "group_slug": "jawa-timur",
+        "name": "Kabupaten Pacitan",
+        "name_slug": "kabupaten-pacitan",
+        "url": "https://covid19.pacitankab.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA TIMUR",
+        "group_slug": "jawa-timur",
+        "name": "Kabupaten Ponorogo",
+        "name_slug": "kabupaten-ponorogo",
+        "url": "https://ponorogo.go.id/corona/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA TIMUR",
+        "group_slug": "jawa-timur",
+        "name": "Kabupaten Sidoarjo",
+        "name_slug": "kabupaten-sidoarjo",
+        "url": "https://covid19.sidoarjokab.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA TIMUR",
+        "group_slug": "jawa-timur",
+        "name": "Kabupaten Tuban",
+        "name_slug": "kabupaten-tuban",
+        "url": "https://tubankab.go.id/page/informasi-tentang-virus-corona-covid-19"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA TIMUR",
+        "group_slug": "jawa-timur",
+        "name": "Kota Kediri",
+        "name_slug": "kota-kediri",
+        "url": "https://corona.kedirikota.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA TIMUR",
+        "group_slug": "jawa-timur",
+        "name": "Kota Malang",
+        "name_slug": "kota-malang",
+        "url": "http://coronadetektor.malangkota.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA TIMUR",
+        "group_slug": "jawa-timur",
+        "name": "Kota Mojokerto",
+        "name_slug": "kota-mojokerto",
+        "url": "http://covid19.mojokertokota.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA TIMUR",
+        "group_slug": "jawa-timur",
+        "name": "Kota Probolinggo",
+        "name_slug": "kota-probolinggo",
+        "url": "https://portal.probolinggokota.go.id/index.php/tanggap-corona/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "JAWA TIMUR",
+        "group_slug": "jawa-timur",
+        "name": "Kota Surabaya",
+        "name_slug": "kota-surabaya",
+        "url": "https://lawancovid-19.surabaya.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "KALIMANTAN BARAT",
+        "group_slug": "kalimantan-barat",
+        "name": "Provinsi Kalimantan Barat",
+        "name_slug": "provinsi-kalimantan-barat",
+        "url": "https://dinkes.kalbarprov.go.id/covid-19/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "KALIMANTAN SELATAN",
+        "group_slug": "kalimantan-selatan",
+        "name": "Provinsi Kalimantan Selatan",
+        "name_slug": "provinsi-kalimantan-selatan",
+        "url": "http://corona.kalselprov.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "KALIMANTAN TENGAH",
+        "group_slug": "kalimantan-tengah",
+        "name": "Provinsi Kalimantan Tengah",
+        "name_slug": "provinsi-kalimantan-tengah",
+        "url": "https://corona.kalteng.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "KALIMANTAN TIMUR",
+        "group_slug": "kalimantan-timur",
+        "name": "Provinsi Kalimantan Timur",
+        "name_slug": "provinsi-kalimantan-timur",
+        "url": "https://covid19.kaltimprov.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "KALIMANTAN UTARA",
+        "group_slug": "kalimantan-utara",
+        "name": "Provinsi Kalimantan Utara",
+        "name_slug": "provinsi-kalimantan-utara",
+        "url": "https://humas.kaltaraprov.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "KEPULAUAN BANGKA BELITUNG",
+        "group_slug": "kepulauan-bangka-belitung",
+        "name": "Provinsi Kepulauan Bangka Belitung",
+        "name_slug": "provinsi-kepulauan-bangka-belitung",
+        "url": "https://covid19.babelprov.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "KEPULAUAN RIAU",
+        "group_slug": "kepulauan-riau",
+        "name": "Provinsi Kepulauan Riau",
+        "name_slug": "provinsi-kepulauan-riau",
+        "url": "https://corona.kepriprov.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "KEPULAUAN RIAU",
+        "group_slug": "kepulauan-riau",
+        "name": "Kota Batam",
+        "name_slug": "kota-batam",
+        "url": "https://lawancorona.batam.go.id"
+      }
+    },
+    {
+      "attributes": {
+        "group": "LAMPUNG",
+        "group_slug": "lampung",
+        "name": "Provinsi Lampung",
+        "name_slug": "provinsi-lampung",
+        "url": "http://geoportal.lampungprov.go.id/corona/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "MALUKU",
+        "group_slug": "maluku",
+        "name": "Provinsi Maluku",
+        "name_slug": "provinsi-maluku",
+        "url": "https://corona.malukuprov.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "MALUKU UTARA",
+        "group_slug": "maluku-utara",
+        "name": "Provinsi Maluku Utara",
+        "name_slug": "provinsi-maluku-utara",
+        "url": "http://corona.malutprov.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "NUSA TENGGARA BARAT",
+        "group_slug": "nusa-tenggara-barat",
+        "name": "Provinsi Nusa Tenggara Barat",
+        "name_slug": "provinsi-nusa-tenggara-barat",
+        "url": "https://corona.ntbprov.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "PAPUA",
+        "group_slug": "papua",
+        "name": "Provinsi Papua",
+        "name_slug": "provinsi-papua",
+        "url": "https://corona.papua.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "RIAU",
+        "group_slug": "riau",
+        "name": "Provinsi Riau",
+        "name_slug": "provinsi-riau",
+        "url": "https://corona.riau.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "SULAWESI BARAT",
+        "group_slug": "sulawesi-barat",
+        "name": "Provinsi Sulawesi Barat",
+        "name_slug": "provinsi-sulawesi-barat",
+        "url": "https://covid19.sulbarprov.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "SULAWESI SELATAN",
+        "group_slug": "sulawesi-selatan",
+        "name": "Provinsi Sulawesi Selatan",
+        "name_slug": "provinsi-sulawesi-selatan",
+        "url": "https://covid19.sulselprov.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "SULAWESI TENGGARA",
+        "group_slug": "sulawesi-tenggara",
+        "name": "Provinsi Sulawesi Tenggara",
+        "name_slug": "provinsi-sulawesi-tenggara",
+        "url": "http://corona.sultraprov.go.id//"
+      }
+    },
+    {
+      "attributes": {
+        "group": "SULAWESI UTARA",
+        "group_slug": "sulawesi-utara",
+        "name": "Provinsi Sulawesi Utara",
+        "name_slug": "provinsi-sulawesi-utara",
+        "url": "https://corona.sulutprov.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "SULAWESI UTARA",
+        "group_slug": "sulawesi-utara",
+        "name": "Kabupaten Bolaang Mongondow",
+        "name_slug": "kabupaten-bolaang-mongondow",
+        "url": "https://covid19.bolmongkab.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "SUMATERA BARAT",
+        "group_slug": "sumatera-barat",
+        "name": "Provinsi Sumatera Barat",
+        "name_slug": "provinsi-sumatera-barat",
+        "url": "https://corona.sumbarprov.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "SUMATERA BARAT",
+        "group_slug": "sumatera-barat",
+        "name": "Kabupaten Agam",
+        "name_slug": "kabupaten-agam",
+        "url": "http://covid19.agamkab.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "SUMATERA BARAT",
+        "group_slug": "sumatera-barat",
+        "name": "Kota Padang",
+        "name_slug": "kota-padang",
+        "url": "http://corona.padang.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "SUMATERA SELATAN",
+        "group_slug": "sumatera-selatan",
+        "name": "Provinsi Sumatera Selatan",
+        "name_slug": "provinsi-sumatera-selatan",
+        "url": "http://corona.sumselprov.go.id/index.php?module=home&id=1"
+      }
+    },
+    {
+      "attributes": {
+        "group": "SUMATERA SELATAN",
+        "group_slug": "sumatera-selatan",
+        "name": "Kota Palembang",
+        "name_slug": "kota-palembang",
+        "url": "https://hallo.palembang.go.id/Corona"
+      }
+    },
+    {
+      "attributes": {
+        "group": "SUMATERA UTARA",
+        "group_slug": "sumatera-utara",
+        "name": "Provinsi Sumatera Utara",
+        "name_slug": "provinsi-sumatera-utara",
+        "url": "http://covid19.sumutprov.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "YOGYAKARTA",
+        "group_slug": "yogyakarta",
+        "name": "Provinsi DI Yogyakarta",
+        "name_slug": "provinsi-di-yogyakarta",
+        "url": "https://corona.jogjaprov.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "YOGYAKARTA",
+        "group_slug": "yogyakarta",
+        "name": "Kota Yogyakarta",
+        "name_slug": "kota-yogyakarta",
+        "url": "https://corona.jogjakota.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "YOGYAKARTA",
+        "group_slug": "yogyakarta",
+        "name": "Kabupaten Bantul",
+        "name_slug": "kabupaten-bantul",
+        "url": "https://corona.bantulkab.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "YOGYAKARTA",
+        "group_slug": "yogyakarta",
+        "name": "Kabupaten Gunungkidul",
+        "name_slug": "kabupaten-gunungkidul",
+        "url": "https://corona.gunungkidulkab.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "YOGYAKARTA",
+        "group_slug": "yogyakarta",
+        "name": "Kabupaten Kulon Progo",
+        "name_slug": "kabupaten-kulon-progo",
+        "url": "https://kulonprogokab.go.id/corona/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "YOGYAKARTA",
+        "group_slug": "yogyakarta",
+        "name": "Kabupaten Sleman",
+        "name_slug": "kabupaten-sleman",
+        "url": "https://corona.slemankab.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "Lainnya",
+        "group_slug": "lainnya",
+        "name": "KawalCOVID19",
+        "name_slug": "kawalcovid19",
+        "url": "https://kawalcovid19.id/"
+      }
+    }
+  ]
+}

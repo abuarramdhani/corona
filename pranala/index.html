@@ -1,7 +1,8 @@
 <!DOCTYPE html>
-<html lang="id">
+<html>
 
 <head>
+
   <title>Daftar Situs Tanggap COVID-19</title>
 
   <meta charset="utf-8" />
@@ -22,7 +23,7 @@
   <link rel="dns-prefetch" href="https://raw.githubusercontent.com" />
   <link rel="dns-prefetch" href="https://cdnjs.cloudflare.com" />
 
-  <link rel="preload" as="style" href="https://corona.hanifmu.com/assets/css/style.css?v=e5258df69038ed3704a62cc2ca10aab8f2ec6070">
+  <link rel="preload" as="style" crossorigin="anonymous" integrity="sha256-/ykJw/wDxMa0AQhHDYfuMEwVb4JHMx9h4jD4XvHqVzU=" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.0/css/bootstrap.min.css" />
   <link rel="preload" as="script" crossorigin="anonymous" integrity="sha256-ngFW3UnAN0Tnm76mDuu7uUtYEcG3G5H1+zioJw3t+68=" href="https://cdnjs.cloudflare.com/ajax/libs/vue/2.6.11/vue.min.js" />
   <link rel="preload" as="script" crossorigin="anonymous" integrity="sha256-T/f7Sju1ZfNNfBh7skWn0idlCBcI3RwdLSS4/I7NQKQ=" href="https://cdnjs.cloudflare.com/ajax/libs/axios/0.19.2/axios.min.js" />
   <link rel="preload" as="script" crossorigin="anonymous" integrity="sha256-AdQN98MVZs44Eq2yTwtoKufhnU+uZ7v2kXnD5vqzZVo=" href="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment-with-locales.min.js" />
@@ -30,60 +31,113 @@
   <meta property="og:locale" content="id_ID" />
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="corona.hanifmu.com" />
-  <meta property="og:url" content="https://corona.hanifmu.com/pranala/" />
+  <meta property="og:url" content="https://corona.hanifmu.com/links/" />
   <meta property="og:title" content="Daftar Situs Tanggap COVID-19" />
   <meta property="og:description" content="Daftar situs tanggap COVID-19 milik Pemerintah Pusat, Pemerintah Daerah, dan lainnya." />
-  <meta property="og:image" content="https://raw.githubusercontent.com/muhammadhanif/corona/master/image/pranala.png" />
-  <meta property="og:image:secure_url" content="https://raw.githubusercontent.com/muhammadhanif/corona/master/image/pranala.png" />
+  <meta property="og:image" content="https://raw.githubusercontent.com/muhammadhanif/corona/master/image/links.png" />
+  <meta property="og:image:secure_url" content="https://raw.githubusercontent.com/muhammadhanif/corona/master/image/links.png" />
 
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:url" content="https://corona.hanifmu.com/pranala/">
+  <meta name="twitter:url" content="https://corona.hanifmu.com/links/">
   <meta name="twitter:title" content="Daftar Situs Tanggap COVID-19" />
   <meta name="twitter:description" content="Daftar situs tanggap COVID-19 milik Pemerintah Pusat, Pemerintah Daerah, dan lainnya." />
-  <meta name="twitter:image" content="https://raw.githubusercontent.com/muhammadhanif/corona/master/image/pranala.png" />
+  <meta name="twitter:image" content="https://raw.githubusercontent.com/muhammadhanif/corona/master/image/links.png" />
 
-  <link rel="canonical" href="https://corona.hanifmu.com/pranala/" />
+  <link rel="canonical" href="https://corona.hanifmu.com/links/" />
   <link rel='shortcut icon' type='image/x-icon' href='https://raw.githubusercontent.com/muhammadhanif/muhammadhanif.github.io/master/assets/images/hanifmu-ico.png' />
 
-  <link rel="stylesheet" href="https://corona.hanifmu.com/assets/css/style.css?v=e5258df69038ed3704a62cc2ca10aab8f2ec6070">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.0/css/bootstrap.min.css" integrity="sha256-/ykJw/wDxMa0AQhHDYfuMEwVb4JHMx9h4jD4XvHqVzU=" crossorigin="anonymous" />
 
   <style>
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      margin-top: 24px;
+      margin-bottom: 16px;
+      font-weight: 600;
+      line-height: 1.25;
+    }
+
+    h1 {
+      padding-bottom: 0.3em;
+      font-size: 2em;
+      border-bottom: 1px solid #eaecef;
+    }
+
+    h2 {
+      padding-bottom: 0.3em;
+      font-size: 1.5em;
+      border-bottom: 1px solid #eaecef;
+    }
+
+    input {
+      text-align: center;
+    }
+
     .footer {
       padding-top: 2rem;
-      font-size: 0.7rem;
+      padding-bottom: 2rem;
+      font-size: 0.8rem;
     }
   </style>
 </head>
 
 <body>
-  <div class="container-lg px-3 my-5 markdown-body" id="pranala">
-    <h1><a href="https://corona.hanifmu.com/">corona.hanifmu.com</a></h1>
+  <nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+      <li class="breadcrumb-item"><a href="../">corona.hanifmu.com</a></li>
+      <li class="breadcrumb-item active" aria-current="page">Pranala</li>
+    </ol>
+  </nav>
 
-    <h1 v-html="page.name"></h1>
-
-    <p v-html="page.description"></p>
-
-    <template v-for="data in pranala">
-      <h2 v-html="data.attributes.group_name"></h2>
-
-      <ul>
-        <template v-for="list in data.attributes.lists">
-          <li><a target="_blank" :href="list.url" v-html="list.name"></a></li>
-        </template>
-      </ul>
-    </template>
-
-    <div class="footer">
-      <blockquote>
-        <div v-html="'<code>Diperbarui:</code> ' + date"></div>
-        <div v-html="'<code>Pranala:</code> ' + message"></div>
-      </blockquote>
-      <blockquote>
-        Beri tahu kami bila anda mengetahui situs tanggap COVID-19. Hubungi kami melalui telegram: <code><a target="_blank" href="https://t.me/muhammad_hanif">@muhammadhanif</a></code> atau email: <code><a target="_blank" href="mailto:moehammadhanif@gmail.com">moehammadhanif@gmail.com</a></code>.
-      </blockquote>
+  <main class="container" id="links">
+    <div class="row">
+      <div class="col text-center">
+        <h1 v-html="page.name"></h1>
+        <p class="lead" v-html="page.description"></p>
+      </div>
     </div>
 
-  </div>
+    <div class="row">
+      <div class="col-sm">
+        <div class="card border-dark">
+          <div class="card-header .no-gutters">
+            <input type="text" class="form-control" placeholder="gunakan huruf kecil untuk mencari nama provinsi, kota, dan kabupaten" aria-label="cari" aria-describedby="basic-addon1" v-model="searchString" autofocus>
+          </div>
+          <div class="card-body text-dark">
+            <ul>
+              <transition-group>
+                <div class="" v-for="(link, index) in filteredLinks" v-bind:key="link.attributes.name_slug">
+                  <li>
+                    <span class="badge badge-success" v-html="link.attributes.group"></span>
+                    <a :href="link.attributes.url" v-html="link.attributes.name"></a>
+                  </li>
+                </div>
+              </transition-group>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-sm">
+        <div class="footer">
+          <blockquote>
+            <div v-html="'<code>Diperbarui:</code> ' + date"></div>
+            <div v-html="'<code>Pranala:</code> ' + message"></div>
+          </blockquote>
+          <blockquote>
+            Beri tahu kami bila anda mengetahui situs tanggap COVID-19. Hubungi kami melalui telegram: <code><a target="_blank" href="https://t.me/muhammad_hanif">@muhammadhanif</a></code> atau email: <code><a target="_blank"
+                href="mailto:moehammadhanif@gmail.com">moehammadhanif@gmail.com</a></code>.
+          </blockquote>
+        </div>
+      </div>
+    </div>
+  </main>
 
   <script crossorigin="anonymous" integrity="sha256-ngFW3UnAN0Tnm76mDuu7uUtYEcG3G5H1+zioJw3t+68=" src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.6.11/vue.min.js"></script>
   <script crossorigin="anonymous" integrity="sha256-T/f7Sju1ZfNNfBh7skWn0idlCBcI3RwdLSS4/I7NQKQ=" src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.19.2/axios.min.js"></script>
@@ -92,35 +146,58 @@
     moment.locale('id');
 
     new Vue({
-      el: "#pranala",
+      el: "#links",
       data: {
-        pranala: [],
+        links: [],
         page: [],
+        searchString: '',
         date: '',
         message: ''
       },
 
       async mounted() {
         await axios
-          .get('https://corona.hanifmu.com/pranala/pranala.json')
-          .then(json => [
-            this.pranala = json.data.features,
-            this.page = json.data.page[0],
+          .get('https://corona.hanifmu.com/pranala/pranala-v2.0.json')
+          .then(response => [
+            this.links = response.data.features,
+            this.page = response.data.page[0]
           ])
           .catch(error => {
             console.log(error)
           });
 
         await axios
-          .get('https://api.github.com/repos/muhammadhanif/corona/commits?path=pranala/pranala.json')
+          .get('https://api.github.com/repos/muhammadhanif/corona/commits?path=pranala/pranala-v2.0.json')
           .then(json => [
             this.date = moment(json.data[0].commit.committer.date).format("LLL"),
             this.message = json.data[0].commit.message,
           ])
           .catch(error => {
-            this.date = '-',
-            this.message = '-'
+            console.log(error),
+              this.date = '-',
+              this.message = '-'
           })
+      },
+      computed: {
+        filteredLinks: function() {
+
+          var links = this.links;
+          var searchString = this.searchString;
+
+          if (!searchString) {
+            return links;
+          }
+
+          searchString = searchString.trim().toLowerCase();
+
+          links = links.filter(function(item) {
+            if (item.attributes.name.toLowerCase().indexOf(searchString) !== -1 || item.attributes.group.toLowerCase().indexOf(searchString) !== -1) {
+              return item;
+            }
+          })
+
+          return links;
+        }
       }
     })
   </script>
