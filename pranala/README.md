@@ -53,11 +53,15 @@
 -   [Pemerintah Kabupaten Pangandaran](https://covid19.pangandarankab.go.id/)
 -   [Pemerintah Kabupaten Purwakarta](http://covid19.purwakartakab.go.id/)
 -   [Pemerintah Kabupaten Subang](https://covid19.subang.go.id/)
+-   [Pemerintah Kabupaten Sumedang](http://covid19.sumedangkab.go.id/)
+-   [Pemerintah Kabupaten Tasikmalaya](https://tasikmalayakab.go.id/index.php/en/aneka-info/info-covid19)
 -   [Pemerintah Kota Bandung](https://covid19.bandung.go.id/)
 -   [Pemerintah Kota Bekasi](http://corona.bekasikota.go.id/)
 -   [Pemerintah Kota Bogor](http://www.covid19.kotabogor.go.id/)
+-   [Pemerintah Kota Cimahi](https://covid19.cimahikota.go.id/)
 -   [Pemerintah Kota Cirebon](https://covid19.cirebonkota.go.id/)
 -   [Pemerintah Kota Depok](http://ccc-19.depok.go.id/)
+-   [Pemerintah Kota Sukabumi](https://covid19.sukabumikota.go.id/)
 
 ### JAWA TENGAH
 
