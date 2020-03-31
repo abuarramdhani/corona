@@ -100,8 +100,32 @@
         "name": "Pemerintah Kabupaten Bekasi",
         "url": "https://pikokabsi.bekasikab.go.id/"
       }, {
+        "name": "Pemerintah Kabupaten Bogor",
+        "url": "https://covid-19.bogorkab.go.id/"
+      }, {
         "name": "Pemerintah Kabupaten Cianjur",
         "url": "https://covid19.cianjurkab.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Cirebon",
+        "url": "http://covid19.cirebonkab.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Indramayu",
+        "url": "https://covid19.indramayukab.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Karawang",
+        "url": "http://covid19.karawangkab.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Majalengka",
+        "url": "https://covid19.majalengkakab.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Pangandaran",
+        "url": "https://covid19.pangandarankab.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Purwakarta",
+        "url": "http://covid19.purwakartakab.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Subang",
+        "url": "https://covid19.subang.go.id/"
       }, {
         "name": "Pemerintah Kota Bandung",
         "url": "https://covid19.bandung.go.id/"
@@ -111,6 +135,9 @@
       }, {
         "name": "Pemerintah Kota Bogor",
         "url": "http://www.covid19.kotabogor.go.id/"
+      }, {
+        "name": "Pemerintah Kota Cirebon",
+        "url": "https://covid19.cirebonkota.go.id/"
       }, {
         "name": "Pemerintah Kota Depok",
         "url": "http://ccc-19.depok.go.id/"
