@@ -34,9 +34,14 @@
 -   [Pemerintah Kota Cilegon](http://covid19.cilegon.go.id/)
 -   [Pemerintah Kota Serang](https://infocorona.serangkota.go.id/)
 -   [Pemerintah Kota Tangerang](https://maps.tangerangkota.go.id/corona/)
+
 ### JAKARTA
 
 -   [Pemerintah Provinsi DKI Jakarta](https://corona.jakarta.go.id/)
+
+### JAMBI
+
+-   [Pemerintah Kabupaten Bungo](https://covid19.bungokab.go.id/)
 
 ### JAWA BARAT
 
@@ -210,8 +215,8 @@
 ### SUMATERA UTARA
 
 -   [Pemerintah Provinsi Sumatera Utara](http://covid19.sumutprov.go.id/)
-
-
+-   [Pemerintah Kabupaten Deli Serdang](http://covid19.deliserdangkab.go.id/)
+-   [Pemerintah Kabupaten Langkat](https://coronainfo.langkatkab.go.id/)
 
 ### YOGYAKARTA
 

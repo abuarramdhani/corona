@@ -85,6 +85,15 @@
     }
   }, {
     "attributes": {
+      "group_name": "JAMBI",
+      "slug": "jambi",
+      "lists": [{
+        "name": "Pemerintah Kabupaten Bungo",
+        "url": "https://covid19.bungokab.go.id/"
+      }]
+    }
+  }, {
+    "attributes": {
       "group_name": "JAWA BARAT",
       "slug": "jawa-barat",
       "lists": [{
@@ -495,7 +504,7 @@
       "lists": [{
         "name": "Pemerintah Provinsi Sulawesi Utara",
         "url": "https://corona.sulutprov.go.id/"
-      }{
+      }, {
         "name": "Pemerintah Kabupaten Bolaang Mongondow",
         "url": "https://covid19.bolmongkab.go.id/"
       }]
@@ -534,6 +543,12 @@
       "lists": [{
         "name": "Pemerintah Provinsi Sumatera Utara",
         "url": "http://covid19.sumutprov.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Deli Serdang",
+        "url": "http://covid19.deliserdangkab.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Langkat",
+        "url": "https://coronainfo.langkatkab.go.id/"
       }]
     }
   }, {

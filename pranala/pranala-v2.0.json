@@ -142,6 +142,15 @@
     },
     {
       "attributes": {
+        "group": "JAMBI",
+        "group_slug": "jambi",
+        "name": "Kabupaten Bungo",
+        "name_slug": "kabupaten-bungo",
+        "url": "https://covid19.bungokab.go.id/"
+      }
+    },
+    {
+      "attributes": {
         "group": "JAWA BARAT",
         "group_slug": "jawa-barat",
         "name": "Provinsi Jawa Barat",
@@ -1083,6 +1092,23 @@
         "name": "Provinsi Sumatera Utara",
         "name_slug": "provinsi-sumatera-utara",
         "url": "http://covid19.sumutprov.go.id/"
+      }
+    },
+    {
+      "attributes": {
+        "group": "SUMATERA UTARA",
+        "group_slug": "sumatera-utara",
+        "name": "Kabupaten Deli Serdang",
+        "name_slug": "kabupaten-deli-serdang",
+        "url": "http://covid19.deliserdangkab.go.id/"
+      }
+    }, {
+      "attributes": {
+        "group": "SUMATERA UTARA",
+        "group_slug": "sumatera-utara",
+        "name": "Pemerintah Kabupaten Langkat",
+        "name_slug": "kabupaten-langkat",
+        "url": "https://coronainfo.langkatkab.go.id/"
       }
     },
     {
