@@ -127,6 +127,12 @@
         "name": "Pemerintah Kabupaten Subang",
         "url": "https://covid19.subang.go.id/"
       }, {
+        "name": "Pemerintah Kabupaten Sumedang",
+        "url": "http://covid19.sumedangkab.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Tasikmalaya",
+        "url": "https://tasikmalayakab.go.id/index.php/en/aneka-info/info-covid19"
+      }, {
         "name": "Pemerintah Kota Bandung",
         "url": "https://covid19.bandung.go.id/"
       }, {
@@ -136,11 +142,17 @@
         "name": "Pemerintah Kota Bogor",
         "url": "http://www.covid19.kotabogor.go.id/"
       }, {
+        "name": "Pemerintah Kota Cimahi",
+        "url": "https://covid19.cimahikota.go.id/"
+      }, {
         "name": "Pemerintah Kota Cirebon",
         "url": "https://covid19.cirebonkota.go.id/"
       }, {
         "name": "Pemerintah Kota Depok",
         "url": "http://ccc-19.depok.go.id/"
+      }, {
+        "name": "Pemerintah Kota Sukabumi",
+        "url": "https://covid19.sukabumikota.go.id/"
       }]
     }
   }, {
