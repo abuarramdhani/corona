@@ -113,7 +113,7 @@
                 <div class="" v-for="(link, index) in filteredLinks" v-bind:key="link.attributes.name_slug">
                   <li>
                     <span class="badge badge-success" v-html="link.attributes.group"></span>
-                    <a :href="link.attributes.url" v-html="link.attributes.name"></a>
+                    <a target="_blank" :href="link.attributes.url" v-html="link.attributes.name"></a>
                   </li>
                 </div>
               </transition-group>
