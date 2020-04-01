@@ -211,6 +211,9 @@
 -   [Pemerintah Kabupaten Pasaman Barat](https://corona.pasamanbaratkab.go.id/)
 -   [Pemerintah Kabupaten Pesisir Selatan](https://covid19.pesisirselatankab.go.id/)
 -   [Pemerintah Kota Padang](http://corona.padang.go.id/)
+-   [Pemerintah Kota Padang Panjang](https://corona.padangpanjang.go.id/)
+-   [Pemerintah Kota Payakumbuh](https://covid19.payakumbuhkota.go.id/)
+-   [Pemerintah Kota Solok](https://corona.solokkota.go.id/)
 
 ### SUMATERA SELATAN
 
@@ -223,6 +226,7 @@
 -   [Pemerintah Provinsi Sumatera Utara](http://covid19.sumutprov.go.id/)
 -   [Pemerintah Kabupaten Deli Serdang](http://covid19.deliserdangkab.go.id/)
 -   [Pemerintah Kabupaten Langkat](https://coronainfo.langkatkab.go.id/)
+-   [Pemerintah Kota Tebing Tinggi](https://covid19.tebingtinggikota.go.id/)
 
 ### YOGYAKARTA
 
@@ -232,8 +236,6 @@
 -   [Pemerintah Kabupaten Gunungkidul](https://corona.gunungkidulkab.go.id/)
 -   [Pemerintah Kabupaten Kulon Progo](https://kulonprogokab.go.id/corona/)
 -   [Pemerintah Kabupaten Sleman](https://corona.slemankab.go.id/)
-
-
 
 
 ### LAINNYA

@@ -537,6 +537,15 @@
       }, {
         "name": "Pemerintah Kota Padang",
         "url": "http://corona.padang.go.id/"
+      }, {
+        "name": "Pemerintah Kota Padang Panjang",
+        "url": "https://corona.padangpanjang.go.id/"
+      }, {
+        "name": "Pemerintah Kota Payakumbuh",
+        "url": "https://covid19.payakumbuhkota.go.id/"
+      }, {
+        "name": "Pemerintah Kota Solok",
+        "url": "https://corona.solokkota.go.id/"
       }]
     }
   }, {
@@ -567,6 +576,9 @@
       }, {
         "name": "Pemerintah Kabupaten Langkat",
         "url": "https://coronainfo.langkatkab.go.id/"
+      }, {
+        "name": "Pemerintah Kota Tebing Tinggi",
+        "url": "https://covid19.tebingtinggikota.go.id/"
       }]
     }
   }, {
