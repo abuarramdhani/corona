@@ -931,6 +931,30 @@
         "name_slug": "provinsi-kepulauan-riau",
         "url": "https://corona.kepriprov.go.id/"
       }
+    }, {
+      "attributes": {
+        "group": "KEPULAUAN RIAU",
+        "group_slug": "kepulauan-riau",
+        "name": "Kabupaten Bintan",
+        "name_slug": "kabupaten-bintan",
+        "url": "https://gugustugas.bintankab.go.id/"
+      }
+    }, {
+      "attributes": {
+        "group": "KEPULAUAN RIAU",
+        "group_slug": "kepulauan-riau",
+        "name": "Kabupaten Kepulauan Anambas",
+        "name_slug": "kabupaten-kepulauan-anambas",
+        "url": "https://bpbd.anambaskab.go.id/"
+      }
+    }, {
+      "attributes": {
+        "group": "KEPULAUAN RIAU",
+        "group_slug": "kepulauan-riau",
+        "name": "Kabupaten Kabupaten Natuna",
+        "name_slug": "kabupaten-kabupaten-natuna",
+        "url": "https://covid19.natunakab.go.id/"
+      }
     },
     {
       "attributes": {

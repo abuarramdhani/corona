@@ -158,6 +158,9 @@
 ### KEPULAUAN RIAU
 
 -   [Pemerintah Provinsi Kepulauan Riau](https://corona.kepriprov.go.id/)
+-   [Pemerintah Kabupaten Bintan](https://gugustugas.bintankab.go.id/)
+-   [Pemerintah Kabupaten Kepulauan Anambas](https://bpbd.anambaskab.go.id/)
+-   [Pemerintah Kabupaten Natuna](https://covid19.natunakab.go.id/)
 -   [Pemerintah Kota Batam](https://lawancorona.batam.go.id/)
 
 ### LAMPUNG

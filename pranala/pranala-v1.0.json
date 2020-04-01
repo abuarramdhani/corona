@@ -412,6 +412,15 @@
         "name": "Pemerintah Provinsi Kepulauan Riau",
         "url": "https://corona.kepriprov.go.id/"
       }, {
+        "name": "Pemerintah Kabupaten Bintan",
+        "url": "https://gugustugas.bintankab.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Kepulauan Anambas",
+        "url": "https://bpbd.anambaskab.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Natuna",
+        "url": "https://covid19.natunakab.go.id/"
+      }, {
         "name": "Pemerintah Kota Batam",
         "url": "https://lawancorona.batam.go.id"
       }]
