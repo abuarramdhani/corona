@@ -205,11 +205,17 @@
 
 -   [Pemerintah Provinsi Sumatera Barat](https://corona.sumbarprov.go.id/)
 -   [Pemerintah Kabupaten Agam](http://covid19.agamkab.go.id/)
+-   [Pemerintah Kabupaten Lima Puluh Kota](https://covid19.limapuluhkotakab.go.id/)
+-   [Pemerintah Kabupaten Padang Pariaman](https://covid19.padangpariamankab.go.id/)
+-   [Pemerintah Kabupaten Pasaman](http://corona.pasamankab.go.id/)
+-   [Pemerintah Kabupaten Pasaman Barat](https://corona.pasamanbaratkab.go.id/)
+-   [Pemerintah Kabupaten Pesisir Selatan](https://covid19.pesisirselatankab.go.id/)
 -   [Pemerintah Kota Padang](http://corona.padang.go.id/)
 
 ### SUMATERA SELATAN
 
 -   [Pemerintah Provinsi Sumatera Selatan](http://corona.sumselprov.go.id/index.php?module=home&id=1)
+-   [Pemerintah Kabupaten Musi Banyuasin](https://covid19.mubakab.go.id/)
 -   [Pemerintah Kota Palembang](https://hallo.palembang.go.id/Corona)
 
 ### SUMATERA UTARA
