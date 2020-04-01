@@ -697,6 +697,14 @@
         "name_slug": "kabupaten-banyuwangi",
         "url": "https://corona.banyuwangikab.go.id/"
       }
+    }, {
+      "attributes": {
+        "group": "JAWA TIMUR",
+        "group_slug": "jawa-timur",
+        "name": "Kabupaten Blitar",
+        "name_slug": "kabupaten-blitar",
+        "url": "https://tanggapcorona.blitarkab.go.id/"
+      }
     },
     {
       "attributes": {
@@ -705,6 +713,14 @@
         "name": "Kabupaten Gresik",
         "name_slug": "kabupaten-gresik",
         "url": "https://satgascovid19.gresikkab.go.id/"
+      }
+    }, {
+      "attributes": {
+        "group": "JAWA TIMUR",
+        "group_slug": "jawa-timur",
+        "name": "Kabupaten Jember",
+        "name_slug": "kabupaten-jember",
+        "url": "http://www.jemberkab.go.id/data-covid-19/"
       }
     },
     {
@@ -758,7 +774,7 @@
         "group_slug": "jawa-timur",
         "name": "Kabupaten Magetan",
         "name_slug": "kabupaten-magetan",
-        "url": "http://kominfo.magetan.go.id/"
+        "url": "http://kominfo.magetan.go.id/id/artikel"
       }
     },
     {
@@ -796,6 +812,14 @@
         "name_slug": "kabupaten-pacitan",
         "url": "https://covid19.pacitankab.go.id/"
       }
+    }, {
+      "attributes": {
+        "group": "JAWA TIMUR",
+        "group_slug": "jawa-timur",
+        "name": "Kabupaten Pamekasan",
+        "name_slug": "kabupaten-pamekasan",
+        "url": "http://covid19.pamekasankab.go.id/"
+      }
     },
     {
       "attributes": {
@@ -804,6 +828,14 @@
         "name": "Kabupaten Ponorogo",
         "name_slug": "kabupaten-ponorogo",
         "url": "https://ponorogo.go.id/corona/"
+      }
+    }, {
+      "attributes": {
+        "group": "JAWA TIMUR",
+        "group_slug": "jawa-timur",
+        "name": "Kabupaten Sampang",
+        "name_slug": "kabupaten-sampang",
+        "url": "https://sampangkab.go.id/covid-19/"
       }
     },
     {
@@ -823,6 +855,22 @@
         "name_slug": "kabupaten-tuban",
         "url": "https://tubankab.go.id/page/informasi-tentang-virus-corona-covid-19"
       }
+    }, {
+      "attributes": {
+        "group": "JAWA TIMUR",
+        "group_slug": "jawa-timur",
+        "name": "Kabupaten Tulungagung",
+        "name_slug": "kabupaten-tulungagung",
+        "url": "https://covid19.tulungagung.go.id/"
+      }
+    }, {
+      "attributes": {
+        "group": "JAWA TIMUR",
+        "group_slug": "jawa-timur",
+        "name": "Kota Batu",
+        "name_slug": "kota-batu",
+        "url": "https://covid19.batukota.go.id/"
+      }
     },
     {
       "attributes": {
@@ -831,6 +879,14 @@
         "name": "Kota Kediri",
         "name_slug": "kota-kediri",
         "url": "https://corona.kedirikota.go.id/"
+      }
+    }, {
+      "attributes": {
+        "group": "JAWA TIMUR",
+        "group_slug": "jawa-timur",
+        "name": "Kota Madiun",
+        "name_slug": "kota-madiun",
+        "url": "http://covid19.madiunkota.go.id/"
       }
     },
     {
