@@ -82,6 +82,10 @@
       padding-bottom: 2rem;
       font-size: 0.8rem;
     }
+
+    .font-06 {
+      font-size: 0.6rem;
+    }
   </style>
 </head>
 
@@ -105,7 +109,7 @@
       <div class="col-sm">
         <div class="card border-dark">
           <div class="card-header .no-gutters">
-            <input type="text" class="form-control" placeholder="gunakan huruf kecil untuk mencari nama provinsi, kota, dan kabupaten" aria-label="cari" aria-describedby="basic-addon1" v-model="searchString" autofocus>
+            <input type="text" class="form-control" placeholder="cari nama provinsi, kota, dan kabupaten" v-model="searchString" autofocus>
           </div>
           <div class="card-body text-dark">
             <ul>
@@ -126,13 +130,23 @@
     <div class="row">
       <div class="col-sm">
         <div class="footer">
+            <div>
+                <span class="badge badge-secondary">Diperbarui</span>
+                <span class="font-06" v-html="date"></span>
+            </div>
+            <div>
+                <span class="badge badge-secondary">Pranala</span>
+                <span class="font-06" v-html="message"></span>
+            </div>
+            <div>
+                <span class="badge badge-primary">Info</span>
+                <span class="font-06">
+                  Beri tahu kami bila anda mengetahui situs tanggap COVID-19. Hubungi kami melalui telegram: <code><a target="_blank" href="https://t.me/muhammad_hanif">@muhammadhanif</a></code> atau email: <code><a target="_blank" href="mailto:moehammadhanif@gmail.com">moehammadhanif@gmail.com</a></code>.
+                </span>
+            </div>
+
           <blockquote>
-            <div v-html="'<code>Diperbarui:</code> ' + date"></div>
-            <div v-html="'<code>Pranala:</code> ' + message"></div>
-          </blockquote>
-          <blockquote>
-            Beri tahu kami bila anda mengetahui situs tanggap COVID-19. Hubungi kami melalui telegram: <code><a target="_blank" href="https://t.me/muhammad_hanif">@muhammadhanif</a></code> atau email: <code><a target="_blank"
-                href="mailto:moehammadhanif@gmail.com">moehammadhanif@gmail.com</a></code>.
+
           </blockquote>
         </div>
       </div>
