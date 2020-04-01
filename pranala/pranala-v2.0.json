@@ -1019,7 +1019,7 @@
         "group_slug": "sulawesi-tenggara",
         "name": "Provinsi Sulawesi Tenggara",
         "name_slug": "provinsi-sulawesi-tenggara",
-        "url": "http://corona.sultraprov.go.id//"
+        "url": "http://corona.sultraprov.go.id/"
       }
     },
     {
@@ -1057,6 +1057,46 @@
         "name_slug": "kabupaten-agam",
         "url": "http://covid19.agamkab.go.id/"
       }
+    }, {
+      "attributes": {
+        "group": "SUMATERA BARAT",
+        "group_slug": "sumatera-barat",
+        "name": "Kabupaten Lima Puluh Kota",
+        "name_slug": "kabupaten-lima-puluh-kota",
+        "url": "https://covid19.limapuluhkotakab.go.id/"
+      }
+    }, {
+      "attributes": {
+        "group": "SUMATERA BARAT",
+        "group_slug": "sumatera-barat",
+        "name": "Kabupaten Padang Pariaman",
+        "name_slug": "kabupaten-padang-pariaman",
+        "url": "https://covid19.padangpariamankab.go.id/"
+      }
+    }, {
+      "attributes": {
+        "group": "SUMATERA BARAT",
+        "group_slug": "sumatera-barat",
+        "name": "Kabupaten Pasaman",
+        "name_slug": "kabupaten-pasaman",
+        "url": "http://corona.pasamankab.go.id/"
+      }
+    }, {
+      "attributes": {
+        "group": "SUMATERA BARAT",
+        "group_slug": "sumatera-barat",
+        "name": "Kabupaten Pasaman Barat",
+        "name_slug": "kabupaten-pasaman-barat",
+        "url": "https://corona.pasamanbaratkab.go.id/"
+      }
+    }, {
+      "attributes": {
+        "group": "SUMATERA BARAT",
+        "group_slug": "sumatera-barat",
+        "name": "Kabupaten Pesisir Selatan",
+        "name_slug": "kabupaten-pesisir-selatan",
+        "url": "https://covid19.pesisirselatankab.go.id/"
+      }
     },
     {
       "attributes": {
@@ -1074,6 +1114,14 @@
         "name": "Provinsi Sumatera Selatan",
         "name_slug": "provinsi-sumatera-selatan",
         "url": "http://corona.sumselprov.go.id/index.php?module=home&id=1"
+      }
+    }, {
+      "attributes": {
+        "group": "SUMATERA SELATAN",
+        "group_slug": "sumatera-selatan",
+        "name": "Kabupaten Musi Banyuasin",
+        "name_slug": "kabupaten-musi-banyuasin",
+        "url": "https://covid19.mubakab.go.id/"
       }
     },
     {
@@ -1106,7 +1154,7 @@
       "attributes": {
         "group": "SUMATERA UTARA",
         "group_slug": "sumatera-utara",
-        "name": "Pemerintah Kabupaten Langkat",
+        "name": "Kabupaten Langkat",
         "name_slug": "kabupaten-langkat",
         "url": "https://coronainfo.langkatkab.go.id/"
       }

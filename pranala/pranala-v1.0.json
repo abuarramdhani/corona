@@ -494,7 +494,7 @@
       "slug": "sulawesi-tenggara",
       "lists": [{
         "name": "Pemerintah Provinsi Sulawesi Tenggara",
-        "url": "http://corona.sultraprov.go.id//"
+        "url": "http://corona.sultraprov.go.id/"
       }]
     }
   }, {
@@ -520,6 +520,21 @@
         "name": "Pemerintah Kabupaten Agam",
         "url": "http://covid19.agamkab.go.id/"
       }, {
+        "name": "Pemerintah Kabupaten Lima Puluh Kota",
+        "url": "https://covid19.limapuluhkotakab.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Padang Pariaman",
+        "url": "https://covid19.padangpariamankab.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Pasaman",
+        "url": "http://corona.pasamankab.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Pasaman Barat",
+        "url": "https://corona.pasamanbaratkab.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Pesisir Selatan",
+        "url": "https://covid19.pesisirselatankab.go.id/"
+      }, {
         "name": "Pemerintah Kota Padang",
         "url": "http://corona.padang.go.id/"
       }]
@@ -531,6 +546,9 @@
       "lists": [{
         "name": "Pemerintah Provinsi Sumatera Selatan",
         "url": "http://corona.sumselprov.go.id/index.php?module=home&id=1"
+      }, {
+        "name": "Pemerintah Kabupaten Musi Banyuasin",
+        "url": "https://covid19.mubakab.go.id/"
       }, {
         "name": "Pemerintah Kota Palembang",
         "url": "https://hallo.palembang.go.id/Corona"
