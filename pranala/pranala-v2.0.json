@@ -1106,6 +1106,30 @@
         "name_slug": "kota-padang",
         "url": "http://corona.padang.go.id/"
       }
+    }, {
+      "attributes": {
+        "group": "SUMATERA BARAT",
+        "group_slug": "sumatera-barat",
+        "name": "Kota Padang Panjang",
+        "name_slug": "kota-padang-panjang",
+        "url": "https://corona.padangpanjang.go.id/"
+      }
+    }, {
+      "attributes": {
+        "group": "SUMATERA BARAT",
+        "group_slug": "sumatera-barat",
+        "name": "Kota Payakumbuh",
+        "name_slug": "kota-payakumbuh",
+        "url": "https://covid19.payakumbuhkota.go.id/"
+      }
+    }, {
+      "attributes": {
+        "group": "SUMATERA BARAT",
+        "group_slug": "sumatera-barat",
+        "name": "Kota Solok",
+        "name_slug": "kota-solok",
+        "url": "https://corona.solokkota.go.id/"
+      }
     },
     {
       "attributes": {
@@ -1157,6 +1181,14 @@
         "name": "Kabupaten Langkat",
         "name_slug": "kabupaten-langkat",
         "url": "https://coronainfo.langkatkab.go.id/"
+      }
+    }, {
+      "attributes": {
+        "group": "SUMATERA UTARA",
+        "group_slug": "sumatera-utara",
+        "name": "Kota Tebing Tinggi",
+        "name_slug": "kota-tebing-tinggi",
+        "url": "https://covid19.tebingtinggikota.go.id/"
       }
     },
     {
