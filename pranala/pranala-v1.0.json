@@ -292,8 +292,14 @@
         "name": "Pemerintah Kabupaten Banyuwangi",
         "url": "https://corona.banyuwangikab.go.id/"
       }, {
+        "name": "Pemerintah Kabupaten Blitar",
+        "url": "https://tanggapcorona.blitarkab.go.id/"
+      }, {
         "name": "Pemerintah Kabupaten Gresik",
         "url": "https://satgascovid19.gresikkab.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Jember",
+        "url": "http://www.jemberkab.go.id/data-covid-19/"
       }, {
         "name": "Pemerintah Kabupaten Jombang",
         "url": "https://dinkes.jombangkab.go.id/data-covid-19-kabupaten-jombang"
@@ -311,7 +317,7 @@
         "url": "https://madiunkab.go.id/"
       }, {
         "name": "Pemerintah Kabupaten Magetan",
-        "url": "http://kominfo.magetan.go.id/"
+        "url": "http://kominfo.magetan.go.id/id/artikel/"
       }, {
         "name": "Pemerintah Kabupaten Malang",
         "url": "http://satgascovid19.malangkab.go.id/"
@@ -325,8 +331,14 @@
         "name": "Pemerintah Kabupaten Pacitan",
         "url": "https://covid19.pacitankab.go.id/"
       }, {
+        "name": "Pemerintah Kabupaten Pamekasan",
+        "url": "http://covid19.pamekasankab.go.id/"
+      }, {
         "name": "Pemerintah Kabupaten Ponorogo",
         "url": "https://ponorogo.go.id/corona/"
+      }, {
+        "name": "Pemerintah Kabupaten Sampang",
+        "url": "https://sampangkab.go.id/covid-19/"
       }, {
         "name": "Pemerintah Kabupaten Sidoarjo",
         "url": "https://covid19.sidoarjokab.go.id/"
@@ -334,8 +346,17 @@
         "name": "Pemerintah Kabupaten Tuban",
         "url": "https://tubankab.go.id/page/informasi-tentang-virus-corona-covid-19"
       }, {
+        "name": "Pemerintah Kabupaten Tulungagung",
+        "url": "https://covid19.tulungagung.go.id/"
+      }, {
+        "name": "Pemerintah Kota Batu",
+        "url": "https://covid19.batukota.go.id/"
+      }, {
         "name": "Pemerintah Kota Kediri",
         "url": "https://corona.kedirikota.go.id/"
+      }, {
+        "name": "Pemerintah Kota Madiun",
+        "url": "http://covid19.madiunkota.go.id/"
       }, {
         "name": "Pemerintah Kota Malang",
         "url": "http://coronadetektor.malangkota.go.id/"
