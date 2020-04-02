@@ -516,6 +516,39 @@
       "lists": [{
         "name": "Pemerintah Provinsi Sulawesi Selatan",
         "url": "https://covid19.sulselprov.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Bantaeng",
+        "url": "http://covid19.bantaengkab.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Barru",
+        "url": "http://covid19.barrukab.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Bone",
+        "url": "https://bone.go.id/category/virus-corona/corona-terkini/"
+      }, {
+        "name": "Pemerintah Kabupaten Bulukumba",
+        "url": "http://covid19.bulukumbakab.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Enrekang",
+        "url": "http://covid19.enrekangkab.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Gowa",
+        "url": "http://covid19.gowakab.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Kepulauan Selayar",
+        "url": "http://covid19.kepulauanselayarkab.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Luwu Timur",
+        "url": "http://covid19.luwutimurkab.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Maros",
+        "url": "https://maroskab.go.id/covid19/"
+      }, {
+        "name": "Pemerintah Kabupaten Pinrang",
+        "url": "https://covid19.pinrangkab.go.id/"
+      }, {
+        "name": "Pemerintah Kabupaten Sinjai",
+        "url": "https://covid19.sinjaikab.go.id/"
       }]
     }
   }, {

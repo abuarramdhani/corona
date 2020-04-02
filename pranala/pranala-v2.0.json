@@ -1092,6 +1092,94 @@
         "name_slug": "provinsi-sulawesi-selatan",
         "url": "https://covid19.sulselprov.go.id/"
       }
+    }, {
+      "attributes": {
+        "group": "SULAWESI SELATAN",
+        "group_slug": "sulawesi-selatan",
+        "name": "Kabupaten Bantaeng",
+        "name_slug": "kabupaten-bantaeng",
+        "url": "http://covid19.bantaengkab.go.id/"
+      }
+    }, {
+      "attributes": {
+        "group": "SULAWESI SELATAN",
+        "group_slug": "sulawesi-selatan",
+        "name": "Kabupaten Barru",
+        "name_slug": "kabupaten-barru",
+        "url": "http://covid19.barrukab.go.id/"
+      }
+    }, {
+      "attributes": {
+        "group": "SULAWESI SELATAN",
+        "group_slug": "sulawesi-selatan",
+        "name": "Kabupaten Bone",
+        "name_slug": "kabupaten-bone",
+        "url": "https://bone.go.id/category/virus-corona/corona-terkini/"
+      }
+    }, {
+      "attributes": {
+        "group": "SULAWESI SELATAN",
+        "group_slug": "sulawesi-selatan",
+        "name": "Kabupaten Bulukumba",
+        "name_slug": "kabupaten-bulukumba",
+        "url": "http://covid19.bulukumbakab.go.id/"
+      }
+    }, {
+      "attributes": {
+        "group": "SULAWESI SELATAN",
+        "group_slug": "sulawesi-selatan",
+        "name": "Kabupaten Enrekang",
+        "name_slug": "kabupaten-enrekang",
+        "url": "http://covid19.enrekangkab.go.id/"
+      }
+    }, {
+      "attributes": {
+        "group": "SULAWESI SELATAN",
+        "group_slug": "sulawesi-selatan",
+        "name": "Kabupaten Gowa",
+        "name_slug": "kabupaten-gowa",
+        "url": "http://covid19.gowakab.go.id/"
+      }
+    }, {
+      "attributes": {
+        "group": "SULAWESI SELATAN",
+        "group_slug": "sulawesi-selatan",
+        "name": "Kabupaten Kepulauan Selayar",
+        "name_slug": "kabupaten-kepulauan-selayar",
+        "url": "http://covid19.kepulauanselayarkab.go.id/"
+      }
+    }, {
+      "attributes": {
+        "group": "SULAWESI SELATAN",
+        "group_slug": "sulawesi-selatan",
+        "name": "Kabupaten Luwu Timur",
+        "name_slug": "kabupaten-luwu-timur",
+        "url": "http://covid19.luwutimurkab.go.id/"
+      }
+    }, {
+      "attributes": {
+        "group": "SULAWESI SELATAN",
+        "group_slug": "sulawesi-selatan",
+        "name": "Kabupaten Maros",
+        "name_slug": "kabupaten-maros",
+        "url": "https://maroskab.go.id/covid19/"
+      }
+    }, {
+      "attributes": {
+        "group": "SULAWESI SELATAN",
+        "group_slug": "sulawesi-selatan",
+        "name": "Kabupaten Pinrang",
+        "name_slug": "kabupaten-pinrang",
+        "url": "https://covid19.pinrangkab.go.id/"
+      }
+    }, {
+      "attributes": {
+        "group": "SULAWESI SELATAN",
+        "group_slug": "sulawesi-selatan",
+        "name": "Kabupaten Sinjai",
+        "name_slug": "kabupaten-sinjai",
+        "url": "https://covid19.sinjaikab.go.id/"
+      }
     },
     {
       "attributes": {
