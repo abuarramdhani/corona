@@ -208,7 +208,10 @@
 -   [Pemerintah Kabupaten Enrekang](http://covid19.enrekangkab.go.id/)
 -   [Pemerintah Kabupaten Gowa](http://covid19.gowakab.go.id/)
 -   [Pemerintah Kabupaten Kepulauan Selayar](http://covid19.kepulauanselayarkab.go.id/)
-
+-   [Pemerintah Kabupaten Luwu Timur](http://covid19.luwutimurkab.go.id/)
+-   [Pemerintah Kabupaten Maros](https://maroskab.go.id/covid19/)
+-   [Pemerintah Kabupaten Pinrang](https://covid19.pinrangkab.go.id/)
+-   [Pemerintah Kabupaten Sinjai](https://covid19.sinjaikab.go.id/)
 
 ### SULAWESI UTARA TENGGARA
 
