@@ -201,6 +201,14 @@
 ### SULAWESI SELATAN
 
 -   [Pemerintah Provinsi Sulawesi Selatan](https://covid19.sulselprov.go.id/)
+-   [Pemerintah Kabupaten Bantaeng](http://covid19.bantaengkab.go.id/)
+-   [Pemerintah Kabupaten Barru](http://covid19.barrukab.go.id/)
+-   [Pemerintah Kabupaten Bone](https://bone.go.id/category/virus-corona/corona-terkini/)
+-   [Pemerintah Kabupaten Bulukumba](http://covid19.bulukumbakab.go.id/)
+-   [Pemerintah Kabupaten Enrekang](http://covid19.enrekangkab.go.id/)
+-   [Pemerintah Kabupaten Gowa](http://covid19.gowakab.go.id/)
+-   [Pemerintah Kabupaten Kepulauan Selayar](http://covid19.kepulauanselayarkab.go.id/)
+
 
 ### SULAWESI UTARA TENGGARA
 
